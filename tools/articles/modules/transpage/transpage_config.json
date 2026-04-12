@@ -10,49 +10,35 @@
   "retry_attempts": 3,
   "retry_delay": 5,
 
-  "languages": ["ru", "pt", "de", "es", "ja", "ko", "fr"],
+  "languages": ["en", "pt", "es", "ja"],
   "default_language": "en",
   "output_dir": "src/locales/",
 
   "use_value_extraction": false,
 
   "protected_terms": {
-    "game_names": ["Lucid Blocks"],
+    "game_names": [
+      "Summon Heroes",
+      "Summon Heroes Wiki",
+      "Wiki de Invocar Heróis",
+      "Wiki de Invocar Héroes",
+      "英雄を召喚攻略Wiki"
+    ],
     "character_names": [],
-    "technical_terms": [
-      "Apotheosis",
-      "Steam",
-      "Steam Deck",
-      "Vulkan",
-      "Fog Meadow",
-      "Heaven",
-      "Bubblebear",
-      "Angel",
-      "Hookshot",
-      "Bee Glider",
-      "Psychedelic",
-      "Surreal"
-    ]
+    "technical_terms": []
   },
 
   "game_names": {
-    "en": "Lucid Blocks",
-    "ru": "Lucid Blocks",
-    "pt": "Lucid Blocks",
-    "de": "Lucid Blocks",
-    "es": "Lucid Blocks",
-    "ja": "Lucid Blocks",
-    "ko": "Lucid Blocks",
-    "fr": "Lucid Blocks"
+    "en": "Summon Heroes Wiki",
+    "pt": "Wiki de Invocar Heróis",
+    "es": "Wiki de Invocar Héroes",
+    "ja": "英雄を召喚攻略Wiki"
   },
 
   "lang_names": {
-    "ru": "Russian",
+    "en": "English",
     "pt": "Portuguese (Brazil)",
-    "de": "German",
     "es": "Spanish (Latin America)",
-    "ja": "Japanese",
-    "ko": "Korean",
-    "fr": "French"
+    "ja": "Japanese"
   }
 }
