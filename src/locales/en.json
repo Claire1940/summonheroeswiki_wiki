@@ -10,7 +10,14 @@
       "twitterDescription": "Summon Heroes Wiki with codes, tier lists, beginner setup, PvP rankings, Tournament prep, and banner planning."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "tierList": "Tier List",
+    "units": "Units",
+    "farming": "Farming",
+    "update": "Update"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -1037,125 +1044,125 @@
     "disclaimer": "Unofficial fan-made resource website for Roblox Summon Heroes."
   },
   "pages": {
-    "guides": {
-      "title": "Summon Heroes Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Summon Heroes Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Summon Heroes guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "codes": {
+      "title": "Summon Heroes Codes",
+      "description": "Latest active Summon Heroes code rewards for gems, gold, and summon tickets, with quick redemption steps and daily tracking.",
+      "metaTitle": "Summon Heroes Codes - Free Gems, Gold, and Tickets",
+      "metaDescription": "Find active Summon Heroes codes, claim free gems and summon tickets, and follow fast redemption steps with daily update tracking.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Summon Heroes Codes?",
+      "whatIsDescription": "Summon Heroes codes are limited-time redeem strings released during milestones and events. They grant free currencies and boosts that speed up roster growth.",
+      "why": "Why check Summon Heroes Codes daily?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Claim Daily Free Rewards",
+        "step1Description": "Use current codes to collect gems, gold, and summon tickets without spending Robux.",
+        "step2Title": "Stay Ahead of Expiry Windows",
+        "step2Description": "Most Summon Heroes code drops expire quickly, so fast redemption protects your rewards.",
+        "step3Title": "Boost Team Progression",
+        "step3Description": "Extra resources help you summon stronger units, upgrade faster, and clear harder stages."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Summon Heroes Codes"
     },
-    "crafting": {
-      "title": "Summon Heroes Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Summon Heroes Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Summon Heroes Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "guide": {
+      "title": "Summon Heroes Guide",
+      "description": "Step-by-step Summon Heroes guides covering beginner setup, banner decisions, team building, and progression strategy from early to late game.",
+      "metaTitle": "Summon Heroes Guide - Beginner to Advanced Progression",
+      "metaDescription": "Read Summon Heroes guides for core mechanics, team-building paths, and efficient progression tactics for every stage of the game.",
+      "categoryLabel": "GAME GUIDE",
+      "whatIs": "What is the Summon Heroes Guide category?",
+      "whatIsDescription": "This section explains core systems such as summoning, team synergy, map pacing, and resource planning so players can progress with clear priorities.",
+      "why": "Why read Summon Heroes Guide articles?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Learn Core Systems Faster",
+        "step1Description": "Understand banners, upgrades, and team roles early to avoid common setup mistakes.",
+        "step2Title": "Build Better Teams",
+        "step2Description": "Follow tested combinations and placement logic for smoother PvE clears.",
+        "step3Title": "Progress With a Clear Plan",
+        "step3Description": "Use practical routes for leveling, map pushes, and milestone unlocks."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Summon Heroes Guides"
     },
-    "items": {
-      "title": "Summon Heroes Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Summon Heroes Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Summon Heroes including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "tier-list": {
+      "title": "Summon Heroes Tier List",
+      "description": "Current Summon Heroes tier list rankings for key units, role value, and meta strength across campaign, boss waves, and competitive content.",
+      "metaTitle": "Summon Heroes Tier List - Best Units by Meta Role",
+      "metaDescription": "Use the latest Summon Heroes tier list to compare top units by role, scaling, and overall impact across major game modes.",
+      "categoryLabel": "META RANKINGS",
+      "whatIs": "What is the Summon Heroes Tier List?",
+      "whatIsDescription": "The Summon Heroes tier list groups units by performance impact, including damage output, utility, consistency, and synergy in current patches.",
+      "why": "Why use the Summon Heroes Tier List?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Prioritize High-Value Units",
+        "step1Description": "Invest shards and upgrade materials into units that carry more maps and events.",
+        "step2Title": "Adapt to Meta Changes",
+        "step2Description": "Track ranking shifts after balance changes and new unit releases.",
+        "step3Title": "Optimize Team Roles",
+        "step3Description": "Balance DPS, control, and support based on tiered role performance."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Summon Heroes Tier Lists"
     },
-    "biomes": {
-      "title": "Summon Heroes Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Summon Heroes Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Summon Heroes biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "units": {
+      "title": "Summon Heroes Units",
+      "description": "Complete Summon Heroes unit guides with stats, role breakdowns, upgrade priorities, and practical team-fit recommendations.",
+      "metaTitle": "Summon Heroes Units - Stats, Roles, and Build Priorities",
+      "metaDescription": "Browse Summon Heroes units with detailed role analysis, scaling notes, and upgrade paths for stronger team composition.",
+      "categoryLabel": "UNIT DATABASE",
+      "whatIs": "What are Summon Heroes Units pages?",
+      "whatIsDescription": "This category provides hero-level breakdowns for Summon Heroes units, including strengths, limits, skill focus, and where each unit performs best.",
+      "why": "Why compare Summon Heroes Units?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Choose Better Pull Targets",
+        "step1Description": "Know which units fit your roster goals before spending gems or tickets.",
+        "step2Title": "Improve Upgrade Efficiency",
+        "step2Description": "Focus investment on units that scale well in your primary modes.",
+        "step3Title": "Refine Team Synergy",
+        "step3Description": "Pair units by role interaction instead of raw rarity alone."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Summon Heroes Units"
     },
-    "building": {
-      "title": "Summon Heroes Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Summon Heroes Building - Qualia & Base Construction",
-      "metaDescription": "Master Summon Heroes building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "farming": {
+      "title": "Summon Heroes Farming",
+      "description": "Efficient Summon Heroes farming routes for XP, gold, shards, and progression materials, including AFK loops and stage selection tips.",
+      "metaTitle": "Summon Heroes Farming - XP, Gold, and Material Routes",
+      "metaDescription": "Optimize Summon Heroes farming with practical stage routes, AFK setups, and resource priorities for faster account growth.",
+      "categoryLabel": "FARMING ROUTES",
+      "whatIs": "What is Summon Heroes Farming?",
+      "whatIsDescription": "Summon Heroes farming guides focus on repeatable routines for leveling, currency gain, and material collection with high time efficiency.",
+      "why": "Why follow Summon Heroes Farming routes?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Level Faster",
+        "step1Description": "Use proven stage loops to raise account and unit levels with less downtime.",
+        "step2Title": "Maximize Resource Yield",
+        "step2Description": "Target maps and modes that provide better rewards per run.",
+        "step3Title": "Support Long-Term Progress",
+        "step3Description": "Maintain steady income for summons, upgrades, and late-game team tuning."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Summon Heroes Farming Guides"
     },
-    "support": {
-      "title": "Summon Heroes Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Summon Heroes Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Summon Heroes including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "update": {
+      "title": "Summon Heroes Updates",
+      "description": "Summon Heroes patch and event update coverage with new units, map changes, feature rollouts, and impact summaries for active players.",
+      "metaTitle": "Summon Heroes Updates - Patch Notes and Event Changes",
+      "metaDescription": "Track Summon Heroes updates with clear breakdowns of new units, mode changes, and event rewards that affect gameplay decisions.",
+      "categoryLabel": "PATCH TRACKER",
+      "whatIs": "What are Summon Heroes Updates pages?",
+      "whatIsDescription": "This section tracks Summon Heroes update content, including major patches, live events, new systems, and gameplay adjustments.",
+      "why": "Why follow Summon Heroes Updates?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Understand New Content Quickly",
+        "step1Description": "Get a fast read on what changed after each patch or event launch.",
+        "step2Title": "Adjust Teams and Plans",
+        "step2Description": "React to balance shifts and new unit releases before your next grind session.",
+        "step3Title": "Capture Event Opportunities",
+        "step3Description": "Prioritize time-limited content and rewards while they are available."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Summon Heroes Updates"
     }
   }
 }
