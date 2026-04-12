@@ -26,7 +26,7 @@ const HOME_VIDEO = {
 
 const HOME_TITLE = 'Summon Heroes Wiki - Codes, Tier List & Roblox Guides'
 const HOME_DESCRIPTION =
-  'Summon Heroes Wiki with updated codes, tier lists, beginner routes, starter units, banner planning, PvP and Tournament picks, dungeon farming, and endgame progression guides.'
+  'Summon Heroes Wiki with updated codes, tier lists, beginner routes, banner planning, unit-role guides, upgrade priorities, endgame progression, and update log coverage for Roblox players.'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -45,10 +45,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       'tier list',
       'starter units',
       'banner guide',
+      'upgrade guide',
+      'best units by role',
       'dungeons',
       'PvP',
       'Tournament',
       'traits',
+      'update log',
     ],
     alternates: buildLanguageAlternates('/', locale as Locale, siteUrl),
     openGraph: {

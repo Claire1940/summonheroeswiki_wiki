@@ -696,119 +696,288 @@
     },
     "lucidBlocksSteamDeckAndController": {
       "title": "Summon Heroes Upgrade Guide",
-      "displayType": "accordion",
-      "intro": "This Summon Heroes upgrade guide keeps resource spending efficient from early to endgame.",
-      "faqs": [
+      "displayType": "stepByStepCards",
+      "eyebrow": "Progression",
+      "subtitle": "Upgrade smarter from early game to endgame by spending materials where they change your account the most.",
+      "intro": "The most efficient Summon Heroes route is to keep your core team functional early, save hard for better banners, and commit major materials only when your roster quality justifies it.",
+      "items": [
         {
-          "question": "What is the first Summon Heroes upgrade priority?",
-          "answer": "Upgrade your main Summon Heroes carry first, then the frontline and key support unit that enables it."
+          "step": 1,
+          "title": "Carry the early game with efficient starter value",
+          "description": "Use proven beginner-friendly units to clear Story and unlock more reward sources before making expensive upgrade decisions.",
+          "highlights": [
+            "Build around stable starters like Mermaid, Bear Tamer, Slime Summoner, Specter, Wind Samurai, Necromancer, and Construct.",
+            "Prioritize progression speed and unlocks first so your account opens more farming lanes early.",
+            "Early consistency beats chasing perfect teams too soon."
+          ]
         },
         {
-          "question": "How should I handle duplicate Summon Heroes units?",
-          "answer": "Use Summon Heroes duplicates on units that unlock clear power spikes, not on temporary roster fillers."
+          "step": 2,
+          "title": "Save premium currency for banners instead of weak pulls",
+          "description": "Do not spread Gems across low-value summons. Banner discipline creates stronger long-term growth than forcing short-term progress.",
+          "highlights": [
+            "Keep Gems for limited banners that materially improve your core roster.",
+            "Spend utility resources in this order: inventory space, limited banners, then rare evolution refreshes.",
+            "Treat rapid banner rotations as planning windows, not panic-spend triggers."
+          ]
         },
         {
-          "question": "When should I start rerolling Summon Heroes traits?",
-          "answer": "Begin Summon Heroes trait rerolls after your primary team reaches stable clear thresholds."
+          "step": 3,
+          "title": "Prioritize high-impact units before broad roster upgrades",
+          "description": "Invest in units that hold value across multiple modes first, then add mode-specific picks around that core.",
+          "highlights": [
+            "Top long-term anchors include Reaper, Emperor, Seraph, B-4:R B.E.T, and Divine.",
+            "Use separate PvE and PvP priorities once your account can support specialization.",
+            "Delay niche upgrades until your universal core is stable."
+          ]
         },
         {
-          "question": "Should I spread Summon Heroes materials across multiple teams?",
-          "answer": "In early Summon Heroes progression, focus one main team and only expand when mode requirements demand it."
+          "step": 4,
+          "title": "Delay serious gear spending until Epic quality",
+          "description": "Heavy early gear spending drains resources with weak carryover value. Upgrade lightly first, then pivot once better tiers stick.",
+          "highlights": [
+            "Avoid overinvesting into low-rarity gear.",
+            "Start major gear upgrades when your core pieces reach Epic quality.",
+            "Use Boss Rush and higher-value loops to feed long-term crafting upgrades."
+          ]
         },
         {
-          "question": "How do I avoid waste in Summon Heroes upgrades?",
-          "answer": "Set a Summon Heroes upgrade plan per mode and stop investing when a unit is about to be replaced."
+          "step": 5,
+          "title": "Use duplicates for star growth and Awakening breakpoints",
+          "description": "Duplicate copies are most valuable on heroes you plan to keep long term, especially around key star milestones.",
+          "highlights": [
+            "Every serious endgame roster needs a duplicate plan for priority units.",
+            "Awakening unlocks become major breakpoints once your heroes hit 5 stars.",
+            "Awakening value is especially high in PvP and deeper tower progression."
+          ]
+        },
+        {
+          "step": 6,
+          "title": "Match upgrades to the mode you actually play",
+          "description": "A unit can be exceptional in one mode and average in another, so upgrade priority should follow your main activity.",
+          "highlights": [
+            "PvE values sustained DPS and summon pressure for bosses and wave control.",
+            "PvP favors survivability, burst, and crowd control timing.",
+            "Tournament rewards units that perform well under automated battle logic."
+          ]
+        },
+        {
+          "step": 7,
+          "title": "Push campaign before AFK and cycle stamina around events",
+          "description": "Progression speed increases when AFK income and stamina spending are tied to your highest clear and event timing.",
+          "highlights": [
+            "Push your highest Campaign stage before going idle for stronger AFK returns.",
+            "Claim AFK rewards on schedule so resources do not cap out.",
+            "Use XP and stamina windows during bonus events for the best leveling efficiency."
+          ]
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "Summon Heroes Best Units by Role",
-      "displayType": "settingCards",
-      "intro": "Use role-based Summon Heroes picks to build balanced teams instead of overloading one damage lane.",
-      "settings": [
+      "displayType": "roleTableCards",
+      "eyebrow": "Roster Building",
+      "subtitle": "Build around what each unit actually does so your Summon Heroes team has balanced damage, control, and durability.",
+      "intro": "Summon Heroes rewards role balance more than rarity chasing. Strong accounts pair elite carries with the right frontline, support, and mode-specific utility.",
+      "items": [
         {
-          "name": "Summon Heroes DPS Role",
-          "type": "Damage Core",
-          "description": "Reaper, Emperor, and Divine are premium Summon Heroes damage anchors for most modes."
+          "role": "Core Carry",
+          "best_units": [
+            "Reaper",
+            "Emperor",
+            "Divine",
+            "Seraph"
+          ],
+          "why_it_works": "These units are consistent long-term investments for account power and multi-mode value.",
+          "best_modes": [
+            "PvE",
+            "PvP",
+            "Tournament"
+          ]
         },
         {
-          "name": "Summon Heroes Tank Role",
-          "type": "Frontline",
-          "description": "Use durable Summon Heroes frontliners that hold space while your carry cycles skills."
+          "role": "Sustained PvE DPS",
+          "best_units": [
+            "Divine",
+            "Reaper",
+            "Emperor",
+            "Jester"
+          ],
+          "why_it_works": "These picks maintain stable damage in long fights and boss-heavy progression routes.",
+          "best_modes": [
+            "Story",
+            "Dungeons",
+            "Nightmare Circus"
+          ]
         },
         {
-          "name": "Summon Heroes Support Role",
-          "type": "Utility",
-          "description": "Select Summon Heroes support units with cooldown control, buffs, or sustain."
+          "role": "Auto-Friendly Tournament Picks",
+          "best_units": [
+            "B-4:R B.E.T.",
+            "Emperor",
+            "Divine",
+            "Sniper",
+            "Ranger",
+            "Laser Cyborg"
+          ],
+          "why_it_works": "They keep reliable output under automated battle conditions and hold value in tournament rotations.",
+          "best_modes": [
+            "Tournament"
+          ]
         },
         {
-          "name": "Summon Heroes Control Role",
-          "type": "Crowd Control",
-          "description": "Control-focused Summon Heroes units improve PvP tempo and boss safety windows."
+          "role": "PvP Burst and Control",
+          "best_units": [
+            "B-4:R B.E.T.",
+            "Seraph",
+            "Demon Knight",
+            "Laser Cyborg",
+            "Ranger"
+          ],
+          "why_it_works": "These units fit high-pressure PvP pacing with strong burst windows and crowd-control value.",
+          "best_modes": [
+            "1v1",
+            "2v2",
+            "1v1v1"
+          ]
         },
         {
-          "name": "Summon Heroes Tournament Role",
-          "type": "Auto-Battle",
-          "description": "Tournament-ready Summon Heroes units must deliver stable value without manual timing."
+          "role": "Summoner Value",
+          "best_units": [
+            "Slime Summoner",
+            "Necromancer"
+          ],
+          "why_it_works": "Summoner bodies absorb pressure and keep your primary carries safer in PvE loops.",
+          "best_modes": [
+            "Story",
+            "Dungeons"
+          ]
         },
         {
-          "name": "Summon Heroes Flex Role",
-          "type": "Counter Slot",
-          "description": "Keep one Summon Heroes flex slot for mode counters and patch-specific tech picks."
+          "role": "Beginner Progression Core",
+          "best_units": [
+            "Bear Tamer",
+            "Mermaid",
+            "Wind Samurai",
+            "Specter",
+            "Necromancer",
+            "Construct"
+          ],
+          "why_it_works": "These units stabilize early progression before mythic-heavy teams are realistic.",
+          "best_modes": [
+            "Early Story",
+            "General Progression"
+          ]
+        },
+        {
+          "role": "Ranged Utility",
+          "best_units": [
+            "Sniper",
+            "Ranger",
+            "Technomancer"
+          ],
+          "why_it_works": "They provide efficient ranged pressure and flexible value in mixed-content setups.",
+          "best_modes": [
+            "PvE",
+            "Tournament",
+            "Mixed Modes"
+          ]
+        },
+        {
+          "role": "Flexible Midgame Fillers",
+          "best_units": [
+            "Mermaid",
+            "Abyss Lord",
+            "Kitsune Mage",
+            "Bear Tamer"
+          ],
+          "why_it_works": "These bridge picks keep your roster functional while you save for premium banner upgrades.",
+          "best_modes": [
+            "Midgame Progression",
+            "General Farming"
+          ]
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "Summon Heroes Endgame Progression",
-      "displayType": "timeline",
-      "intro": "Summon Heroes endgame progression is a weekly optimization loop across banners, traits, events, and mode goals.",
-      "entries": [
+      "displayType": "accordion",
+      "eyebrow": "Endgame",
+      "subtitle": "After the beginner phase, Summon Heroes growth is driven by resource routing, banner discipline, and mode-based priorities.",
+      "intro": "Summon Heroes endgame is timing and efficiency. Strong accounts keep pushing Campaign for better idle gains, convert duplicates into power spikes, and align stamina usage with event windows.",
+      "items": [
         {
-          "title": "Summon Heroes Weekly Core Loop",
-          "type": "Routine",
-          "description": "Cycle Story, Dungeon, PvP, and Tournament tasks to keep all progression lanes moving."
+          "question": "What should I focus on first in Summon Heroes after early game?",
+          "answer": "Stabilize a core team of strong multi-mode units, then push Campaign as far as possible because higher clears improve passive rewards."
         },
         {
-          "title": "Summon Heroes Resource Reinvestment",
-          "type": "Economy",
-          "description": "Reinvest Gems and upgrade materials into the highest-impact units for your primary mode."
+          "question": "Where should I farm high-end Summon Heroes upgrade materials?",
+          "answer": "Boss Rush should be your priority farming lane for higher-tier crafting materials once your account enters mid-to-late progression."
         },
         {
-          "title": "Summon Heroes Trait Optimization",
-          "type": "Power Growth",
-          "description": "Reroll and lock traits only after baseline roster stability is achieved."
+          "question": "How do I level faster in Summon Heroes at higher account levels?",
+          "answer": "Use XP multipliers in Raid Dungeons during bonus windows and run your strongest damage core with a reliable buffer."
         },
         {
-          "title": "Summon Heroes Patch Adaptation",
-          "type": "Meta Shift",
-          "description": "Adjust team priorities after every balance patch and event rotation."
+          "question": "What is the best way to spend Summon Heroes Gems in mid-to-late game?",
+          "answer": "Prioritize inventory space first, then limited banners, then selective shop refreshes for rare evolution materials."
+        },
+        {
+          "question": "How important are duplicates in Summon Heroes endgame?",
+          "answer": "Duplicates become critical because they unlock major 5-star Awakening breakpoints that matter in PvP and higher-difficulty content."
+        },
+        {
+          "question": "How should I manage Summon Heroes AFK rewards?",
+          "answer": "Claim AFK rewards on a consistent cadence and always push your highest Campaign stage before going idle to improve passive gains."
+        },
+        {
+          "question": "Is joining a guild worth it in Summon Heroes endgame?",
+          "answer": "Yes. Guild progression provides long-term buffs and access to materials that accelerate account growth over time."
+        },
+        {
+          "question": "How do I keep improving in Summon Heroes without wasting stamina and materials?",
+          "answer": "Invest in units with real multi-mode value, avoid overcommitting to weak gear tiers, and save summons for meaningful banner windows."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "Summon Heroes Update Log",
-      "displayType": "steps",
-      "intro": "Track key Summon Heroes update categories so roster plans stay aligned with current content.",
-      "steps": [
+      "displayType": "accordion",
+      "eyebrow": "Fresh Updates",
+      "subtitle": "Track the major Summon Heroes content beats shaping maps, modes, banners, and progression priorities.",
+      "intro": "Summon Heroes is updated on a fast live-service cadence. This update log highlights the most relevant shifts for codes, roster planning, and mode strategy.",
+      "items": [
         {
-          "title": "Summon Heroes New Banner Announcements",
-          "description": "Record each new banner release and compare value against your current roster gaps."
+          "question": "Summon Heroes launch window - February 2026",
+          "answer": "Summon Heroes launched on Roblox in late February 2026, marking the start of the current live-service cycle and rapid early meta development."
         },
         {
-          "title": "Summon Heroes Balance Adjustments",
-          "description": "Update tier placements when unit buffs or nerfs change mode performance."
+          "question": "Summon Heroes Sunset City update",
+          "answer": "Sunset City became the most visible named update wave, combining new map momentum with fresh code and progression interest."
         },
         {
-          "title": "Summon Heroes Event Rotations",
-          "description": "Track event start and end windows to maximize limited-time rewards."
+          "question": "Summon Heroes dungeon-focused reward push",
+          "answer": "Recent update cycles continued to reinforce Dungeons and Raid Dungeons as core routes for leveling and upgrade resource growth."
         },
         {
-          "title": "Summon Heroes Reward Economy Changes",
-          "description": "Monitor shifts in Gems, Tickets, Shards, and Crystal income sources."
+          "question": "Summon Heroes Tournament meta became a distinct layer",
+          "answer": "Tournament is now treated as its own strategic ecosystem, separate from standard PvP and PvE investment logic."
         },
         {
-          "title": "Summon Heroes Competitive Meta Notes",
-          "description": "Refresh PvP and Tournament draft plans whenever dominant compositions change."
+          "question": "Summon Heroes new unit spotlight - Ranger",
+          "answer": "Ranger emerged as a standout flexible unit across multiple mode discussions, especially for mixed PvE and competitive value."
+        },
+        {
+          "question": "Summon Heroes current level cap and progression expansion",
+          "answer": "The level ceiling has continued to rise beyond launch expectations, supporting longer account optimization loops."
+        },
+        {
+          "question": "Summon Heroes live update cadence",
+          "answer": "Major updates are frequently shipped in short intervals, with bonus XP weekends remaining key timing windows for stamina spending."
+        },
+        {
+          "question": "Summon Heroes freshness check - April 2026",
+          "answer": "Summon Heroes remained actively maintained in April 2026, keeping update tracking useful for current roster and farming decisions."
         }
       ]
     }
