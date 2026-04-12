@@ -24,9 +24,9 @@ const HOME_VIDEO = {
   title: 'Summon Heroes Official Trailer',
 }
 
-const HOME_TITLE = 'Summon Heroes Wiki - Codes, Tier List & PvP Guide'
+const HOME_TITLE = 'Summon Heroes Wiki - Codes, Tier List & Roblox Guides'
 const HOME_DESCRIPTION =
-  'Summon Heroes Wiki with updated codes, hero tier lists, Nightmare Circus, PvP and Tournament guides, story maps, and beginner tips for Roblox players.'
+  'Summon Heroes Wiki with updated codes, tier lists, beginner routes, starter units, banner planning, PvP and Tournament picks, dungeon farming, and endgame progression guides.'
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
@@ -43,10 +43,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       'Roblox',
       'codes',
       'tier list',
+      'starter units',
+      'banner guide',
+      'dungeons',
       'PvP',
       'Tournament',
-      'Nightmare Circus',
-      'story worlds',
+      'traits',
     ],
     alternates: buildLanguageAlternates('/', locale as Locale, siteUrl),
     openGraph: {
