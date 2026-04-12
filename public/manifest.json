@@ -1,12 +1,18 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "id": "/",
+  "name": "Summon Heroes Wiki - Codes, Tier List & PvP Guide",
+  "short_name": "Summon Heroes",
+  "description": "Summon Heroes Wiki with updated codes, hero tier lists, Nightmare Circus, PvP and Tournament guides, story maps, and beginner tips for Roblox players.",
+  "lang": "en-US",
+  "dir": "ltr",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#18c3bb",
+  "background_color": "#050d0e",
+  "categories": ["games", "entertainment", "reference"],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -21,19 +27,51 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/favicon-16x16.png",
-      "sizes": "16x16",
-      "type": "image/png"
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "/favicon-32x32.png",
       "sizes": "32x32",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/hero.webp",
+      "sizes": "640x480",
+      "type": "image/webp",
+      "form_factor": "wide",
+      "label": "Summon Heroes gameplay hero image"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Codes",
+      "short_name": "Codes",
+      "url": "/codes",
+      "description": "Latest active Summon Heroes codes"
+    },
+    {
+      "name": "Tier List",
+      "short_name": "Tier List",
+      "url": "/tier-list",
+      "description": "Updated hero rankings for PvE and PvP"
     }
   ]
 }
