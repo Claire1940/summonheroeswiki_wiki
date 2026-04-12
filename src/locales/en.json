@@ -283,138 +283,225 @@
     },
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "Summon Heroes Best Team Builds",
-      "displayType": "cards",
-      "intro": "Use these Summon Heroes team frameworks to match mode goals while keeping upgrades efficient.",
-      "cards": [
+      "displayType": "cardList",
+      "intro": "Use role-balanced Summon Heroes lineups instead of only chasing rarity. These practical builds convert current tier list priorities into teams you can run across Story, Bossing, PvP, and Tournament.",
+      "items": [
         {
-          "name": "Summon Heroes Story Push Team",
-          "description": "Balanced setup with one frontline, two DPS, one control unit, and one sustain slot for safe clears."
+          "mode": "Progression / Story",
+          "buildName": "Summon Heroes Beginner Progression Core",
+          "units": [
+            "Bear Tamer",
+            "Mermaid",
+            "Slime Summoner",
+            "Necromancer",
+            "Wind Samurai"
+          ],
+          "focus": "Safe wave clear and stable early progression",
+          "whyItWorks": "This Summon Heroes lineup uses beginner-friendly units with consistent value, so you can clear waves smoothly without needing a full premium roster."
         },
         {
-          "name": "Summon Heroes Dungeon Farm Team",
-          "description": "Focus on wave speed and cooldown uptime to maximize repeatable resource farming."
+          "mode": "Bossing / PvE",
+          "buildName": "Summon Heroes High-End Boss Core",
+          "units": [
+            "Reaper",
+            "Emperor",
+            "Seraph",
+            "Divine",
+            "Bear Tamer"
+          ],
+          "focus": "Top-end damage with durable frontline support",
+          "whyItWorks": "This Summon Heroes boss core combines top-tier damage dealers with one of the most useful utility frontliners, giving stable performance in boss-heavy PvE."
         },
         {
-          "name": "Summon Heroes PvP Burst Team",
-          "description": "Prioritize opening pressure, crowd control, and survivability against top ladder comps."
+          "mode": "PvP / Arena",
+          "buildName": "Summon Heroes PvP Pressure Build",
+          "units": [
+            "B-4:R B.E.T.",
+            "Seraph",
+            "Divine",
+            "Demon Knight",
+            "Ranger"
+          ],
+          "focus": "Burst, survivability, and control",
+          "whyItWorks": "This Summon Heroes PvP build follows high-priority ladder picks and is tuned for fast pressure rather than slow farming tempo."
         },
         {
-          "name": "Summon Heroes Tournament Auto Team",
-          "description": "Choose units with stable auto-cast value and low micro dependency in AI battles."
+          "mode": "Tournament",
+          "buildName": "Summon Heroes Auto-Battle Tournament Build",
+          "units": [
+            "B-4:R B.E.T.",
+            "Emperor",
+            "Divine",
+            "Sniper",
+            "Ranger"
+          ],
+          "focus": "Strong automated fights with reliable value",
+          "whyItWorks": "This Summon Heroes tournament setup favors units that keep output high in auto-battle conditions where consistency matters more than manual timing."
+        },
+        {
+          "mode": "Summon Priority",
+          "buildName": "Summon Heroes Banner Target List",
+          "units": [
+            "Reaper",
+            "Emperor",
+            "Seraph",
+            "B-4:R B.E.T.",
+            "Divine"
+          ],
+          "focus": "Best premium targets when saving gems",
+          "whyItWorks": "If you are deciding where to spend Summon Heroes Gems, these are the safest high-priority pulls for long-cycle account growth."
         }
-      ],
-      "highlights": [
-        "Summon Heroes teams need role coverage before rarity stacking",
-        "Summon Heroes damage cores should share buff timing",
-        "Summon Heroes support slots should solve specific mode problems",
-        "Summon Heroes team upgrades should follow your primary mode"
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "Summon Heroes Leveling Guide",
-      "displayType": "regionCards",
-      "intro": "Fast Summon Heroes leveling comes from efficient mode rotation, quest timing, and stamina usage.",
-      "regions": [
+      "displayType": "steps",
+      "intro": "Fast Summon Heroes leveling comes from using stamina, multipliers, campaign pushes, and upgrade materials in the right order.",
+      "steps": [
         {
-          "name": "Summon Heroes Story Route",
-          "type": "XP Foundation",
-          "description": "Push the highest clearable Story stage for stable experience and unlock progress."
+          "step": 1,
+          "title": "Push Summon Heroes campaign first",
+          "description": "Advance as far as possible before farming. Summon Heroes AFK rewards scale with your highest campaign stage."
         },
         {
-          "name": "Summon Heroes Dungeon Rotation",
-          "type": "Material XP",
-          "description": "Use daily Dungeon attempts for parallel gains in experience and upgrade resources."
+          "step": 2,
+          "title": "Use Summon Heroes XP multipliers in Raid Dungeons",
+          "description": "Spend XP multipliers in Raid Dungeons, especially during bonus windows, for the cleanest leveling bursts."
         },
         {
-          "name": "Summon Heroes Daily Missions",
-          "type": "Efficiency Layer",
-          "description": "Complete dailies early to secure guaranteed experience and currency each reset."
+          "step": 3,
+          "title": "Build one Summon Heroes main DPS plus one buffer",
+          "description": "Leveling is smoother when one carry is fully supported instead of splitting upgrades across too many units."
         },
         {
-          "name": "Summon Heroes Event Windows",
-          "type": "Bonus XP",
-          "description": "Shift stamina into active events whenever reward multipliers are available."
+          "step": 4,
+          "title": "Farm Summon Heroes Boss Rush for top materials",
+          "description": "Use Boss Rush to target higher-tier crafting resources and reserve major investments for Epic gear paths."
+        },
+        {
+          "step": 5,
+          "title": "Prioritize Summon Heroes gems in the right order",
+          "description": "Spend Gems on inventory space, then limited banners, then selective shop refreshes for rare evolution materials."
+        },
+        {
+          "step": 6,
+          "title": "Claim Summon Heroes AFK rewards every 12 hours",
+          "description": "Do a quick campaign push before going AFK so your passive reward rate locks at the highest available stage."
+        },
+        {
+          "step": 7,
+          "title": "Join an active Summon Heroes guild early",
+          "description": "Guild participation adds shop access, extra currencies, and long-term buffs that accelerate progression."
+        },
+        {
+          "step": 8,
+          "title": "Use Summon Heroes duplicates for awakenings",
+          "description": "Awakening breakpoints from duplicates are major power spikes for harder PvE, PvP, and tower progression."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
       "title": "Summon Heroes Gems and Crystals Farming",
-      "displayType": "creatureCards",
-      "intro": "Build a repeatable Summon Heroes currency loop so banners and upgrades remain sustainable.",
-      "creatures": [
+      "displayType": "table",
+      "intro": "The best Summon Heroes farming plan combines one-time freebies with repeatable loops from stages, AFK rewards, guild content, and Boss Rush.",
+      "entries": [
         {
-          "name": "Summon Heroes Daily Quests",
-          "role": "Daily Source",
-          "description": "Complete all daily objectives for reliable Gems and account progression rewards."
+          "source": "Summon Heroes Code: SUNSET",
+          "reward": "5 Legendary Crystals",
+          "bestFor": "Premium summon progress",
+          "notes": "High-value code reward tied to recent update cycles."
         },
         {
-          "name": "Summon Heroes Story Milestones",
-          "role": "Milestone Source",
-          "description": "Story clear milestones grant one-time Gem and Crystal bursts for early growth."
+          "source": "Summon Heroes Code: MOARSHARD",
+          "reward": "3 Mythic Shards",
+          "bestFor": "Shard stockpiling",
+          "notes": "Useful for faster roster upgrades after banner pulls."
         },
         {
-          "name": "Summon Heroes Dungeon Clears",
-          "role": "Repeatable Source",
-          "description": "Dungeon farming converts stamina into crystals, shards, and upgrade materials."
+          "source": "Summon Heroes Code: OOF",
+          "reward": "250 Gems",
+          "bestFor": "Early rerolls or savings",
+          "notes": "Simple direct Gems boost for early accounts."
         },
         {
-          "name": "Summon Heroes Event Rewards",
-          "role": "Limited Source",
-          "description": "Active events often provide the highest short-window Gems and ticket value."
+          "source": "Summon Heroes Code: DUNGEONZ",
+          "reward": "3 Mythic Shards",
+          "bestFor": "Upgrade resources",
+          "notes": "Strong value when paired with dungeon-heavy sessions."
         },
         {
-          "name": "Summon Heroes Login Streaks",
-          "role": "Passive Source",
-          "description": "Daily logins stack into low-effort currency and ticket payouts over time."
+          "source": "Summon Heroes Code: DELAYHEROES",
+          "reward": "5 Summon Tickets",
+          "bestFor": "Extra pulls without Gems",
+          "notes": "Good bridge resource while saving for limited banners."
         },
         {
-          "name": "Summon Heroes Code Redeems",
-          "role": "Burst Source",
-          "description": "Redeem codes immediately to convert free rewards into summon opportunities."
+          "source": "Summon Heroes Code: 500GEMS",
+          "reward": "500 Gems",
+          "bestFor": "Banner savings",
+          "notes": "One of the largest direct Summon Heroes Gems rewards."
+        },
+        {
+          "source": "Summon Heroes Stage Clears",
+          "reward": "Gems",
+          "bestFor": "Repeatable core currency",
+          "notes": "Story progression remains a dependable Gems pipeline."
+        },
+        {
+          "source": "Summon Heroes Level Rewards",
+          "reward": "Gems",
+          "bestFor": "Natural progression income",
+          "notes": "Strong value during early and midgame account climb."
+        },
+        {
+          "source": "Summon Heroes AFK Chest",
+          "reward": "Passive rewards by campaign depth",
+          "bestFor": "Background daily farming",
+          "notes": "Claim every 12 hours after campaign pushes."
+        },
+        {
+          "source": "Summon Heroes Guild Raids and Donations",
+          "reward": "Guild currency and awakening materials",
+          "bestFor": "Long-term account growth",
+          "notes": "Active guild play adds stable progression layers beyond raw summons."
+        },
+        {
+          "source": "Summon Heroes Boss Rush",
+          "reward": "High-tier crafting materials",
+          "bestFor": "Post-pull power spikes",
+          "notes": "Converts better units into faster upgrade acceleration."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "Summon Heroes Summon Banner Guide",
-      "displayType": "itemCards",
-      "intro": "Strong Summon Heroes banner management protects your Gems and maximizes pull efficiency.",
-      "items": [
+      "displayType": "accordion",
+      "intro": "Use this Summon Heroes banner FAQ to decide when to pull, when to save, and which banner targets produce reliable roster upgrades.",
+      "faqs": [
         {
-          "name": "Summon Heroes Featured Banners",
-          "type": "Primary Pull",
-          "description": "Spend only when featured units directly improve your active team goals."
+          "question": "How often do Summon Heroes banners rotate?",
+          "answer": "Summon Heroes uses rotating banners, so pull opportunities change quickly. Track rotations and avoid spending before confirming your target value."
         },
         {
-          "name": "Summon Heroes Filler Banners",
-          "type": "Skip Window",
-          "description": "Skip low-impact rotations and carry resources into stronger cycles."
+          "question": "Should I spend Summon Heroes Gems on every banner?",
+          "answer": "No. In Summon Heroes, saving Gems for high-impact banners is usually stronger than chasing every rotation."
         },
         {
-          "name": "Summon Heroes Pity Planning",
-          "type": "Risk Control",
-          "description": "Track pity progress and avoid half-commit pulls without completion resources."
+          "question": "Which Summon Heroes banner targets are worth prioritizing?",
+          "answer": "Prioritize Summon Heroes banners that can deliver Reaper, Emperor, Seraph, B-4:R B.E.T., and Divine because they stay valuable across multiple modes."
         },
         {
-          "name": "Summon Heroes Ticket Usage",
-          "type": "Resource Mix",
-          "description": "Use free tickets first, then decide if Gems are justified by expected value."
+          "question": "What should Summon Heroes beginners do before chasing premium banners?",
+          "answer": "Build a stable Summon Heroes core with accessible units first, then save for premium banners that upgrade your key slots."
         },
         {
-          "name": "Summon Heroes Duplicate Value",
-          "type": "Upgrade Math",
-          "description": "Prioritize banners where duplicates provide meaningful breakpoints."
+          "question": "When is it better to save instead of summoning in Summon Heroes?",
+          "answer": "Save in Summon Heroes when the current rotation does not clearly improve your frontline, carry, or control slots."
         },
         {
-          "name": "Summon Heroes Mode Targeting",
-          "type": "Roster Fit",
-          "description": "Pull based on your main mode: Story, PvP, Tournament, or Dungeon speed runs."
+          "question": "What currencies support Summon Heroes banner pulling?",
+          "answer": "Summon Heroes banner progress comes from Gems, Summon Tickets, shards, and crystals earned through codes, stage clears, level rewards, and guild activity."
         }
-      ],
-      "unlockMilestones": [
-        "Set a Summon Heroes monthly Gem budget",
-        "Save Summon Heroes pity for top-value banners",
-        "Use Summon Heroes tickets before Gems",
-        "Review Summon Heroes roster gaps before each pull cycle"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
