@@ -40,15 +40,32 @@ const LoadingPlaceholder = ({ height = 'h-64' }: { height?: string }) => (
 
 // Conditionally render text as a link or plain span
 function LinkedTitle({
+  linkData,
   children,
+  className,
+  locale,
 }: {
   linkData: { url: string; title: string } | null | undefined
   children: React.ReactNode
   className?: string
   locale: string
 }) {
-  // Home modules are intentionally rendered as plain text to avoid internal content links.
-  return <>{children}</>
+  if (!linkData?.url) {
+    return <>{children}</>
+  }
+
+  const normalizedUrl = linkData.url.startsWith('/') ? linkData.url : `/${linkData.url}`
+  const localizedHref = `/${locale}${normalizedUrl}`
+
+  return (
+    <Link
+      href={localizedHref}
+      className={className ? className : 'hover:text-[hsl(var(--nav-theme-light))] hover:underline underline-offset-4 transition-colors'}
+      title={linkData.title}
+    >
+      {children}
+    </Link>
+  )
 }
 
 interface HomePageClientProps {
