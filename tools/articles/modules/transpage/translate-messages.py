@@ -67,7 +67,14 @@ def load_config() -> dict:
 # ─── API 调用 ─────────────────────────────────────────────────────────────────
 
 
-def call_api(content: str, lang_name: str, config: dict, timeout: int = 120, retries: int = 3) -> Optional[str]:
+def call_api(
+    content: str,
+    lang_name: str,
+    config: dict,
+    timeout: int = 120,
+    retries: int = 3,
+    retry_delay: int = 5,
+) -> Optional[str]:
     """调用翻译 API，失败返回 None"""
     base = config['api_base_url'].rstrip('/')
     # 兼容各种写法：/v1、/v1/、/v1/chat/completions 均可正常工作
@@ -114,10 +121,10 @@ def call_api(content: str, lang_name: str, config: dict, timeout: int = 120, ret
                 result = json.loads(resp.read().decode('utf-8'))
                 return result['choices'][0]['message']['content']
         except Exception as e:
-            print(f"    [retry {attempt}/{retries}] {e}")
+            print(f"    [retry {attempt}/{retries}] {e}", flush=True)
             if attempt < retries:
-                retry_wait = 5 * attempt
-                print(f"    [WAIT] 等待 {retry_wait}s 后重试...")
+                retry_wait = retry_delay * attempt
+                print(f"    [WAIT] 等待 {retry_wait}s 后重试...", flush=True)
                 time.sleep(retry_wait)
 
     return None
@@ -212,19 +219,26 @@ def translate_chunk_task(idx: int, total: int, chunk: dict, lang_name: str, conf
     print(f"    chunk {idx}/{total}: [{keys_preview}{suffix}] 开始", flush=True)
 
     chunk_json = json.dumps(chunk, ensure_ascii=False, indent=2)
-    result = call_api(chunk_json, lang_name, config)
+    result = call_api(
+        chunk_json,
+        lang_name,
+        config,
+        timeout=config.get('timeout', 120),
+        retries=config.get('retry_attempts', 3),
+        retry_delay=config.get('retry_delay', 5),
+    )
 
     if result:
         cleaned = clean_json_response(result)
         try:
             parsed = json.loads(cleaned)
-            print(f"    chunk {idx}/{total}: [{keys_preview}{suffix}] ✓")
+            print(f"    chunk {idx}/{total}: [{keys_preview}{suffix}] ✓", flush=True)
             return (idx, list(chunk.keys()), parsed)
         except json.JSONDecodeError as e:
-            print(f"    chunk {idx}/{total}: [{keys_preview}{suffix}] ✗ JSON解析失败({e})，英文兜底")
+            print(f"    chunk {idx}/{total}: [{keys_preview}{suffix}] ✗ JSON解析失败({e})，英文兜底", flush=True)
             return (idx, list(chunk.keys()), chunk)
     else:
-        print(f"    chunk {idx}/{total}: [{keys_preview}{suffix}] ✗ API失败，英文兜底")
+        print(f"    chunk {idx}/{total}: [{keys_preview}{suffix}] ✗ API失败，英文兜底", flush=True)
         return (idx, list(chunk.keys()), chunk)
 
 
