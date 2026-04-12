@@ -506,152 +506,191 @@
     },
     "lucidBlocksFarmingAndGrowth": {
       "title": "Summon Heroes Traits Guide",
-      "displayType": "mixedCards",
-      "intro": "Summon Heroes traits define late-game optimization. Reroll decisions should follow role value and mode priorities.",
-      "sections": [
+      "displayType": "tierGrid",
+      "eyebrow": "Summon Heroes Optimization",
+      "subtitle": "Use trait rerolls on units that already perform well across PvE, PvP, or Tournament before spending resources on lower-value picks.",
+      "intro": "Public Summon Heroes sources consistently agree on a small group of standout units across multiple modes. That makes them the safest reroll targets first: if a unit already sits near the top of PvE, PvP, or Tournament rankings, improving it further usually gives more value than rerolling a low-tier unit.",
+      "items": [
         {
-          "name": "Summon Heroes DPS Traits",
-          "description": "Prioritize burst, crit scaling, and consistent damage multipliers on carry units."
+          "tier": "Highest Priority",
+          "units": [
+            "B-4:R B.E.T.",
+            "Divine",
+            "Seraph",
+            "Emperor",
+            "Reaper"
+          ],
+          "description": "These are the strongest Summon Heroes trait reroll targets because they repeatedly appear at or near the top of public rankings. If you have limited rerolls, start here before investing in fringe units."
         },
         {
-          "name": "Summon Heroes Tank Traits",
-          "description": "Focus on durability, mitigation, and frontline uptime for stable clears."
+          "tier": "Strong Secondary Targets",
+          "units": [
+            "Ranger",
+            "Demon Knight",
+            "Laser Cyborg",
+            "Sniper",
+            "Jester",
+            "Bear Tamer"
+          ],
+          "description": "These Summon Heroes units are strong follow-up investments once your main carries are covered. Ranger, Demon Knight, and Laser Cyborg are named PvP or Tournament standouts, while Sniper and Jester remain strong value picks from broader tier lists."
         },
         {
-          "name": "Summon Heroes Support Traits",
-          "description": "Pick cooldown and utility traits that improve team-wide tempo."
+          "tier": "Low Priority Reroll Targets",
+          "units": [
+            "Archer",
+            "Diver",
+            "Fire Mage",
+            "Wind Samurai",
+            "Dragoon",
+            "Specter",
+            "Academy Witch",
+            "Ninja",
+            "Framerate",
+            "Bandit",
+            "Swordsman",
+            "Deckhand"
+          ],
+          "description": "These Summon Heroes units sit in lower overall tiers, so rerolling them is usually inefficient unless they are your only usable options. Replace them first, then spend rerolls on stronger units."
         },
         {
-          "name": "Summon Heroes PvP Traits",
-          "description": "Choose traits that improve openers, control resistance, and duel survivability."
+          "tier": "Simple Keep-or-Reroll Rule",
+          "units": [
+            "Keep top-meta carries",
+            "Delay rerolls on filler units",
+            "Upgrade your main team first"
+          ],
+          "description": "A practical Summon Heroes rule is to keep investing in units that already make your main Story, PvP, or Tournament team. Do not burn rerolls on characters you expect to bench soon."
         }
-      ],
-      "growthMilestones": [
-        "Lock high-roll Summon Heroes traits before reroll chains",
-        "Reroll Summon Heroes support traits after core DPS is stable",
-        "Avoid low-value Summon Heroes trait spending on temporary units",
-        "Align Summon Heroes trait targets with your highest-priority mode"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
       "title": "Summon Heroes PvP Tier List",
-      "displayType": "priorityCards",
-      "intro": "This Summon Heroes PvP tier list highlights units that create consistent ladder pressure and counterplay value.",
-      "priorities": [
+      "displayType": "tierGrid",
+      "eyebrow": "Summon Heroes PvP Meta",
+      "subtitle": "These rankings focus on player-versus-player performance rather than story progression. The best PvP picks are the units repeatedly named by current public tier sources.",
+      "intro": "Twinfinite's current Summon Heroes PvP ranking names six standout units for competitive play. To make the page easier to scan, the list below separates the most central PvP core from the next-best support and flex options.",
+      "items": [
         {
-          "name": "B-4:R B.E.T",
-          "priority": "Essential",
-          "description": "Top-tier Summon Heroes PvP pressure with high impact in fast engagements."
+          "tier": "S Tier",
+          "units": [
+            "B-4:R B.E.T.",
+            "Seraph",
+            "Divine"
+          ],
+          "description": "These are the clearest Summon Heroes PvP centerpieces from current public rankings. If you are building around a small number of premium investments, start with these three."
         },
         {
-          "name": "Seraph",
-          "priority": "Essential",
-          "description": "Excellent Summon Heroes PvP control and sustained threat across matchups."
+          "tier": "A Tier",
+          "units": [
+            "Demon Knight",
+            "Ranger",
+            "Laser Cyborg"
+          ],
+          "description": "These are strong Summon Heroes PvP options that round out competitive teams well. They are useful when you need extra burst, utility, or reliable pressure behind your core picks."
         },
         {
-          "name": "Divine",
-          "priority": "Very High",
-          "description": "Reliable Summon Heroes PvP value from balanced offense and survivability."
+          "tier": "Strong Overall Flex Picks",
+          "units": [
+            "Reaper",
+            "Emperor",
+            "Jester",
+            "Sniper"
+          ],
+          "description": "These Summon Heroes units are not explicitly listed in the top-six PvP answer, but they rank highly in broader coverage and can still be valuable depending on your box and matchup needs."
         },
         {
-          "name": "Demon Knight",
-          "priority": "Very High",
-          "description": "Strong Summon Heroes dueling and frontline pressure in standard ladder teams."
-        },
-        {
-          "name": "Ranger",
-          "priority": "High",
-          "description": "Flexible Summon Heroes ranged option with strong target access."
-        },
-        {
-          "name": "Laser Cyborg",
-          "priority": "High",
-          "description": "Useful Summon Heroes PvP pick for burst windows and momentum swings."
+          "tier": "Early-Game Stopgaps",
+          "units": [
+            "Bear Tamer",
+            "Dragoon Isadora",
+            "Captain Dreadmoor"
+          ],
+          "description": "These Summon Heroes units are better used as temporary options while you work toward premium PvP teams. They help stabilize progression, but they are not main late-game PvP targets."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
       "title": "Summon Heroes Tournament Tier List",
-      "displayType": "achievementGrid",
-      "intro": "Summon Heroes Tournament mode favors stable auto-battle output. Use this grouped tier view to draft consistent rosters.",
-      "groups": [
+      "displayType": "tierGrid",
+      "eyebrow": "Summon Heroes Tournament Meta",
+      "subtitle": "Summon Heroes Tournament mode has its own best-performing picks, so the strongest Story or general PvP unit is not always your best Tournament investment.",
+      "intro": "Current public tier coverage for Summon Heroes identifies a smaller tournament-focused group than the overall roster. This page turns that mode-specific ranking into a clean block you can use for quick team decisions.",
+      "items": [
         {
-          "name": "S Tier Summon Heroes Tournament Units",
-          "achievements": [
-            {
-              "title": "Emperor",
-              "description": "Dominant Summon Heroes Tournament closer with high auto-battle consistency."
-            },
-            {
-              "title": "B-4:R B.E.T",
-              "description": "Elite Summon Heroes Tournament pressure with strong uptime and threat."
-            },
-            {
-              "title": "Divine",
-              "description": "Reliable Summon Heroes Tournament anchor for balanced performance."
-            }
-          ]
+          "tier": "S Tier",
+          "units": [
+            "B-4:R B.E.T.",
+            "Emperor",
+            "Divine"
+          ],
+          "description": "These are the headline Summon Heroes Tournament units named in current public rankings. If you want the safest Tournament investment path, build around them first."
         },
         {
-          "name": "A Tier Summon Heroes Tournament Units",
-          "achievements": [
-            {
-              "title": "Sniper",
-              "description": "High-value Summon Heroes Tournament finisher in protected comps."
-            },
-            {
-              "title": "Ranger",
-              "description": "Flexible Summon Heroes Tournament pick with stable ranged pressure."
-            },
-            {
-              "title": "Laser Cyborg",
-              "description": "Solid Summon Heroes Tournament option for burst timing windows."
-            }
-          ]
+          "tier": "A Tier",
+          "units": [
+            "Sniper",
+            "Ranger",
+            "Laser Cyborg"
+          ],
+          "description": "These Summon Heroes units complete the published top Tournament group and are strong additions when you need a practical second line behind the core trio."
         },
         {
-          "name": "Draft Rules for Summon Heroes Tournament",
-          "achievements": [
-            {
-              "title": "Prioritize Auto Value",
-              "description": "Choose Summon Heroes units that perform without manual micro."
-            },
-            {
-              "title": "Protect Core Damage",
-              "description": "Draft Summon Heroes frontline and utility around your main carry."
-            },
-            {
-              "title": "Patch-to-Patch Review",
-              "description": "Re-evaluate Summon Heroes Tournament picks after every balance update."
-            }
-          ]
+          "tier": "Good Cross-Mode Backups",
+          "units": [
+            "Seraph",
+            "Reaper",
+            "Demon Knight",
+            "Jester"
+          ],
+          "description": "These Summon Heroes units remain high-value because they rank well in other major modes and can fill gaps when your Tournament core is incomplete."
+        },
+        {
+          "tier": "Team-Building Shortcut",
+          "units": [
+            "Start with one core carry",
+            "Add one reliable damage partner",
+            "Use your sixth slot for a flexible backup"
+          ],
+          "description": "Summon Heroes Tournament performance improves most when you concentrate resources on a few proven units instead of spreading upgrades across many average ones."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
       "title": "Summon Heroes Dungeons and Raids Guide",
-      "displayType": "accordion",
-      "intro": "Use this Summon Heroes Dungeons and Raids guide to choose entries, rewards, and rotation priorities.",
-      "faqs": [
+      "displayType": "steps",
+      "eyebrow": "Summon Heroes Endgame Farming",
+      "subtitle": "Use Story, daily tasks, and Dungeons as your main progression loop first, then move into harder repeatable content once your core team is stable.",
+      "intro": "The clearest public progression advice for Summon Heroes points to Story mode, daily quests, and Dungeons as the best leveling foundation. Reward sources such as chests, level-up rewards, sold units, and codes help support that loop, while higher-difficulty challenge content works better after your main team is established.",
+      "items": [
         {
-          "question": "Which Summon Heroes Dungeon should I run first each day?",
-          "answer": "Start with the Summon Heroes Dungeon that drops your current bottleneck resource, then spend remaining entries on universal upgrade materials."
+          "step": "Step 1",
+          "title": "Clear Summon Heroes Story stages before forcing endgame farming",
+          "description": "Summon Heroes Story progression is one of the main sources of early rewards and account growth. It also helps unlock the resources you need for stronger summons and upgrades."
         },
         {
-          "question": "How do Summon Heroes Raid rewards compare to Dungeons?",
-          "answer": "Summon Heroes Raids usually provide higher peak rewards per clear but require stronger teams and cleaner execution."
+          "step": "Step 2",
+          "title": "Do Summon Heroes daily quests every session",
+          "description": "Summon Heroes daily quests are repeatedly recommended as part of the fastest level-up path. They are a reliable source of steady account progress and should be part of your routine before long grind sessions."
         },
         {
-          "question": "What is the best Summon Heroes stamina split?",
-          "answer": "Use a balanced Summon Heroes split: progression stages first, then Dungeon or Raid farming for the resources you are short on."
+          "step": "Step 3",
+          "title": "Use Summon Heroes Dungeons as your main repeatable XP loop",
+          "description": "Current Summon Heroes leveling coverage highlights Dungeons as one of the best ways to level up fast. Once your Story progress slows down, Dungeons become one of the most efficient repeat farms."
         },
         {
-          "question": "Should new players skip Summon Heroes Raids?",
-          "answer": "New Summon Heroes accounts should clear basic Dungeon milestones first, then enter Raids once core units are stable."
+          "step": "Step 4",
+          "title": "Collect Summon Heroes side rewards while farming",
+          "description": "Open map chests, claim level-up rewards, and redeem active Summon Heroes codes as you go. Public guides also note that selling heroes you no longer need can turn dead inventory into useful resources."
         },
         {
-          "question": "How often should I rotate Summon Heroes Dungeon targets?",
-          "answer": "Rotate Summon Heroes Dungeon targets whenever a resource reaches surplus or your upgrade focus changes."
+          "step": "Step 5",
+          "title": "Keep Summon Heroes AFK training as support, not your whole plan",
+          "description": "Summon Heroes AFK training is useful, but it works best as background progress alongside Story, daily quests, and Dungeons rather than replacing them."
+        },
+        {
+          "step": "Step 6",
+          "title": "Move into harder Summon Heroes challenge content after your core team is ready",
+          "description": "Once your Summon Heroes roster is stable, shift more time into harder repeatable content. Public game descriptions also point to Nightmare Circus and competitive modes as places to push your roster beyond basic Story progression."
         }
       ]
     },
