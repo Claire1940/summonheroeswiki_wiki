@@ -14,26 +14,22 @@ const staticPagesConfig: Record<string, { priority: number; changeFrequency: 'mo
 
 // 内容类型优先级配置
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'biomes': 0.8,
-	'creatures': 0.8,
-	'items': 0.8,
-	'achievements': 0.7,
-	'lore': 0.7,
-	'support': 0.6,
+	'codes': 0.95,
+	'tier-list': 0.9,
+	'guide': 0.88,
+	'units': 0.86,
+	'farming': 0.84,
+	'update': 0.82,
 }
 
 // 内容更新频率配置
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'biomes': 'weekly',
-	'creatures': 'weekly',
-	'items': 'weekly',
-	'achievements': 'monthly',
-	'lore': 'monthly',
-	'support': 'monthly',
+	'codes': 'daily',
+	'tier-list': 'weekly',
+	'guide': 'weekly',
+	'units': 'weekly',
+	'farming': 'weekly',
+	'update': 'weekly',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
@@ -63,7 +59,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 		}
 	}
 
-	// 3. 所有 MDX 文章（所有语言版本和内容类型）
+	// 3. 内容类型列表页（所有语言版本）
+	for (const locale of routing.locales) {
+		for (const contentType of CONTENT_TYPES) {
+			const sectionUrl =
+				locale === 'en'
+					? `${BASE_URL}/${contentType}`
+					: `${BASE_URL}/${locale}/${contentType}`
+
+			sitemap.push({
+				url: sectionUrl,
+				lastModified: new Date(),
+				changeFrequency: contentTypeChangeFrequency[contentType] || 'weekly',
+				priority: Math.max((contentTypePriority[contentType] || 0.7) - 0.05, 0.6),
+			})
+		}
+	}
+
+	// 4. 所有 MDX 文章（所有语言版本和内容类型）
 	for (const locale of routing.locales) {
 		for (const contentType of CONTENT_TYPES) {
 			try {

@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import { Link } from '@/i18n/navigation'
 import type { Metadata } from 'next'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
 import { type Locale } from '@/i18n/routing'
@@ -159,7 +159,7 @@ export default function Copyright() {
               The following trademarks and service marks are the property of their respective owners:
             </p>
             <ul>
-              <li><strong>STEAM</strong> - Trademark of RedManta LLC</li>
+              <li><strong>Roblox</strong> - Trademark of Roblox Corporation</li>
               <li><strong>Summon Heroes</strong> - Trademark of the game developers</li>
               <li><strong>Summon Heroes Wiki</strong> - Our own branding (not affiliated with the game)</li>
             </ul>

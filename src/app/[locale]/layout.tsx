@@ -108,6 +108,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function LocaleLayout({ children, params }: Props) {
 	const { locale } = await params
+	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://summonheroeswiki.wiki'
+	const searchStructuredData = {
+		'@context': 'https://schema.org',
+		'@type': 'WebSite',
+		'@id': `${siteUrl}/#website`,
+		name: 'Summon Heroes Wiki',
+		url: siteUrl,
+		potentialAction: {
+			'@type': 'SearchAction',
+			target: `${siteUrl}/codes`,
+			'query-input': 'required name=search_term_string',
+		},
+	}
 
 	// 验证 locale
 	if (!routing.locales.includes(locale as Locale)) {
@@ -123,6 +136,10 @@ export default async function LocaleLayout({ children, params }: Props) {
 		<html lang={locale} className={`${geistSans.variable} ${geistMono.variable}`} suppressHydrationWarning>
 			<head>
 				<meta name="google-adsense-account" content="ca-pub-7733402184034568" />
+				<script
+					type="application/ld+json"
+					dangerouslySetInnerHTML={{ __html: JSON.stringify(searchStructuredData) }}
+				/>
 				<Script
 					crossOrigin="anonymous"
 					src="https://unpkg.com/same-runtime@0.0.1/dist/index.global.js"

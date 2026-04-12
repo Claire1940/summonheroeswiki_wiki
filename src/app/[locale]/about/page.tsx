@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import { Link } from '@/i18n/navigation'
 import type { Metadata } from 'next'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
 import { type Locale } from '@/i18n/routing'
@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: 'About Summon Heroes Wiki - Your Ultimate Roblox Game Resource',
-    description: 'Learn about Summon Heroes Wiki, a community-driven resource hub providing comprehensive guides, crafting tips, creature info, and strategies for the Summon Heroes Roblox game.',
+    description: 'Learn about Summon Heroes Wiki, a community-driven resource hub with codes, tier lists, unit analysis, farming routes, and strategy guides for Roblox Summon Heroes.',
     keywords: [
       'about Summon Heroes Wiki',
       'Summon Heroes community',
@@ -81,11 +81,11 @@ export default function About() {
             <h2>Welcome to Summon Heroes Wiki</h2>
             <p>
               Summon Heroes Wiki is an <strong>unofficial, fan-made resource website</strong> dedicated to helping players
-              master the Roblox game "Summon Heroes". We are a community-driven platform that provides comprehensive guides,
-              crafting tips, biome information, creature details, and strategic insights to enhance your gaming experience.
+              master the Roblox game "Summon Heroes". We are a community-driven platform that provides practical code coverage,
+              tier list updates, team-building guidance, and progression strategy to improve your in-game decisions.
             </p>
             <p>
-              Whether you're a new player just starting your survival journey or a seasoned veteran looking to optimize your strategies,
+              Whether you are a new player setting up your first core team or a veteran optimizing endgame modes,
               Summon Heroes Wiki is here to support you every step of the way.
             </p>
           </div>
@@ -102,8 +102,8 @@ export default function About() {
               and powerful tools</strong> that help them succeed in the game. We strive to:
             </p>
             <ul>
-              <li><strong>Provide reliable information:</strong> Keep our content updated with the latest game changes, new items, and balance updates</li>
-              <li><strong>Build useful tools:</strong> Develop guides, crafting calculators, and planners that help players make informed decisions</li>
+              <li><strong>Provide reliable information:</strong> Keep our content updated with active codes, roster trends, and patch-impact changes</li>
+              <li><strong>Build useful tools:</strong> Publish practical team, banner, and upgrade planning resources that reduce trial-and-error</li>
               <li><strong>Foster community:</strong> Create a welcoming space where players can learn, share strategies, and grow together</li>
               <li><strong>Stay accessible:</strong> Keep all resources free and easy to use for players of all skill levels</li>
             </ul>
@@ -112,7 +112,7 @@ export default function About() {
             <p>
               We envision Summon Heroes Wiki as the <strong>go-to destination</strong> for every Summon Heroes player seeking
               to improve their gameplay. We want to be the resource that players trust and rely on, whether they need
-              crafting guides, want to explore new biomes, or are looking for advanced survival tactics.
+              redemption updates, smarter team decisions, or better progression routes for PvE, PvP, and Tournament content.
             </p>
           </div>
         </div>
@@ -126,50 +126,50 @@ export default function About() {
             {/* Feature Card 1 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
               <div className="text-2xl mb-3">🔨</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Crafting Guides</h3>
+              <h3 className="text-xl font-semibold text-white mb-2">Codes Tracker</h3>
               <p className="text-slate-300">
-                Comprehensive crafting recipes and Apotheosis fusion guides to help you create powerful items.
-                Master the art of item synthesis!
+                Fast updates for active and expired codes, with clear redemption steps and reward-value context.
+                Claim limited rewards before they rotate out.
               </p>
             </div>
 
             {/* Feature Card 2 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
               <div className="text-2xl mb-3">🌍</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Biome Information</h3>
+              <h3 className="text-xl font-semibold text-white mb-2">Tier List Coverage</h3>
               <p className="text-slate-300">
-                Detailed guides on all biomes, their unique features, resources, and dangers.
-                Explore every corner of the surreal world safely.
+                Mode-specific rankings for PvE, PvP, and Tournament play, with clear notes on where each unit performs best.
+                Adapt faster when the meta shifts.
               </p>
             </div>
 
             {/* Feature Card 3 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
               <div className="text-2xl mb-3">🦋</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Creature Database</h3>
+              <h3 className="text-xl font-semibold text-white mb-2">Unit Build Database</h3>
               <p className="text-slate-300">
-                Complete information on all creatures, their behaviors, drops, and how to deal with them.
-                Know your friends from your foes.
+                Practical unit pages with role context, upgrade priorities, and team-fit guidance for current patch play.
+                Build stronger rosters with fewer wasted materials.
               </p>
             </div>
 
             {/* Feature Card 4 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
               <div className="text-2xl mb-3">🎯</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Achievement Guides</h3>
+              <h3 className="text-xl font-semibold text-white mb-2">Farming Routes</h3>
               <p className="text-slate-300">
-                Step-by-step guides to unlock all 19 achievements in the game.
-                Complete your collection with our detailed walkthroughs.
+                Efficient loops for XP, gems, shards, and event-value resources, from early progression to endgame optimization.
+                Spend stamina where returns are highest.
               </p>
             </div>
 
             {/* Feature Card 5 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
               <div className="text-2xl mb-3">📚</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Survival Strategies</h3>
+              <h3 className="text-xl font-semibold text-white mb-2">PvP & Tournament Prep</h3>
               <p className="text-slate-300">
-                Essential survival tips, building strategies, and exploration guides.
-                Learn how to thrive in the surreal sandbox world.
+                Team-planning references for competitive modes, including burst/control balance and auto-battle reliability.
+                Enter ranked and tournament cycles with a clear plan.
               </p>
             </div>
 
@@ -178,8 +178,8 @@ export default function About() {
               <div className="text-2xl mb-3">🌍</div>
               <h3 className="text-xl font-semibold text-white mb-2">Multilingual Support</h3>
               <p className="text-slate-300">
-                Content available in multiple languages including English, Russian, Portuguese,
-                German, Spanish, Japanese, Korean, and French.
+                Core site experiences are localized so players can navigate guides and updates in their preferred language.
+                We continuously improve translation quality for key sections.
               </p>
             </div>
           </div>
@@ -202,8 +202,8 @@ export default function About() {
               <li><strong>Meta shifts:</strong> We track gameplay trends and update guides based on real player experiences</li>
             </ul>
             <p>
-              <strong>Want to contribute?</strong> Whether you've discovered a new crafting recipe, found a hidden biome,
-              or have suggestions for new guides, we'd love to hear from you! Reach out through our contact channels below.
+              <strong>Want to contribute?</strong> Whether you spotted a new code, tested a stronger lineup, or found an error
+              in a guide, we would love to hear from you. Reach out through our contact channels below.
             </p>
           </div>
         </div>
@@ -229,7 +229,7 @@ export default function About() {
               <li><strong>Community management:</strong> Listening to player feedback and fostering a positive environment</li>
             </ul>
             <p className="text-slate-400 italic text-sm">
-              Project Codename: "Dreamscape" – Navigating the surreal together.
+              Built by players who actively test strategies across live updates.
             </p>
           </div>
         </div>

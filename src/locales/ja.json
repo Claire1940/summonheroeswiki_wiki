@@ -1,27 +1,27 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "description": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, クラフト, バイオーム, 実績, サバイバル, Steam",
-      "ogTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "ogDescription": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "twitterTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "twitterDescription": "Lucid Blocks Wikiでは、Steamの超現実的なボクセルサンドボックスにおけるクラフト、バイオーム、クリーチャー、アイテム、実績、サバイバルのヒントを網羅しています。"
+      "title": "Summon Heroes Wiki - コード、最強キャラランキング、Roblox攻略ガイド",
+      "description": "Summon Heroes Wikiでは、Robloxプレイヤー向けに最新コード、最強キャラランキング、初心者向け攻略、序盤おすすめユニット、ガチャ、特性、PvP、トーナメント、ダンジョン、エンドコンテンツの進め方を解説しています。",
+      "keywords": "Summon Heroes, Summon Heroes wiki, Roblox, コード, 最強キャラランキング, PvP, トーナメント, ダンジョン",
+      "ogTitle": "Summon Heroes Wiki - コード、最強キャラランキング、Roblox攻略ガイド",
+      "ogDescription": "Summon Heroes Wikiは、RobloxのSummon Heroesにおける最新コード、メタ最強ランキング、初心者攻略、各モード別ガイドを網羅しています。",
+      "twitterTitle": "Summon Heroes Wiki - コード、最強キャラランキング、Roblox攻略ガイド",
+      "twitterDescription": "Summon Heroes Wikiでは、コード、最強ランキング、初心者向けセットアップ、PvPランク、トーナメント準備、ガチャ計画などを掲載しています。"
     }
   },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "tierList": "Tier List",
-    "units": "Units",
-    "farming": "Farming",
-    "update": "Update"
+    "codes": "コード",
+    "guide": "ガイド",
+    "tierList": "最強ランキング",
+    "units": "ユニット",
+    "farming": "周回・稼ぎ",
+    "update": "アップデート"
   },
   "common": {
     "home": "ホーム",
     "more": "もっと見る",
-    "playNow": "Steamでプレイ",
+    "playNow": "Robloxでプレイ",
     "switchLanguage": "言語を切り替える",
     "switchTheme": "テーマを切り替える",
     "lightMode": "ライトモード",
@@ -33,899 +33,1136 @@
     "readMore": "続きを読む"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ ボクセル・サバイバル・サンドボックス",
-    "title": "Lucid Blocks Wiki",
-    "description": "夢のようなバイオームを探索し、Apotheosisでアイテムを融合、自由に建築を楽しみましょう。Steamで繰り広げられるこのシュールなオープンワールド・サンドボックスで、奇妙なクリーチャーから生き延びてください。",
-    "getFreeCodesCTA": "クラフトガイドを見る",
-    "playOnSteamCTA": "Steamでプレイ",
+    "badge": "急成長中のRobloxヒーロー召喚ゲーム",
+    "title": "Summon Heroes Wiki",
+    "description": "RobloxのSummon Heroesプレイヤー向けに、最新コード、最強キャラランキング、ストーリー攻略、ナイトメアサーカス戦略、PvP/トーナメントのヘルプを提供します。",
+    "getFreeCodesCTA": "Summon Heroesハブを訪れる",
+    "playOnRobloxCTA": "RobloxでSummon Heroesをプレイ",
+    "playOnSteamCTA": "RobloxでSummon Heroesをプレイ",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "オンラインプレイヤー"
+        "value": "18.9M+",
+        "label": "総訪問数"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "最大同時接続数"
+        "value": "10.7K+",
+        "label": "オンラインプレイヤー"
       },
       "stat3": {
-        "value": "97%",
-        "label": "好評"
+        "value": "40+",
+        "label": "ヒーロー"
       },
       "stat4": {
-        "value": "2026年3月12日",
-        "label": "リリース日"
+        "value": "9",
+        "label": "ストーリーワールド"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks ゲームプレイ",
-    "description": "超現実的なバイオームを探索し、Apotheosis でアイテムを融合。Steam で、奇妙なクリーチャーから生き延びる夢のようなボクセルサンドボックスを体験しましょう。"
+    "title": "Summon Heroesのゲームプレイ",
+    "description": "Summon Heroesで最強の部隊を編成し、ストーリーをクリア、ダンジョンを周回、PvPで上位を目指し、グローバルトーナメントに備えましょう。"
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "リソース",
-    "subtitle": "Lucid Blocksでの探索、クラフト、生存に必要なすべての情報",
+    "title": "Summon Heroes",
+    "titleHighlight": "モジュールナビゲーション",
+    "subtitle": "ワンタップでSummon Heroesの各攻略セクションへ移動",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "初心者ガイド",
-        "description": "最初のステップ、探索、序盤の進め方"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Apotheosis クラフト",
-        "description": "フリーフォーム・フュージョンシステムと序盤のレシピ"
-      },
-      {
-        "icon": "Hammer",
-        "title": "ツールと武器",
-        "description": "フロストピック、アズラエル、__PROTECTED_6a765cb2__、その他"
-      },
-      {
-        "icon": "Package",
-        "title": "ストレージとインベントリ",
-        "description": "キャッシュキューブ、キャビネット、クオリアストレージ"
-      },
-      {
-        "icon": "Home",
-        "title": "クオリアと拠点建築",
-        "description": "パーソナルクオリアと拠点のセットアップ"
-      },
-      {
-        "icon": "Eye",
-        "title": "ワールドエリア",
-        "description": "Fog Meadow、エッセンスの沼地、その他"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "クリーチャーと敵",
-        "description": "マネキン、クモ、そして生き残る方法"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "移動用装備",
-        "description": "__PROTECTED_6a765cb2__、グライダーグローブ、__PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "農業と成長",
-        "description": "種の進行と素材集め"
+        "icon": "Download",
+        "title": "Summon Heroes コード",
+        "description": "有効・期限切れコードと簡単な交換手順"
       },
       {
         "icon": "Star",
-        "title": "序盤のおすすめアンロック",
-        "description": "プレイ開始1時間で優先すべきアップグレード"
+        "title": "Summon Heroes 最強キャラランキング",
+        "description": "総合、PvE、PvP、トーナメントのランキング"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "実績トラッカー",
-        "description": "全19個のSteamの実績と解除条件"
+        "icon": "BookOpen",
+        "title": "Summon Heroes 初心者ガイド",
+        "description": "序盤の進め方とリソースの優先順位"
       },
       {
-        "icon": "MessageCircle",
-        "title": "シングルプレイヤーFAQ",
-        "description": "プラットフォーム、価格、協力プレイ、言語に関する質問"
+        "icon": "Users",
+        "title": "Summon Heroes 序盤おすすめユニット",
+        "description": "スムーズな進行のための信頼できる初期キャラ"
       },
       {
-        "icon": "Gamepad2",
-        "title": "Steam Deckとコントローラー",
-        "description": "Proton 9.0.4のセットアップとコントローラーのヒント"
+        "icon": "Home",
+        "title": "Summon Heroes 最強パーティ編成",
+        "description": "ストーリー、PvP、ボス戦用の役割別チーム"
       },
       {
-        "icon": "Settings",
-        "title": "設定とアクセシビリティ",
-        "description": "手の非表示、__PROTECTED_38625270__、表示オプション"
+        "icon": "TrendingUp",
+        "title": "Summon Heroes レベル上げガイド",
+        "description": "効率的な経験値稼ぎとレベルの節目"
       },
       {
-        "icon": "Clock",
-        "title": "アップデートとパッチノート",
-        "description": "最近の修正とロードマップ"
+        "icon": "Package",
+        "title": "Summon Heroes ジェム・クリスタル稼ぎ",
+        "description": "通貨の周回方法とデイリー収入"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Summon Heroes ガチャガイド",
+        "description": "貯め時、引き時、天井の計画"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Summon Heroes 特性ガイド",
+        "description": "特性リセマラの優先順位とロックの判断"
       },
       {
         "icon": "Shield",
-        "title": "クラッシュ修正",
-        "description": "__PROTECTED_38625270__の確認、ログのパス、バグ報告"
+        "title": "Summon Heroes PvP最強ランキング",
+        "description": "PvP特化のユニット評価とカウンターキャラ"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Summon Heroes トーナメント最強ランキング",
+        "description": "トーナメント用オートバトル最強キャラ"
+      },
+      {
+        "icon": "Eye",
+        "title": "Summon Heroes ダンジョン・レイドガイド",
+        "description": "挑戦順序、報酬の価値、スタミナ消費"
+      },
+      {
+        "icon": "Settings",
+        "title": "Summon Heroes 強化ガイド",
+        "description": "ユニット、特性、装備の強化順序"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Summon Heroes 役割別最強ユニット",
+        "description": "DPS、タンク、サポート、妨害、ユーティリティ"
+      },
+      {
+        "icon": "Clock",
+        "title": "Summon Heroes エンドコンテンツ攻略",
+        "description": "レベル上限到達後の長期的なアカウント育成"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Summon Heroes アップデート履歴",
+        "description": "最新のバランス調整、イベント、ガチャ更新"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks 初心者ガイド",
+      "title": "Summon Heroes コード",
       "displayType": "steps",
-      "intro": "まずは探索、融合、そして進行がどのように繋がっているかを学ぶことから始めましょう。Lucid Blocks では試行錯誤が報われます。序盤の進行は、珍しい素材を集め、組み合わせを試し、自分だけのクオリアを解放することから始まります。",
+      "intro": "ジェム、神話の欠片、召喚チケット、レジェンダリークリスタルの最新 Summon Heroes コードを確認しましょう。貴重なリソースを消費する前に、まずコードを引き換えてください。",
       "steps": [
         {
-          "title": "本格的に動く前に探索する",
-          "description": "外へ歩き出し、一般的なブロックを採掘し、見つけた奇妙なドロップアイテムはすべて取っておきましょう。序盤の進行は、決まったクエストをこなすことよりも、素材が何に変化するかを発見することに重点が置かれています。"
+          "title": "Robloxで Summon Heroes を開く",
+          "description": "Summon Heroes を起動し、すべてのメニューが解放されるまでオープニングチュートリアルを完了させます。"
         },
         {
-          "title": "早めに自分専用のクオリアを解放する",
-          "description": "自分専用のクオリアは、序盤で最も重要なマイルストーンの一つです。体制を立て直し、拠点を構築するための信頼できる場所となります。"
+          "title": "召喚（Summon）の近くにあるコードパネルへ移動",
+          "description": "右側の召喚インターフェースからコード入力パネルを開きます。"
         },
         {
-          "title": "序盤の素早い進行にオスミウムを活用する",
-          "description": "オスミウムは序盤で最も役立つ素材の一つです。オスミウムと棒を組み合わせて、素早い採掘が可能な「フロストピック」を作るのが人気の序盤ルートです。"
+          "title": "有効な Summon Heroes コードを貼り付ける",
+          "description": "大文字を含め、表示されている通りに各コードを入力してください。"
         },
         {
-          "title": "優れた融合を記録する",
-          "description": "成功した組み合わせはジャーナルに記録しておきましょう。Lucid Blocks には膨大な融合パターンがあるため、有用な結果を書き留めておくことで大幅な時間の節約になります。"
+          "title": "「Claim」を押して報酬を確認",
+          "description": "コードが有効な場合、報酬は即座に Summon Heroes のインベントリに送られます。"
         }
       ],
       "quickTips": [
-        "Apotheosis には固定のレシピリストは必要ありません。",
-        "無限に生成される世界では、より高く、あるいはより深く移動することで、全く異なる素材が見つかることがあります。",
-        "移動ツールやユーティリティ装備を解放し始めると、プレイの快適さが劇的に向上します。",
-        "序盤に迷うのは普通のことですが、最初の優れた融合が成功すれば、便利なツール、ストレージ、移動手段が次々と手に入るようになります。"
+        "召喚チケットやレジェンダリークリスタルが手に入る価値の高いコードを優先しましょう。",
+        "有効期限が短い場合があるため、アップデート後はすぐに新しい Summon Heroes コードを使用してください。",
+        "重複した試行を避けるため、期限切れの Summon Heroes コードの記録を残しておきましょう。",
+        "序盤の価値を最大化するため、ガチャ（バナー）を引く前にすべての有効な Summon Heroes コードを引き換えてください。"
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis クラフト",
+      "title": "Summon Heroes ティアリスト",
       "displayType": "cards",
-      "intro": "Apotheosis は、このゲームの制限のない融合システムです。従来のレシピ本を暗記する代わりに、素材を組み合わせ、結果を観察し、時間をかけて自分だけのクラフト知識を築き上げていきます。",
+      "intro": "この Summon Heroes ティアリストでは、総合的な強さとモード別の価値を分けて紹介しています。進行、PvP、トーナメントのすべてで活躍し続けるユニットに投資しましょう。",
       "cards": [
         {
-          "name": "フリーフォームな融合",
-          "description": "Apotheosis では、固定のレシピリストに従うことなく、さまざまなアイテムを融合させることができます。"
+          "name": "SSランク Summon Heroes ユニット",
+          "description": "Reaper、Emperor、Seraph、B-4:R B.E.T、Divineは、長期的なアカウント運用において最高価値の主力となります。"
         },
         {
-          "name": "複数の有用な結果",
-          "description": "素材によって、特定の結果に繋がりやすい傾向があります。コミュニティの発見によれば、似たような投入素材からでも、実用的なツール、ストレージ、あるいは戦闘用のアップグレードを作成可能です。"
+          "name": "Sランク Summon Heroes ユニット",
+          "description": "Jester、Sniper、Technomancer、Kitsune Mage、Mermaid、Abyss Lord、Demon Knightは、複数のモードで優れたパフォーマンスを発揮します。"
         },
         {
-          "name": "ジャーナル優先のクラフト",
-          "description": "Apotheosis を学ぶ最良の方法は、成功した組み合わせを記録することです。ジャーナルはすぐにあなた専用のクラフトリファレンスになります。"
+          "name": "Aランク Summon Heroes ユニット",
+          "description": "Bear Tamer、Laser Cyborg、Slime Summoner、Demon Hunter、Necromancer、Ice Mage、Spellbladeは、攻略において信頼できる選択肢です。"
         },
         {
-          "name": "コミュニティ検証済みの序盤の融合",
-          "description": "序盤の代表例としては、オスミウム＋棒で「フロストピック」、棒＋タングステンの付属肢で「アズラエル」、アズラエル＋磁鉄鉱で「触手レイピア」などが挙げられます。"
+          "name": "B-Cランク Summon Heroes ユニット",
+          "description": "強力なガチャ（バナー）のためにリソースを節約しつつ、これらのユニットを一時的な穴埋めとして使用しましょう。"
         }
       ],
       "milestones": [
-        "アイテムを融合させる",
-        "害獣を融合させる",
-        "神聖なアーティファクトを融合させる"
+        "Summon Heroes PvEリーダー: Divine, Matriarch, Reaper",
+        "Summon Heroes PvPリーダー: B-4:R B.E.T, Seraph, Divine",
+        "Summon Heroes トーナメントリーダー: Emperor, Sniper, Ranger",
+        "バランス調整パッチのたびに、この Summon Heroes ティアリストを更新してください"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks ツールと武器",
+      "title": "Summon Heroes 初心者ガイド",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks では、公式のユーティリティ装備とコミュニティが発見した序盤の武器が混在しています。最適なセットアップは通常、素早い採掘、安全な移動、そして信頼できる戦闘手段を組み合わせたものです。",
+      "intro": "無駄を省き、戦力を安定させ、より良い進行ループを早期に解放するために、この Summon Heroes 開始1時間のルートに従ってください。",
       "items": [
         {
-          "name": "フロストピック",
-          "type": "採掘ツール",
-          "description": "オスミウムと棒から作られる、高速で安価な序盤用ピッケル。プレイヤーはこれを使って序盤の素材集めを加速させます。"
+          "name": "Summon Heroes チュートリアルを完了する",
+          "type": "ステップ 1",
+          "description": "チュートリアルを完了して、主要メニュー、報酬、コード引き換え機能を解放します。"
         },
         {
-          "name": "アズラエル",
-          "type": "初期武器",
-          "description": "棒とタングステンの付属肢からクラフトできる、実用的な序盤の武器ルートです。"
+          "name": "すべての Summon Heroes コードを引き換える",
+          "type": "ステップ 2",
+          "description": "ガチャを回す前に、無料のジェム、チケット、欠片を受け取りましょう。"
         },
         {
-          "name": "触手レイピア",
-          "type": "強化武器",
-          "description": "アズラエルと磁鉄鉱を組み合わせて作る強力な発展武器。プレイヤー間で共有されている、序盤から中盤にかけて最も有用な戦闘ルートの一つです。"
+          "name": "1つの Summon Heroes チームに集中して育成する",
+          "type": "ステップ 3",
+          "description": "多くのユニットにリソースを分散させるのではなく、1つの主力ラインナップのレベルを上げましょう。"
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "移動ツール",
-          "description": "移動能力と垂直方向の探索を大幅に向上させる公式の移動アイテムです。"
+          "name": "Summon Heroes のストーリーワールドを進める",
+          "type": "ステップ 4",
+          "description": "ストーリーを進めることで、より良い報酬が得られ、より多くのコンテンツループが解放されます。"
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "移動ツール",
-          "description": "より安全かつ効率的に距離を移動するのに役立つ公式の移動アイテムです。"
+          "name": "毎日 Summon Heroes ダンジョンを周回する",
+          "type": "ステップ 5",
+          "description": "強化素材や通貨を安定して入手するため、毎日のダンジョン入場回数を消化しましょう。"
         },
         {
-          "name": "ボールワンド",
-          "type": "ユーティリティ武器",
-          "description": "戦闘やパズルの選択肢を広げる公式の遠距離ユーティリティアイテムです。"
-        },
-        {
-          "name": "スキューバダイビングギア",
-          "type": "移動装備",
-          "description": "通常は探索が困難な場所へ到達するための公式ユーティリティアイテムです。"
-        },
-        {
-          "name": "爆発物",
-          "type": "ユーティリティ・ダメージ",
-          "description": "中核となるツールセットの一部として公式に推奨されており、脅威や障害物を突破するのに役立ちます。"
+          "name": "強力な Summon Heroes ガチャ（バナー）のために貯める",
+          "type": "ステップ 6",
+          "description": "影響の少ないガチャは避け、メインモードを強化できるバナーを待ちましょう。"
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks ストレージとインベントリ",
+      "title": "Summon Heroes おすすめ序盤ユニット",
       "displayType": "solutionCards",
-      "intro": "Lucid Blocks では早い段階からインベントリが圧迫されるため、ストレージの構築を優先目標にすべきです。実際のプレイヤーによって検証されたいくつかの解決策がすでに確立されています。",
+      "intro": "これらの Summon Heroes 序盤ユニットは、初期段階で高い価値を発揮し、新規アカウントが過度な出費をせずにコンテンツをクリアするのに役立ちます。",
       "solutions": [
         {
-          "name": "キャッシュキューブ",
-          "role": "チェスト型ストレージ",
-          "description": "キャッシュキューブは最も初期に利用可能な実用的なストレージであり、プレイヤーの間ではゲーム内の主要なチェスト型コンテナとして扱われています。"
+          "name": "Bear Tamer",
+          "role": "優先度：高",
+          "description": "強力な汎用性を持ち、Summon Heroes の序盤を安定して牽引するキャリーです。"
         },
         {
-          "name": "キャビネット",
-          "role": "簡易拠点ストレージ",
-          "description": "キャビネットも確認されているストレージの選択肢です。共有されている序盤のレシピでは、カットウッド1つと紐1つを使用します。"
+          "name": "Mermaid",
+          "role": "優先度：高",
+          "description": "PvEチームにおいて、Summon Heroes 序盤の安定したサポートを提供します。"
         },
         {
-          "name": "個人用クオリア",
-          "role": "長期ストレージハブ",
-          "description": "解放されると、個人用クオリアは素材を整理し、落ち着いてクラフトを行い、拠点を拡張するための自然な拠点となります。"
+          "name": "Slime Summoner",
+          "role": "優先度：高",
+          "description": "継続的な進行において信頼できる Summon Heroes のスターター候補です。"
         },
         {
-          "name": "ジャーナルによる追跡",
-          "role": "インベントリの効率化",
-          "description": "有用な組み合わせをジャーナルに記録することで、素材の無駄を減らし、インベントリ管理を大幅に楽にすることができます。"
+          "name": "Specter",
+          "role": "優先度：高",
+          "description": "高速クリアのための、Summon Heroes 序盤の戦力層を厚くする強力な選択肢です。"
+        },
+        {
+          "name": "Wind Samurai",
+          "role": "優先度：中",
+          "description": "トップティアのガチャが登場するまでの、堅実な Summon Heroes 進行用ユニットです。"
+        },
+        {
+          "name": "Necromancer",
+          "role": "優先度：中",
+          "description": "序盤に引けた場合、維持して育成する価値のある実用的な Summon Heroes の選択肢です。"
         }
       ],
       "managementTips": [
-        "レアなドロップ品を溜め込む前に、信頼できるストレージを一つ確保することを優先しましょう。",
-        "個人用クオリアが利用可能になったら、そこを中心に構築を進めましょう。",
-        "クラフト素材、戦闘ツール、移動装備を分けて保管することで、アップグレードの計画が立てやすくなります。",
-        "ジャーナルを単なるクラフトの発見用ではなく、インベントリ管理の一部として活用しましょう。"
+        "少なくとも1つの Summon Heroes タンク、1つのアタッカー、1つのユーティリティ枠を編成に入れておきましょう。",
+        "影響力の低い Summon Heroes の穴埋めユニットを過剰に強化しないでください。",
+        "中盤のチームでも役立ち続ける Summon Heroes 序盤ユニットを昇級させましょう。",
+        "明確な上位互換の準備が整った場合にのみ、Summon Heroes 序盤ユニットを入れ替えてください。"
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks クオリアと拠点建築",
-      "displayType": "cards",
-      "intro": "クオリアは Lucid Blocks における最も重要な進行マイルストーンの一つです。体制を整え、素材を保管し、探索の成果を徐々に本格的な拠点へと変えていくための個人空間を提供します。",
-      "cards": [
+      "title": "Summon Heroes 最強チーム編成",
+      "displayType": "cardList",
+      "intro": "レアリティだけを追い求めるのではなく、役割のバランスが取れた Summon Heroes のラインナップを使用しましょう。これらの実用的なビルドは、現在のティアリストの優先順位を、ストーリー、ボス戦、PvP、トーナメントで運用可能なチームに変換したものです。",
+      "items": [
         {
-          "name": "個人用クオリア",
-          "description": "クオリアの解放は序盤のマイルストーンであり、広い世界を探索する中で戻ってくるための信頼できる場所となります。"
+          "mode": "進行 / ストーリー",
+          "buildName": "Summon Heroes 初心者向け進行コア",
+          "units": [
+            "ベアテイマー",
+            "マーメイド",
+            "スライムサモナー",
+            "ネクロマンサー",
+            "風の侍"
+          ],
+          "focus": "安全なウェーブクリアと安定した序盤の進行",
+          "whyItWorks": "この Summon Heroes のラインナップは、一貫した価値を持つ初心者向けのユニットを使用しているため、プレミアムな名簿がなくてもスムーズにウェーブをクリアできます。"
         },
         {
-          "name": "ストレージ優先の建築",
-          "description": "多くのプレイヤーは、整理されたクラフトスペースや建築スペースを持つ大きな拠点にする前に、まずクオリアをストレージハブとして使い始めます。"
+          "mode": "ボス戦 / PvE",
+          "buildName": "Summon Heroes ハイエンドボス用コア",
+          "units": [
+            "リーパー",
+            "エンペラー",
+            "セラフ",
+            "ディバイン",
+            "ベアテイマー"
+          ],
+          "focus": "耐久力のある前衛サポートと最高峰のダメージ",
+          "whyItWorks": "この Summon Heroes ボスコアは、トップティアのアタッカーと最も有用なユーティリティ前衛の1人を組み合わせており、ボスが多いPvEで安定したパフォーマンスを発揮します。"
         },
         {
-          "name": "クリエイティブな自宅建築",
-          "description": "Lucid Blocks はクリエイティブな建築をサポートしており、プレイヤーはすでにクオリアの空間を利用して家やパーソナライズされたレイアウトを作成しています。"
+          "mode": "PvP / アリーナ",
+          "buildName": "Summon Heroes PvP プレッシャービルド",
+          "units": [
+            "B-4:R B.E.T.",
+            "セラフ",
+            "ディバイン",
+            "デーモンナイト",
+            "レンジャー"
+          ],
+          "focus": "バースト、生存力、コントロール",
+          "whyItWorks": "この Summon Heroes PvPビルドは、ラダーでの優先度が高いピックに従っており、スローなファーミングテンポよりも素早いプレッシャーを与えるように調整されています。"
         },
         {
-          "name": "進行のハブ",
-          "description": "強力な拠点は、探索で得た戦利品、クラフト素材、種、ツール、移動装備を分類するのに役立ち、次のアップグレード計画を容易にします。"
+          "mode": "トーナメント",
+          "buildName": "Summon Heroes オートバトル・トーナメントビルド",
+          "units": [
+            "B-4:R B.E.T.",
+            "エンペラー",
+            "ディバイン",
+            "スナイパー",
+            "レンジャー"
+          ],
+          "focus": "信頼性の高い価値を持つ強力な自動戦闘",
+          "whyItWorks": "この Summon Heroes トーナメント編成は、手動のタイミングよりも一貫性が重要となるオートバトル条件下で、高い出力を維持できるユニットを優先しています。"
+        },
+        {
+          "mode": "召喚優先度",
+          "buildName": "Summon Heroes バナー（ガチャ）ターゲットリスト",
+          "units": [
+            "リーパー",
+            "エンペラー",
+            "セラフ",
+            "B-4:R B.E.T.",
+            "ディバイン"
+          ],
+          "focus": "ジェムを節約する際の最適なプレミアムターゲット",
+          "whyItWorks": "Summon Heroes のジェムをどこで使うか迷っているなら、これらは長期的なアカウント成長のために最も安全で優先度の高いプル（召喚）です。"
         }
-      ],
-      "highlights": [
-        "クオリアに入る",
-        "素材を安全に保管する",
-        "実用性から装飾へと拡張する",
-        "拠点のスペースを活用してクラフトや農業を支援する"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks 世界の地域",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks は無限の世界生成を採用しているため、プレイヤーは常に新しい環境や構造物を発見し続けています。実績やコミュニティの議論には、すでにいくつかの地名が登場しています。",
-      "regions": [
+      "title": "Summon Heroes レベリングガイド",
+      "displayType": "steps",
+      "intro": "Summon Heroes の高速レベリングは、スタミナ、倍率アイテム、キャンペーンの進行、およびアップグレード素材を適切な順序で使用することによって実現されます。",
+      "steps": [
         {
-          "name": "Fog Meadow",
-          "type": "コミュニティ注目エリア",
-          "description": "Fog Meadow は、隠れた脅威や危険な遭遇に関連する緊張感のあるエリアとして、プレイヤーの間ですでに知られています。"
+          "step": 1,
+          "title": "まずは Summon Heroes のキャンペーンを進める",
+          "description": "ファーミングを始める前に、可能な限り遠くまで進めてください。Summon Heroes の放置報酬は、到達した最高のキャンペーンステージに応じて増加します。"
         },
         {
-          "name": "ティアマナ・レイライン",
-          "type": "発見ランドマーク",
-          "description": "ティアマナ・レイラインは独自の実績マイルストーンを持つほど重要であり、これまでに判明している中で最も明確な名前付きの発見場所の一つです。"
+          "step": 2,
+          "title": "レイドダンジョンで Summon Heroes の経験値倍率アイテムを使用する",
+          "description": "経験値倍率アイテムはレイドダンジョンで使用しましょう。特にボーナスタイム中に使用することで、最も効率的にレベルを上げることができます。"
         },
         {
-          "name": "クロナクオリア",
-          "type": "建築スペース",
-          "description": "プレイヤーはすでにクロナクオリアを、家を建てたり、素材を保管したり、より永続的なレイアウトを試したりする場所として利用しています。"
+          "step": 3,
+          "title": "Summon Heroes のメインDPS1体とバッファー1体を育成する",
+          "description": "多くのユニットにアップグレードを分散させるよりも、1体のキャリーを全力でサポートする方がレベリングはスムーズになります。"
         },
         {
-          "name": "エッセンスの沼地",
-          "type": "ファーミングエリア",
-          "description": "エッセンスの沼地は、特にスライムとの戦闘や経験値稼ぎに役立つファーミング場所としてプレイヤー間で共有されています。"
+          "step": 4,
+          "title": "Summon Heroes ボスラッシュで最高級の素材をファームする",
+          "description": "ボスラッシュを利用して上位の製作リソースを狙い、主要な投資はエピック装備のルートのために取っておきましょう。"
+        },
+        {
+          "step": 5,
+          "title": "Summon Heroes のジェムを適切な順序で優先する",
+          "description": "ジェムはまずインベントリの拡張に使い、次に限定バナー、そして希少な進化素材のための選択的なショップ更新に使いましょう。"
+        },
+        {
+          "step": 6,
+          "title": "12時間ごとに Summon Heroes の放置報酬を受け取る",
+          "description": "放置する前に素早くキャンペーンを進めておき、パッシブ報酬率を利用可能な最高のステージで固定しましょう。"
+        },
+        {
+          "step": 7,
+          "title": "早めにアクティブな Summon Heroes ギルドに参加する",
+          "description": "ギルドへの参加により、ショップへのアクセス、追加の通貨、そして進行を加速させる長期的なバフが得られます。"
+        },
+        {
+          "step": 8,
+          "title": "Summon Heroes の重複ユニットを覚醒に使用する",
+          "description": "重複ユニットによる覚醒のブレイクポイントは、より難易度の高いPvE、PvP、およびタワーの進行において大きなパワーアップとなります。"
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks クリーチャーと敵",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks は超現実的なクリーチャーと現実的な危険が混ざり合っています。公式の説明やコミュニティの投稿は、奇妙な生命、敵対的な脅威、そしてプレイヤーがすぐに覚えるような印象的な遭遇に満ちた世界を指し示しています。",
-      "creatures": [
+      "title": "Summon Heroes ジェムとクリスタルの稼ぎ方",
+      "displayType": "table",
+      "intro": "最良の Summon Heroes ファーミングプランは、一度限りの無料特典と、ステージ、放置報酬、ギルドコンテンツ、ボスラッシュからの反復可能なループを組み合わせたものです。",
+      "entries": [
         {
-          "name": "マネキン",
-          "role": "敵対的な敵",
-          "description": "マネキンはこの世界における公式な名前を持つ敵の一つであり、ゲームの超現実的な脅威リストの一部です。"
+          "source": "Summon Heroes コード: SUNSET",
+          "reward": "5 レジェンダリークリスタル",
+          "bestFor": "プレミアム召喚の進行",
+          "notes": "最近のアップデートサイクルに関連した価値の高いコード報酬。"
         },
         {
-          "name": "ぷにぷにジェル",
-          "role": "敵対的な敵",
-          "description": "ぷにぷにジェルも公式な名前を持つ敵タイプであり、ゲームの奇妙な生物学的スタイルを象徴しています。"
+          "source": "Summon Heroes コード: MOARSHARD",
+          "reward": "3 ミシックシャード",
+          "bestFor": "シャードの蓄積",
+          "notes": "バナー召喚後の迅速な名簿アップグレードに役立ちます。"
         },
         {
-          "name": "高次元の存在",
-          "role": "敵対的な敵",
-          "description": "これらの存在は、世界のより抽象的で不安をかき立てる敵ラインナップの一部として登場します。"
+          "source": "Summon Heroes コード: OOF",
+          "reward": "250 ジェム",
+          "bestFor": "序盤のリセマラや貯蓄",
+          "notes": "初期アカウント向けのシンプルな直接ジェムブースト。"
         },
         {
-          "name": "巨大クモ",
-          "role": "主要な脅威",
-          "description": "クモはコミュニティの議論で最も即座に恐れられている敵の一つであり、明らかに記憶に残る危険な存在です。"
+          "source": "Summon Heroes コード: DUNGEONZ",
+          "reward": "3 ミシックシャード",
+          "bestFor": "アップグレードリソース",
+          "notes": "ダンジョン中心のセッションと組み合わせると強力な価値を発揮します。"
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "名前付きクリーチャー",
-          "description": "__PROTECTED_26ee183b__ は独自の実績を持つほど注目に値し、ゲーム内で最も明確な名前付きクリーチャーとの遭遇の一つです。"
+          "source": "Summon Heroes コード: DELAYHEROES",
+          "reward": "5 召喚チケット",
+          "bestFor": "ジェムを使わない追加召喚",
+          "notes": "限定バナーのためにジェムを節約している間の良い繋ぎリソース。"
         },
         {
-          "name": "可愛い害獣",
-          "role": "インタラクティブな生物",
-          "description": "害獣は融合の進行に関わるだけでなく、名前を付けることもでき、標準的な敵よりも個人的な役割を持ちます。"
+          "source": "Summon Heroes コード: 500GEMS",
+          "reward": "500 ジェム",
+          "bestFor": "バナー用の貯蓄",
+          "notes": "Summon Heroes の直接的なジェム報酬としては最大級の1つ。"
         },
         {
-          "name": "冒涜的なクリーチャー",
-          "role": "エリートの脅威",
-          "description": "冒涜的なクリーチャーは専用の戦闘実績に関連付けられており、重要な敵との遭遇として位置づけられています。"
+          "source": "Summon Heroes ステージクリア",
+          "reward": "ジェム",
+          "bestFor": "反復可能なコア通貨",
+          "notes": "ストーリーの進行は、依然として信頼できるジェムの供給源です。"
+        },
+        {
+          "source": "Summon Heroes レベル報酬",
+          "reward": "ジェム",
+          "bestFor": "自然な進行による収入",
+          "notes": "序盤から中盤のアカウント成長期に高い価値があります。"
+        },
+        {
+          "source": "Summon Heroes 放置チェスト",
+          "reward": "キャンペーンの深さに応じたパッシブ報酬",
+          "bestFor": "バックグラウンドでのデイリーファーミング",
+          "notes": "キャンペーンを進めた後、12時間ごとに受け取りましょう。"
+        },
+        {
+          "source": "Summon Heroes ギルドレイドと寄付",
+          "reward": "ギルド通貨と覚醒素材",
+          "bestFor": "長期的なアカウント成長",
+          "notes": "アクティブなギルドプレイは、単なる召喚を超えた安定した進行レイヤーを追加します。"
+        },
+        {
+          "source": "Summon Heroes ボスラッシュ",
+          "reward": "上位の製作素材",
+          "bestFor": "召喚後のパワー急上昇",
+          "notes": "より優れたユニットを、より速いアップグレードの加速へと変換します。"
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks 移動装備",
-      "displayType": "itemCards",
-      "intro": "移動手段のアップグレードは、Lucid Blocks におけるプレイの快適さを最も大きく向上させる要素の一つです。最初の移動ツールを解放すれば、探索はより速く、より安全に、そしてより実りあるものになります。",
-      "items": [
+      "title": "Summon Heroes 召喚ガチャガイド",
+      "displayType": "accordion",
+      "intro": "このSummon HeroesガチャFAQを活用して、いつ引くべきか、いつ温存すべきか、そしてどのガチャ対象が確実な戦力強化に繋がるかを判断しましょう。",
+      "faqs": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "移動ツール",
-          "description": "フックショットはゲーム内で最も明確な移動のマイルストーンの一つであり、専用の実績も用意されています。"
+          "question": "Summon Heroesのガチャはどのくらいの頻度で入れ替わりますか？",
+          "answer": "Summon Heroesではガチャが入れ替わるため、引くチャンスはすぐに変わります。ローテーションを把握し、狙いの価値を確認する前にリソースを消費しないようにしましょう。"
         },
         {
-          "name": "グライダーグローブ",
-          "type": "空中移動",
-          "description": "グライダーグローブはよりスムーズな移動を可能にし、独自の実績を持つもう一つの主要な進行マイルストーンです。"
+          "question": "すべてのガチャにSummon Heroesのジェムを使うべきですか？",
+          "answer": "いいえ。Summon Heroesでは、すべてのローテーションを追うよりも、影響力の大きいガチャのためにジェムを温存する方が通常は強力です。"
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "移動ツール",
-          "description": "ビィ・グライダーは、効率的に距離を移動するための移動ツールキットの一部として公式に推奨されています。"
+          "question": "どのSummon Heroesガチャ対象を優先すべきですか？",
+          "answer": "Reaper、Emperor、Seraph、B-4:R B.E.T.、Divineが排出されるSummon Heroesガチャを優先しましょう。これらは複数のモードで価値を維持し続けるためです。"
         },
         {
-          "name": "ボールワンド",
-          "type": "ユーティリティ装備",
-          "description": "ボールワンドは公式に推奨されている特殊ツールの一つで、世界を移動したり干渉したりする方法を広げてくれます。"
+          "question": "Summon Heroesの初心者は、プレミアムガチャを追う前に何をすべきですか？",
+          "answer": "まずは入手しやすいユニットで安定したSummon Heroesのコアチームを構築し、その後、主要なスロットを強化できるプレミアムガチャのために温存しましょう。"
         },
         {
-          "name": "スキューバダイビングギア",
-          "type": "探索装備",
-          "description": "スキューバダイビングギアは、通常では探索が困難なエリアに到達するための中核的なユーティリティセットとして公式にリストされています。"
+          "question": "Summon Heroesで召喚せずに温存した方が良いのはいつですか？",
+          "answer": "現在のローテーションが前衛、キャリー、またはコントロールスロットを明確に改善しない場合は、Summon Heroesで温存しましょう。"
         },
         {
-          "name": "爆発物",
-          "type": "ユーティリティ・ダメージ",
-          "description": "爆発物は公式に推奨されていると同時に実績マイルストーンにも関連付けられており、ゲームの中核的なユーティリティ進行の一部となっています。"
+          "question": "Summon Heroesのガチャを引くために必要な通貨は何ですか？",
+          "answer": "Summon Heroesのガチャ進行には、コード、ステージクリア、レベル報酬、ギルド活動を通じて獲得できるジェム、召喚チケット、シャード、クリスタルが使用されます。"
         }
-      ],
-      "unlockMilestones": [
-        "フックショットを使いこなす",
-        "グライダーグローブで空を飛ぶ",
-        "投射物ワンドを構える",
-        "爆発物を構える"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks 農業と成長",
-      "displayType": "mixedCards",
-      "intro": "成長は Lucid Blocks における真の進行の一部です。農業は単に植えて収穫するだけでなく、ツール、武器、クラフトの選択肢を維持するための反復可能な素材ルートを確立することでもあります。",
-      "sections": [
+      "title": "Summon Heroes 特性ガイド",
+      "displayType": "tierGrid",
+      "eyebrow": "Summon Heroes 最適化",
+      "subtitle": "低価値の選択肢にリソースを費やす前に、PvE、PvP、またはトーナメントですでに活躍しているユニットに特性の再抽選（リロール）を使用しましょう。",
+      "intro": "公開されているSummon Heroesの情報源では、複数のモードで際立った少数のユニットについて一貫した合意があります。そのため、それらが最も安全なリロール対象となります。ユニットがすでにPvE、PvP、またはトーナメントのランキングで上位にある場合、それをさらに強化することは、低ティアのユニットをリロールするよりも通常は高い価値を生みます。",
+      "items": [
         {
-          "name": "種の進行",
-          "description": "種を植えて肥料を与えることはゲーム内の重要なマイルストーンであり、完全に成長したナッツを収穫することも同じ成長パスの一部です。"
+          "tier": "最優先",
+          "units": [
+            "B-4:R B.E.T.",
+            "Divine",
+            "Seraph",
+            "Emperor",
+            "Reaper"
+          ],
+          "description": "これらは公開ランキングで繰り返し上位またはその付近に登場するため、Summon Heroesで最強の特性リロール対象です。リロール回数に限りがある場合は、マイナーなユニットに投資する前にここから始めましょう。"
         },
         {
-          "name": "素材ファーミング",
-          "description": "実用的な序盤のファーミングループは「水銀カプセル」を作成することです。これにより、反復可能なクラフト素材となる触手やグーをドロップする小さなスライムが出現します。"
+          "tier": "強力な次点対象",
+          "units": [
+            "Ranger",
+            "Demon Knight",
+            "Laser Cyborg",
+            "Sniper",
+            "Jester",
+            "Bear Tamer"
+          ],
+          "description": "これらはメインキャリーを確保した後の強力な追加投資対象となるSummon Heroesユニットです。Ranger、Demon Knight、Laser CyborgはPvPやトーナメントの傑出ユニットとして挙げられており、SniperとJesterは幅広いティアリストで依然として価値の高い選択肢です。"
         },
         {
-          "name": "ツールの維持",
-          "description": "オスミウム、ガラスの破片、植物、スライム素材を安定して集められるようになると、その後のクラフトのための資源ファーミングがより強力になります。"
+          "tier": "低優先度のリロール対象",
+          "units": [
+            "Archer",
+            "Diver",
+            "Fire Mage",
+            "Wind Samurai",
+            "Dragoon",
+            "Specter",
+            "Academy Witch",
+            "Ninja",
+            "Framerate",
+            "Bandit",
+            "Swordsman",
+            "Deckhand"
+          ],
+          "description": "これらのSummon Heroesユニットは全体的なティアが低いため、唯一の使用可能な選択肢でない限り、リロールは通常非効率的です。まずはこれらを入れ替え、より強力なユニットにリロールを使いましょう。"
         },
         {
-          "name": "拠点のルーチン",
-          "description": "最適な農業セットアップは食料以上のものを支えます。ストレージ、移動ツール、武器のアップグレード、そして将来の融合実験に供給されるべきです。"
+          "tier": "シンプルなキープ・リロールのルール",
+          "units": [
+            "トップメタのキャリーを維持",
+            "穴埋めユニットのリロールを後回し",
+            "メインチームを優先的にアップグレード"
+          ],
+          "description": "実用的なSummon Heroesのルールは、すでにメインのストーリー、PvP、またはトーナメントチームに入っているユニットに投資し続けることです。すぐにベンチ入りさせる予定のキャラクターにリロールを浪費しないでください。"
         }
-      ],
-      "growthMilestones": [
-        "種に肥料を与える",
-        "完全に成長したナッツを収穫する",
-        "反復可能な素材ループを作成する",
-        "農業を長期的な進行に組み込む"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks おすすめの序盤解放要素",
-      "displayType": "priorityCards",
-      "intro": "最強の序盤解放要素は、安全性、ストレージ、そして移動能力を向上させるものです。Lucid Blocks では、いくつかの実用的なアップグレードがその後のゲームプレイ全体を非常にスムーズにします。",
-      "priorities": [
+      "title": "Summon Heroes PvP ティアリスト",
+      "displayType": "tierGrid",
+      "eyebrow": "Summon Heroes PvP メタ",
+      "subtitle": "これらのランキングは、ストーリーの進行よりもプレイヤー対プレイヤー（PvP）のパフォーマンスに焦点を当てています。最高のPvPの選択肢は、現在の公開ティア情報源で繰り返し名前が挙がっているユニットです。",
+      "intro": "Twinfiniteによる現在のSummon Heroes PvPランキングでは、対人戦で際立つ6つのユニットが挙げられています。ページを見やすくするため、以下のリストでは最も中心的なPvPコアと、それに次ぐサポートおよびフレックス選択肢を分けています。",
+      "items": [
         {
-          "name": "個人用クオリア",
-          "priority": "必須",
-          "description": "個人用クオリアにアクセスできるようになると、プレイが格段に安定します。ストレージ、建築、体制の立て直しのための信頼できるハブとして機能します。"
+          "tier": "Sティア",
+          "units": [
+            "B-4:R B.E.T.",
+            "Seraph",
+            "Divine"
+          ],
+          "description": "これらは現在の公開ランキングにおいて、最も明確なSummon Heroes PvPの中心ユニットです。少数のプレミアムな投資を中心に構築する場合は、この3つから始めましょう。"
         },
         {
-          "name": "フロストピック",
-          "priority": "極めて高い",
-          "description": "オスミウムと棒で作れる、高速で安価な序盤の採掘ツール。序盤の資源収集を加速させるために最も有用なアップグレードの一つです。"
+          "tier": "Aティア",
+          "units": [
+            "Demon Knight",
+            "Ranger",
+            "Laser Cyborg"
+          ],
+          "description": "これらは対人チームをうまく補完する、強力なSummon Heroes PvPの選択肢です。コアユニットの背後で追加のバースト、ユーティリティ、または確実なプレッシャーが必要な場合に役立ちます。"
         },
         {
-          "name": "キャッシュキューブ",
-          "priority": "極めて高い",
-          "description": "インベントリの圧迫は早くから始まるため、最初の信頼できるチェスト型コンテナを手に入れることは、プレイの快適さを大きく向上させます。"
+          "tier": "強力な総合フレックス選択肢",
+          "units": [
+            "Reaper",
+            "Emperor",
+            "Jester",
+            "Sniper"
+          ],
+          "description": "これらのSummon Heroesユニットは、PvPのトップ6として明示的には挙げられていませんが、幅広いカバレッジで上位にランクされており、手持ちのユニットや対戦相手のニーズに応じて依然として価値があります。"
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "高い",
-          "description": "フックショットはゲーム内で最も明確な移動のマイルストーンの一つであり、探索をより速く、より安全にします。"
-        },
-        {
-          "name": "グライダーグローブ",
-          "priority": "高い",
-          "description": "グライダーグローブはもう一つの大きな機動力ブーストをもたらし、長距離の移動をはるかに効率的にします。"
-        },
-        {
-          "name": "投射物ワンドまたは爆弾",
-          "priority": "高い",
-          "description": "遠距離ツールや爆発物の選択肢を持つことで、危険な敵や試練形式の遭遇に対してより安全に対処できるようになります。"
+          "tier": "序盤のつなぎ",
+          "units": [
+            "Bear Tamer",
+            "Dragoon Isadora",
+            "Captain Dreadmoor"
+          ],
+          "description": "これらのSummon Heroesユニットは、プレミアムなPvPチームを目指す間の暫定的な選択肢として使用するのが適しています。進行を安定させるのには役立ちますが、終盤のメインとなるPvPターゲットではありません。"
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks 実績トラッカー",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks には現在 19 個の Steam 実績があり、それらは探索、クラフト、移動、戦闘、成長の進行に自然に分類されます。",
-      "groups": [
+      "title": "Summon Heroes トーナメント最強キャラランキング",
+      "displayType": "tierGrid",
+      "eyebrow": "Summon Heroes トーナメントメタ",
+      "subtitle": "Summon Heroesのトーナメントモードには独自の最適キャラが存在するため、ストーリーや一般的なPvPで最強のユニットが必ずしもトーナメントでの最良の投資先とは限りません。",
+      "intro": "現在公開されているSummon Heroesのティア情報では、全名簿の中からトーナメントに特化した少数のグループが特定されています。このページでは、そのモード専用のランキングを整理し、素早いチーム編成の判断に役立つ形式でまとめています。",
+      "items": [
         {
-          "name": "探索",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "クオリアに入る。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "ティアマナ・レイラインを発見する。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "ティアマナの試練を乗り越える。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "隠し実績。"
-            }
-          ]
+          "tier": "Sティア",
+          "units": [
+            "B-4:R B.E.T.",
+            "エンペラー",
+            "ディバイン"
+          ],
+          "description": "これらは現在の公開ランキングで挙げられているSummon Heroesトーナメントの主要ユニットです。最も確実なトーナメント攻略を目指すなら、まずはこれらを中心に育成しましょう。"
         },
         {
-          "name": "クラフトと召喚",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "アイテムを融合させる。"
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "害獣を融合させる。"
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "神聖なアーティファクトを融合させる。"
-            },
-            {
-              "title": "Archangel β",
-              "description": "信仰を召喚する。"
-            }
-          ]
+          "tier": "Aティア",
+          "units": [
+            "スナイパー",
+            "レンジャー",
+            "レーザーサイボーグ"
+          ],
+          "description": "これらのSummon Heroesユニットは、公開されているトーナメント上位グループを構成しており、コアとなる3体の背後を支える実用的な第2陣が必要な際に強力な選択肢となります。"
         },
         {
-          "name": "移動とユーティリティ",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "グライダーグローブで空を飛ぶ。"
-            },
-            {
-              "title": "Virtue β",
-              "description": "フックショットを使いこなす。"
-            },
-            {
-              "title": "Archangel α",
-              "description": "投射物ワンドを構える。"
-            },
-            {
-              "title": "Archangel γ",
-              "description": "爆発物を構える。"
-            }
-          ]
+          "tier": "他モードでも役立つバックアップ",
+          "units": [
+            "セラフ",
+            "リーパー",
+            "デーモンナイト",
+            "ジェスター"
+          ],
+          "description": "これらのSummon Heroesユニットは、他の主要モードでも高く評価されており、トーナメントのコアメンバーが揃っていない時の穴埋めとして非常に価値が高いです。"
         },
         {
-          "name": "戦闘とクリーチャー",
-          "achievements": [
-            {
-              "title": "__PROTECTED_26ee183b__ の虐殺",
-              "description": "罪のないバブルベアを倒す。"
-            },
-            {
-              "title": "Archangel δ",
-              "description": "冒涜的なクリーチャーを排除する。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "死亡する。"
-            },
-            {
-              "title": "Dominion γ",
-              "description": "可愛い害獣に名前を付ける。"
-            }
-          ]
-        },
-        {
-          "name": "成長と農業",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "種に肥料を与える。"
-            },
-            {
-              "title": "Dominion β",
-              "description": "完全に成長したナッツを収穫する。"
-            },
-            {
-              "title": "Dominion δ",
-              "description": "隠し実績。"
-            }
-          ]
+          "tier": "チーム編成のコツ",
+          "units": [
+            "まずはコアとなるキャリーを1体選ぶ",
+            "信頼できるダメージパートナーを1体加える",
+            "6番目のスロットは柔軟なバックアップ枠にする"
+          ],
+          "description": "Summon Heroesのトーナメントでのパフォーマンスを向上させるには、多くの平均的なユニットに強化を分散させるのではなく、実績のある少数のユニットにリソースを集中させることが最も効果的です。"
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks シングルプレイヤーおよびプラットフォーム FAQ",
-      "displayType": "accordion",
-      "intro": "これらは、Lucid Blocks を購入する前にプレイヤーからよく寄せられる、プラットフォームとアクセスに関する核心的な質問です。",
-      "faqs": [
+      "title": "Summon Heroes ダンジョン＆レイド攻略ガイド",
+      "displayType": "steps",
+      "eyebrow": "Summon Heroes エンドゲーム周回",
+      "subtitle": "まずはストーリー、デイリータスク、ダンジョンを主な進行ループとして活用し、コアチームが安定したら、より難易度の高い周回コンテンツに移行しましょう。",
+      "intro": "Summon Heroesにおける最も明確な進行アドバイスは、ストーリーモード、デイリークエスト、ダンジョンをレベリングの基礎とすることです。宝箱、レベルアップ報酬、ユニット売却、コードなどの報酬源がそのサイクルを支え、高難易度のチャレンジコンテンツはメインチームが完成した後に取り組むのが最適です。",
+      "items": [
         {
-          "question": "Lucid Blocks はシングルプレイヤーですか？",
-          "answer": "はい。Lucid Blocks はシングルプレイヤー専用ゲームです。"
+          "step": "ステップ 1",
+          "title": "エンドゲーム周回を急ぐ前にSummon Heroesのストーリーステージをクリアする",
+          "description": "Summon Heroesのストーリー進行は、序盤の報酬とアカウント成長の主要な源です。また、より強力な召喚やアップグレードに必要なリソースを解放するのにも役立ちます。"
         },
         {
-          "question": "マルチプレイヤーや協力プレイの予定はありますか？",
-          "answer": "いいえ。リリース時および将来のアップデートにおいて、マルチプレイヤーの予定はありません。"
+          "step": "ステップ 2",
+          "title": "プレイするたびにSummon Heroesのデイリークエストをこなす",
+          "description": "Summon Heroesのデイリークエストは、最速のレベリング経路の一部として繰り返し推奨されています。これらは着実なアカウント進行のための信頼できる情報源であり、長時間の周回を始める前のルーチンに組み込むべきです。"
         },
         {
-          "question": "Lucid Blocks はどこでプレイできますか？",
-          "answer": "現在は Windows 用に Steam で配信されています。"
+          "step": "ステップ 3",
+          "title": "Summon Heroesのダンジョンを主な経験値周回として利用する",
+          "description": "現在のSummon Heroesのレベリング情報では、ダンジョンが素早くレベルを上げる最良の方法の一つとして強調されています。ストーリーの進行が停滞してきたら、ダンジョンが最も効率的な周回場所になります。"
         },
         {
-          "question": "Lucid Blocks の価格はいくらですか？",
-          "answer": "Steam で 9.99 ドルです。"
+          "step": "ステップ 4",
+          "title": "周回しながらSummon Heroesのサイド報酬を回収する",
+          "description": "マップの宝箱を開け、レベルアップ報酬を受け取り、有効なSummon Heroesのコードを随時入力しましょう。また、不要になったヒーローを売却することで、余った在庫を有益なリソースに変えられることもガイドで言及されています。"
         },
         {
-          "question": "Lucid Blocks はコントローラーに対応していますか？",
-          "answer": "はい。ただし、メニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。"
+          "step": "ステップ 5",
+          "title": "Summon Heroesの放置トレーニングはあくまで補助として活用する",
+          "description": "Summon Heroesの放置トレーニングは便利ですが、ストーリー、デイリークエスト、ダンジョンに取って代わるものではなく、それらと並行してバックグラウンドで進行させるのが最も効果的です。"
         },
         {
-          "question": "Lucid Blocks は Steam Deck で動作しますか？",
-          "answer": "はい。Steam Deck では、Proton 9.0 または 9.0.4 の使用が一般的に推奨されています。"
-        },
-        {
-          "question": "Lucid Blocks は Linux で動作しますか？",
-          "answer": "はい。Linux および Steam Deck において、Proton 9.0 で良好に動作することが報告されています。"
-        },
-        {
-          "question": "Mac や Android はサポートされますか？",
-          "answer": "将来的にサポートされる可能性はありますが、現時点でのローンチプラットフォームではありません。"
-        },
-        {
-          "question": "Lucid Blocks に翻訳はありますか？",
-          "answer": "いいえ。現在、翻訳の予定はありません。"
-        },
-        {
-          "question": "Lucid Blocks はアップデートされ続けますか？",
-          "answer": "はい。リリース後にいくつかのコンテンツアップデートが予定されていますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
+          "step": "ステップ 6",
+          "title": "コアチームが整ったら、より難易度の高いSummon Heroesのチャレンジコンテンツに移行する",
+          "description": "Summon Heroesの名簿が安定したら、より難易度の高い周回コンテンツに時間を割きましょう。ゲームの説明では、ナイトメアサーカスや対戦モードが、基本的なストーリー進行を超えて戦力を高める場所として挙げられています。"
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck とコントローラー",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks は Steam Deck で動作しますが、デフォルト設定では調整が必要な場合があります。メニュー操作や一般的なプレイにおいては、キーボードとマウスの方がスムーズです。",
-      "faqs": [
+      "title": "Summon Heroes 強化ガイド",
+      "displayType": "stepByStepCards",
+      "eyebrow": "進行",
+      "subtitle": "序盤から終盤まで、アカウントに最も大きな影響を与える場所に素材を使い、賢く強化しましょう。",
+      "intro": "Summon Heroesの最も効率的なルートは、序盤はコアチームを機能させ、より良いガチャのためにリソースを温存し、名簿の質が十分になった時に初めて重要な素材を投入することです。",
+      "items": [
         {
-          "question": "Lucid Blocks は Steam Deck で動作しますか？",
-          "answer": "はい。Proton 9.0 で良好に動作します。また、Proton 9.0.4 は Steam Deck の問題に対する一般的な修正方法として共有されています。"
+          "step": 1,
+          "title": "効率的なスターターユニットで序盤を乗り切る",
+          "description": "高価な強化の決断を下す前に、実績のある初心者向けのユニットを使用してストーリーをクリアし、より多くの報酬源を解放しましょう。",
+          "highlights": [
+            "マーメイド、ベアテイマー、スライムサモナー、スペクター、風の侍、ネクロマンサー、コンストラクトなどの安定したスターターを中心に編成しましょう。",
+            "進行スピードと解放を最優先し、早い段階でアカウントの周回ルートを増やしましょう。",
+            "早すぎる完璧なチーム作りよりも、序盤の安定性が重要です。"
+          ]
         },
         {
-          "question": "Steam Deck の操作が効かない場合はどうすればよいですか？",
-          "answer": "互換性設定を強制し、ゲームを Proton 9.0.4 に切り替えてください。デフォルト設定ではコントローラー入力が正しく受け付けられない場合があります。"
+          "step": 2,
+          "title": "プレミアム通貨は無駄なガチャに使わず、特定のバナーのために貯める",
+          "description": "価値の低い召喚にジェムを分散させないでください。ガチャの自制心を持つことが、短期的な進行を強いるよりも長期的な成長に繋がります。",
+          "highlights": [
+            "コア名簿を実質的に強化できる限定バナーのためにジェムを保管しておきましょう。",
+            "ユーティリティリソースは、インベントリ枠、限定バナー、そしてレア進化のリフレッシュの順で使用しましょう。",
+            "頻繁なバナーの入れ替わりは、パニック買いの引き金ではなく、計画を立てる期間として捉えましょう。"
+          ]
         },
         {
-          "question": "Lucid Blocks はコントローラーに対応していますか？",
-          "answer": "はい。ただし、ゲームのメニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。"
+          "step": 3,
+          "title": "幅広い名簿の強化よりも、影響力の高いユニットを優先する",
+          "description": "まずはお使いの複数のモードで価値を発揮するユニットに投資し、そのコアを中心にモード特化型のキャラを加えていきましょう。",
+          "highlights": [
+            "長期的な主力には、リーパー、エンペラー、セラフ、B-4:R B.E.T、ディバインなどが含まれます。",
+            "アカウントが特化に対応できるようになったら、PvEとPvPの優先順位を分けましょう。",
+            "汎用的なコアが安定するまで、ニッチな強化は後回しにしましょう。"
+          ]
         },
         {
-          "question": "Linux のサポートは可能ですか？",
-          "answer": "はい。Linux および Steam Deck において、Proton 9.0 で良好に動作することが報告されています。"
+          "step": 4,
+          "title": "本格的な装備への支出はエピック品質まで待つ",
+          "description": "序盤の過度な装備への支出は、引き継ぎ価値の低いリソースを浪費します。最初は軽くアップグレードし、より高いティアが手に入ったら本格的に移行しましょう。",
+          "highlights": [
+            "低レアリティの装備への過剰投資は避けましょう。",
+            "主要な装備がエピック品質に達してから、本格的な強化を開始しましょう。",
+            "ボスラッシュや高価値の周回を利用して、長期的なクラフト強化の素材を集めましょう。"
+          ]
         },
         {
-          "question": "最適な入力設定は何ですか？",
-          "answer": "メニューのナビゲーションや一般的なプレイにおいては、キーボードとマウスが最もスムーズな選択肢です。"
+          "step": 5,
+          "title": "重複ユニットは星の成長と覚醒のブレイクポイントに使用する",
+          "description": "重複したコピーは、長期的に使用する予定のヒーロー、特に重要な星の節目において最も価値があります。",
+          "highlights": [
+            "本格的なエンドゲームの名簿には、優先ユニットの重複利用計画が必要です。",
+            "ヒーローが星5に達すると、覚醒の解放が大きな節目となります。",
+            "覚醒の価値は、PvPやタワーの深層攻略において特に高くなります。"
+          ]
+        },
+        {
+          "step": 6,
+          "title": "実際にプレイするモードに合わせて強化を行う",
+          "description": "あるモードでは非常に優秀でも、別のモードでは平均的なユニットもいるため、強化の優先順位は主な活動に合わせるべきです。",
+          "highlights": [
+            "PvEでは、ボス戦やウェーブ制御のために、持続的なDPSと召喚によるプレッシャーが重視されます。",
+            "PvPでは、生存能力、バーストダメージ、クラウドコントロールのタイミングが好まれます。",
+            "トーナメントでは、自動戦闘ロジックの下でうまく機能するユニットが報われます。"
+          ]
+        },
+        {
+          "step": 7,
+          "title": "放置前にキャンペーンを進め、イベントに合わせてスタミナを回す",
+          "description": "放置収益とスタミナ消費を最高クリアステージやイベントのタイミングに合わせることで、進行スピードが上がります。",
+          "highlights": [
+            "放置する前に、より高い放置報酬を得るためにキャンペーンの最高ステージを進めておきましょう。",
+            "リソースが上限に達しないよう、定期的に放置報酬を受け取りましょう。",
+            "最良のレベリング効率を得るために、ボーナスイベント中の経験値やスタミナの期間を活用しましょう。"
+          ]
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks 設定とアクセシビリティ",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks には、プレイヤーが最初にゲームを起動した際に重要となる、いくつかの実用的な設定と互換性に関する注意点があります。",
-      "settings": [
+      "title": "Summon Heroes 役割別最強ユニット",
+      "displayType": "roleTableCards",
+      "eyebrow": "編成構築",
+      "subtitle": "各ユニットの実際の役割に基づいて編成を組み、Summon Heroesのチームでダメージ、コントロール、耐久力のバランスを整えましょう。",
+      "intro": "Summon Heroesでは、レア度を追うことよりも役割のバランスが重視されます。強力なアカウントでは、エリートアタッカーに適切な前衛、サポート、そして各モードに特化したユーティリティを組み合わせています。",
+      "items": [
         {
-          "name": "ディスプレイ設定",
-          "type": "快適性オプション",
-          "description": "ディスプレイ設定には、画面上の手を表示しないようにするオプションが含まれています。"
+          "role": "コアアタッカー",
+          "best_units": [
+            "リーパー",
+            "エンペラー",
+            "ディバイン",
+            "セラフ"
+          ],
+          "why_it_works": "これらのユニットは、アカウントの戦力強化と複数のモードでの価値において、長期的に安定した投資となります。",
+          "best_modes": [
+            "PvE",
+            "PvP",
+            "トーナメント"
+          ]
         },
         {
-          "name": "グラフィックスの互換性",
-          "type": "システム要件",
-          "description": "グラフィックスを正しくレンダリングするには __PROTECTED_38625270__ のサポートが必要です。__PROTECTED_38625270__ に対応していないシステムでは、クラッシュや深刻なグラフィックの不具合が発生する可能性があります。"
+          "role": "継続PvEアタッカー",
+          "best_units": [
+            "ディバイン",
+            "リーパー",
+            "エンペラー",
+            "ジェスター"
+          ],
+          "why_it_works": "これらのユニットは、長期戦やボス中心の進行ルートにおいて安定したダメージを維持します。",
+          "best_modes": [
+            "ストーリー",
+            "ダンジョン",
+            "ナイトメアサーカス"
+          ]
         },
         {
-          "name": "入力の好み",
-          "type": "操作設定",
-          "description": "コントローラーのサポートは存在しますが、メニューがコントローラー操作向けに構築されていないため、キーボードとマウスの方がスムーズな体験が得られます。"
+          "role": "オートプレイ向けトーナメント編成",
+          "best_units": [
+            "B-4:R B.E.T.",
+            "エンペラー",
+            "ディバイン",
+            "スナイパー",
+            "レンジャー",
+            "レーザーサイボーグ"
+          ],
+          "why_it_works": "自動戦闘条件下でも信頼性の高い出力を維持し、トーナメントのローテーションにおいて価値を発揮します。",
+          "best_modes": [
+            "トーナメント"
+          ]
         },
         {
-          "name": "言語サポート",
-          "type": "ローカライズ",
-          "description": "現在の設定は英語のみであり、現時点では翻訳の予定はありません。"
+          "role": "PvPバースト＆コントロール",
+          "best_units": [
+            "B-4:R B.E.T.",
+            "セラフ",
+            "デーモンナイト",
+            "レーザーサイボーグ",
+            "レンジャー"
+          ],
+          "why_it_works": "これらのユニットは、強力なバーストチャンスとクラウドコントロール性能により、プレッシャーの高いPvPのペースに適応します。",
+          "best_modes": [
+            "1v1",
+            "2v2",
+            "1v1v1"
+          ]
+        },
+        {
+          "role": "サマナーの有用性",
+          "best_units": [
+            "スライムサマナー",
+            "ネクロマンサー"
+          ],
+          "why_it_works": "召喚されたユニットが圧力を吸収し、PvEの周回においてメインアタッカーをより安全に保ちます。",
+          "best_modes": [
+            "ストーリー",
+            "ダンジョン"
+          ]
+        },
+        {
+          "role": "初心者向け進行コア",
+          "best_units": [
+            "ベアテイマー",
+            "マーメイド",
+            "風の侍",
+            "スペクター",
+            "ネクロマンサー",
+            "コンストラクト"
+          ],
+          "why_it_works": "これらのユニットは、神話級中心のチームが現実的になる前の、序盤の進行を安定させます。",
+          "best_modes": [
+            "ストーリー序盤",
+            "全般的な進行"
+          ]
+        },
+        {
+          "role": "遠距離ユーティリティ",
+          "best_units": [
+            "スナイパー",
+            "レンジャー",
+            "テクノマンサー"
+          ],
+          "why_it_works": "効率的な遠距離攻撃による圧力を提供し、混合コンテンツのセットアップにおいて柔軟な価値を発揮します。",
+          "best_modes": [
+            "PvE",
+            "トーナメント",
+            "混合モード"
+          ]
+        },
+        {
+          "role": "中盤の柔軟な代用ユニット",
+          "best_units": [
+            "マーメイド",
+            "アビスロード",
+            "狐魔術師",
+            "ベアテイマー"
+          ],
+          "why_it_works": "これらの繋ぎのユニットは、プレミアムガチャのアップグレードのためにリソースを貯めている間、編成の機能を維持します。",
+          "best_modes": [
+            "中盤の進行",
+            "全般的なファーミング"
+          ]
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks アップデートとパッチノート",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks では、リリース直後の迅速な修正や小規模なユーザビリティのアップデートがすでに行われています。",
-      "entries": [
+      "title": "Summon Heroes エンドゲームの進行",
+      "displayType": "accordion",
+      "eyebrow": "エンドゲーム",
+      "subtitle": "初心者フェーズ終了後、Summon Heroes の成長はリソースの配分、ガチャの自制、そしてモード別の優先順位によって決まります。",
+      "intro": "Summon Heroes のエンドゲームはタイミングと効率が重要です。強力なアカウントは、より良い放置報酬を得るためにキャンペーンを進め、重複ユニットを大幅な戦力強化に変換し、スタミナ消費をイベント期間に合わせます。",
+      "items": [
         {
-          "title": "アップデート 2.8.2",
-          "type": "UI アップデート",
-          "description": "メインメニューの「awaken（目覚める）」を「exit（終了）」に変更しました。"
+          "question": "序盤を終えた後、Summon Heroes でまず何に集中すべきですか？",
+          "answer": "複数のモードで活躍する強力なユニットでコアチームを安定させ、その後はキャンペーンをできるだけ進めてください。クリアステージが高いほど、パッシブ報酬が向上します。"
         },
         {
-          "title": "起動時のクラッシュに関する小規模パッチ",
-          "type": "ホットフィックス",
-          "description": "起動時にゲームがクラッシュしていたプレイヤー向けに、専用のパッチがリリースされました。"
+          "question": "Summon Heroes のハイエンドな強化素材はどこで集めるべきですか？",
+          "answer": "アカウントが中盤から終盤の進行に入ったら、上位ティアの製作素材を集めるためにボスラッシュを優先的な周回ルートにすべきです。"
         },
         {
-          "title": "リリース後のコンテンツサポート",
-          "type": "ロードマップ注記",
-          "description": "リリース後にいくつかのコンテンツアップデートが予定されていますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
+          "question": "アカウントレベルが高くなった際、Summon Heroes でより早くレベルを上げるにはどうすればよいですか？",
+          "answer": "ボーナス期間中にレイドダンジョンで経験値倍率アイテムを使用し、信頼できるバッファーと共に最強のダメージコアを編成して挑んでください。"
+        },
+        {
+          "question": "中盤から終盤にかけて、Summon Heroes のジェムを最も効率的に使う方法は何ですか？",
+          "answer": "まずインベントリの枠を優先し、次に限定ガチャ、そして希少な進化素材のためのショップ更新を厳選して行いましょう。"
+        },
+        {
+          "question": "Summon Heroes のエンドゲームにおいて、重複ユニットはどの程度重要ですか？",
+          "answer": "重複ユニットは非常に重要になります。PvPや高難易度コンテンツで重要となる、星5覚醒の大きな節目を解放できるからです。"
+        },
+        {
+          "question": "Summon Heroes の放置（AFK）報酬はどのように管理すべきですか？",
+          "answer": "放置報酬は一定のペースで受け取り、放置する前には常にキャンペーンの最高ステージを更新して、パッシブ報酬を増やしておきましょう。"
+        },
+        {
+          "question": "Summon Heroes のエンドゲームでギルドに加入する価値はありますか？",
+          "answer": "はい。ギルドの進行によって長期的なバフが得られ、時間の経過とともにアカウントの成長を加速させる素材を入手できるようになります。"
+        },
+        {
+          "question": "スタミナや素材を無駄にせずに Summon Heroes で成長し続けるにはどうすればよいですか？",
+          "answer": "複数のモードで真の価値を持つユニットに投資し、弱いティアの装備に深入りするのを避け、意味のあるガチャ期間のために召喚を温存しましょう。"
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks クラッシュ修正とトラブルシューティング",
-      "displayType": "steps",
-      "intro": "起動時やクラッシュに関する差し迫った問題は、パッチレベル、グラフィックスサポート、プラットフォームの互換性、ログの順に確認してください。",
-      "steps": [
+      "title": "Summon Heroes アップデートログ",
+      "displayType": "accordion",
+      "eyebrow": "最新アップデート",
+      "subtitle": "マップ、モード、ガチャ、進行の優先順位を形作る Summon Heroes の主要なコンテンツ動向を追跡します。",
+      "intro": "Summon Heroes は迅速なライブサービス形式でアップデートされます。このアップデートログでは、コード、編成計画、モード戦略に関する最も重要な変更点を紹介します。",
+      "items": [
         {
-          "title": "最新のクラッシュホットフィックスをインストールする",
-          "description": "起動時にゲームがクラッシュする場合は、まずアップデートを行い、最新の起動クラッシュ用パッチで再度テストしてください。"
+          "question": "Summon Heroes リリース時期 - 2026年2月",
+          "answer": "Summon Heroes は2026年2月後半にRobloxでリリースされ、現在のライブサービスサイクルの開始と、初期メタの急速な発展を告げました。"
         },
         {
-          "title": "__PROTECTED_38625270__ のサポートを確認する",
-          "description": "Lucid Blocks には __PROTECTED_38625270__ のサポートが必要です。__PROTECTED_38625270__ に対応していないシステムでは、クラッシュや重大なレンダリングの問題が発生する可能性があります。"
+          "question": "Summon Heroes サンセットシティ・アップデート",
+          "answer": "サンセットシティは、新しいマップの勢いと新鮮なコード、そして進行への関心を組み合わせた、最も注目されたアップデートの波となりました。"
         },
         {
-          "title": "Steam Deck で Proton 9.0.4 を使用する",
-          "description": "Steam Deck で入力や起動の挙動に問題がある場合は、互換性設定を強制し、Proton 9.0.4 に切り替えてください。"
+          "question": "Summon Heroes ダンジョン重視の報酬強化",
+          "answer": "最近のアップデートサイクルでは、レベル上げと強化リソース獲得の主要ルートとして、ダンジョンとレイドダンジョンが引き続き強化されています。"
         },
         {
-          "title": "クラッシュログを収集する",
-          "description": "Windows の「ファイル名を指定して実行」を開き、「%APPDATA%」を貼り付けて、lucid blocks/logs フォルダに移動し、トラブルシューティング用の .txt ファイルを収集してください。"
+          "question": "Summon Heroes トーナメントのメタが独自の層を形成",
+          "answer": "トーナメントは現在、標準的なPvPやPvEの投資ロジックとは別の、独自の戦略的エコシステムとして扱われています。"
         },
         {
-          "title": "問題を正しく報告する",
-          "description": "公式 Discord の bug-reports フォーラム、または Steam コミュニティページで、ログとデバイスの詳細を共有してください。"
+          "question": "Summon Heroes 新ユニットスポットライト - レンジャー",
+          "answer": "レンジャーは、特にPvEと対人戦の両方の価値において、複数のモードの議論で際立って柔軟なユニットとして浮上しました。"
+        },
+        {
+          "question": "Summon Heroes 現在のレベル上限と進行の拡張",
+          "answer": "レベル上限はリリース時の予想を超えて上昇し続けており、より長期的なアカウント最適化ループを支えています。"
+        },
+        {
+          "question": "Summon Heroes ライブアップデートの頻度",
+          "answer": "大規模なアップデートは短い間隔で頻繁に配信され、ボーナス経験値の週末は引き続きスタミナ消費の重要なタイミングとなっています。"
+        },
+        {
+          "question": "Summon Heroes 最新状況チェック - 2026年4月",
+          "answer": "Summon Heroes は2026年4月時点でも活発にメンテナンスされており、現在の編成や周回の判断においてアップデートの追跡が役立ち続けています。"
         }
       ]
     }
   },
   "faq": {
-    "title": "よくある",
-    "titleHighlight": "質問",
-    "subtitle": "Lucid Blocks に関するすべての情報",
+    "title": "Summon Heroes",
+    "titleHighlight": "FAQ",
+    "subtitle": "Summon Heroes の進行に関するよくある質問への回答",
     "questions": [
       {
-        "question": "Lucid Blocks はシングルプレイヤーゲームですか？",
-        "answer": "はい。Lucid Blocks はシングルプレイヤー専用のゲームであり、マルチプレイヤーや協力プレイの予定はありません。"
+        "question": "Summon Heroes のコードはどのくらいの頻度で更新されますか？",
+        "answer": "Summon Heroes のコードは通常、アップデート、マイルストーン、イベントの際に更新されます。そのため、各パッチの後にコードリストを確認してください。"
       },
       {
-        "question": "Lucid Blocks における Apotheosis システムとは何ですか？",
-        "answer": "Apotheosis は Lucid Blocks のフリーフォーム・フュージョン・クラフトシステムです。決まったレシピに従うのではなく、素材を組み合わせて独自のクラフトパスを発見していきます。"
+        "question": "Summon Heroes でまず何を優先すべきですか？",
+        "answer": "Summon Heroes では、幅広いユニットへの投資よりも、有効なコードの引き換え、1つのコアチームへの集中、そしてストーリーの進行を優先してください。"
       },
       {
-        "question": "Lucid Blocks はどこでプレイできますか？",
-        "answer": "Lucid Blocks は現在、Windows向けに Steam で配信されています。Linuxおよび Steam Deckへの対応は、Proton 9.0を通じて提供されています。"
+        "question": "Summon Heroes でジェムを効率的に使うにはどうすればよいですか？",
+        "answer": "Summon Heroes のジェムは価値の高いピックアップガチャに使用し、メインモードの強化に繋がらない効果の薄いガチャは避けましょう。"
       },
       {
-        "question": "Lucid Blocks の価格はいくらですか？",
-        "answer": "Lucid Blocks は Steam で9.99ドルです。"
+        "question": "Summon Heroes のエンドゲームの成長において、どのモードが最も重要ですか？",
+        "answer": "Summon Heroes のエンドゲームの進行は、連携の取れたストーリークリア、ダンジョン周回、PvPの練習、そしてトーナメントの最適化にかかっています。"
       },
       {
-        "question": "Lucid Blocks はコントローラーに対応していますか？",
-        "answer": "はい。ただし、メニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。キーボードとマウスの方がスムーズに操作できます。"
+        "question": "Summon Heroes のPvPやトーナメント用のチームはどのように編成すべきですか？",
+        "answer": "Summon Heroes のPvPチームには瞬発力とコントロールが必要ですが、Summon Heroes のトーナメントチームは安定したオートバトルの火力が好まれます。"
       },
       {
-        "question": "Lucid Blocks のアップデートはありますか？",
-        "answer": "はい。リリース後にいくつかのコンテンツアップデートを予定していますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
+        "question": "Summon Heroes の公式発表はどこで確認できますか？",
+        "answer": "ガチャ、アップデート、イベントのタイミングについては、公式の Summon Heroes Hub、Discord、X、YouTubeチャンネルを確認してください。"
       }
     ]
   },
   "cta": {
-    "title": "Lucid Blocksを探索する準備はできましたか？",
-    "description": "DiscordのLucid Blocksコミュニティに参加して、ガイドや最新情報、ディスカッションをチェックしましょう！",
-    "joinCommunity": "Discordに参加",
-    "joinGame": "Steamでプレイ"
+    "title": "Summon Heroes に参加する準備はできましたか？",
+    "description": "Roblox で Summon Heroes に飛び込み、公式 Discord に参加してアップデート、イベント、コミュニティの助けを得ましょう。",
+    "joinCommunity": "Summon Heroes の Discord に参加する",
+    "joinGame": "Roblox で Summon Heroes をプレイする"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocksのクラフト、バイオーム、クリーチャー、実績、サバイバルガイドに関する完全なリソースハブです。",
+    "title": "Summon Heroes Wiki",
+    "description": "Summon Heroes のコード、ティアリスト、ストーリーワールド、ナイトメアサーカス、PvP、トーナメントガイドを網羅したリソースハブです。",
     "resources": "リソース",
     "community": "コミュニティ",
-    "legal": "法的情報",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam コミュニティ",
-    "steamStore": "Steam ストア",
-    "about": "このサイトについて",
+    "legal": "法的事項",
+    "discord": "公式 Discord",
+    "twitter": "公式 X (Twitter)",
+    "steamCommunity": "公式 YouTube",
+    "steamStore": "公式ハブ",
+    "about": "概要",
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "copyrightNotice": "著作権",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocksの開発元とは提携していません。",
-    "disclaimer": "非公式のファン作成リソースサイトです。"
+    "copyright": "© 2026 Summon Heroes Wiki. Not affiliated with RedManta LLC, Twin Atlas, or Roblox Corporation.",
+    "disclaimer": "Roblox Summon Heroes の非公式ファンメイドリソースサイトです。"
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks 攻略ガイド",
-      "description": "初心者向けの基本から、高度な Apotheosis 戦略まで網羅した完全攻略ガイド。サバイバルとクラフトを極めましょう。",
-      "metaTitle": "Lucid Blocks 攻略ガイド - 初心者から上級者向けの戦略",
-      "metaDescription": "初心者向けのヒント、Apotheosis システム、サバイバル戦略、そしてシュールなサンドボックスの世界を攻略するための専門的な戦術を網羅した Lucid Blocks 完全ガイド。",
+    "codes": {
+      "title": "Summon Heroes コード",
+      "description": "ジェム、ゴールド、召喚チケットの最新の有効な Summon Heroes コード報酬。迅速な引き換え手順と毎日の追跡情報。",
+      "metaTitle": "Summon Heroes コード - 無料のジェム、ゴールド、チケット",
+      "metaDescription": "有効な Summon Heroes コードを見つけ、無料のジェムと召喚チケットを受け取りましょう。毎日の更新追跡と迅速な引き換え手順。",
+      "categoryLabel": "引き換えコード",
+      "whatIs": "Summon Heroes コードとは？",
+      "whatIsDescription": "Summon Heroes コードは、マイルストーンやイベント中にリリースされる期間限定の引き換え文字列です。これらは無料の通貨やブーストを提供し、名簿の成長を加速させます。",
+      "why": "なぜ毎日 Summon Heroes コードをチェックするのですか？",
+      "whySteps": {
+        "step1Title": "毎日の無料報酬を受け取る",
+        "step1Description": "現在のコードを使用して、Robuxを消費せずにジェム、ゴールド、召喚チケットを収集します。",
+        "step2Title": "有効期限に注意する",
+        "step2Description": "ほとんどの Summon Heroes コードはすぐに期限切れになるため、迅速な引き換えが報酬を守ります。",
+        "step3Title": "チームの進行をブーストする",
+        "step3Description": "追加のリソースは、より強力なユニットの召喚、アップグレードの高速化、より困難なステージのクリアに役立ちます。"
+      },
+      "featured": "おすすめ＆必須",
+      "all": "すべての Summon Heroes コード"
+    },
+    "guide": {
+      "title": "Summon Heroes ガイド",
+      "description": "初心者のセットアップ、バナーの決定、チーム編成、序盤から終盤までの進行戦略をカバーするステップバイステップの Summon Heroes ガイド。",
+      "metaTitle": "Summon Heroes ガイド - 初心者から上級者までの進行",
+      "metaDescription": "ゲームのあらゆる段階におけるコアメカニクス、チーム編成のパス、効率的な進行戦術については、Summon Heroes ガイドをお読みください。",
       "categoryLabel": "ゲームガイド",
-      "whatIs": "ガイドとは？",
-      "whatIsDescription": "ゲームの仕組み、サバイバル戦略、Apotheosis クラフトシステムを網羅した包括的なガイド。最初の一歩から高度なテクニックまで、すべてを学びましょう。",
-      "why": "なぜガイドを読むのか？",
+      "whatIs": "Summon Heroes ガイドカテゴリとは？",
+      "whatIsDescription": "このセクションでは、召喚、チームの相乗効果、マップのペース、リソース計画などのコアシステムについて説明し、プレイヤーが明確な優先順位を持って進行できるようにします。",
+      "why": "なぜ Summon Heroes ガイドの記事を読むのですか？",
       "whySteps": {
-        "step1Title": "基本システムを学ぶ",
-        "step1Description": "Apotheosis システムを理解し、初心者が陥りやすいミスを回避しましょう",
-        "step2Title": "素早い進行",
-        "step2Description": "シュールな世界で生き残り、繁栄するための実証済みの道筋を辿りましょう",
-        "step3Title": "戦略を極める",
-        "step3Description": "探索とクラフトのための高度な戦術を身につけましょう"
+        "step1Title": "コアシステムをより速く学ぶ",
+        "step1Description": "バナー、アップグレード、チームの役割を早期に理解し、一般的なセットアップのミスを回避します。",
+        "step2Title": "より良いチームを構築する",
+        "step2Description": "テスト済みの組み合わせと配置ロジックに従って、PvEクリアをよりスムーズにします。",
+        "step3Title": "明確な計画を持って進行する",
+        "step3Description": "レベル上げ、マップのプッシュ、マイルストーンのアンロックに実用的なルートを使用します。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのガイド"
+      "featured": "おすすめ＆必須",
+      "all": "すべての Summon Heroes ガイド"
     },
-    "crafting": {
-      "title": "Lucid Blocks クラフト",
-      "description": "エッセンスの仕組み、レシピ、強力なアイテムを作るためのクラフト戦略など、Apotheosis 合成システムをマスターしましょう。",
-      "metaTitle": "Lucid Blocks クラフト - Apotheosis システムとレシピ",
-      "metaDescription": "Lucid Blocks の Apotheosis クラフトシステムを極める。エッセンスの仕組み、合成レシピ、強力な道具や武器を作るための戦略を学びましょう。",
-      "categoryLabel": "クラフトシステム",
-      "whatIs": "クラフトとは？",
-      "whatIsDescription": "Apotheosis システムは、最大6つのアイテムを組み合わせて新しいレシピを発見する、独自のエッセンス駆動型合成メカニズムです。固定されたクラフトメニューはなく、実験が鍵となります。",
-      "why": "なぜクラフトを極めるのか？",
+    "tier-list": {
+      "title": "Summon Heroes ティアリスト",
+      "description": "キャンペーン、ボスウェーブ、対戦コンテンツにおける主要ユニット、役割の価値、メタの強さに関する現在の Summon Heroes ティアリストランキング。",
+      "metaTitle": "Summon Heroes ティアリスト - メタロール別の最強ユニット",
+      "metaDescription": "最新の Summon Heroes ティアリストを使用して、主要なゲームモード全体での役割、スケーリング、全体的な影響力ごとにトップユニットを比較します。",
+      "categoryLabel": "メタランキング",
+      "whatIs": "Summon Heroes ティアリストとは？",
+      "whatIsDescription": "Summon Heroes ティアリストは、現在のパッチにおけるダメージ出力、ユーティリティ、一貫性、相乗効果などのパフォーマンスへの影響によってユニットをグループ化します。",
+      "why": "なぜ Summon Heroes ティアリストを使用するのですか？",
       "whySteps": {
-        "step1Title": "強力なアイテムをアンロック",
-        "step1Description": "合成を通じて、不可欠な道具、武器、移動用装備を発見しましょう",
-        "step2Title": "エッセンスを理解する",
-        "step2Description": "アイテムのエッセンスがどのように組み合わさり、予測可能な結果を生み出すかを学びましょう",
-        "step3Title": "リソースを最適化",
-        "step3Description": "希釈メカニズムを使用して、安価な材料から出力を最大化しましょう"
+        "step1Title": "価値の高いユニットを優先する",
+        "step1Description": "より多くのマップやイベントを攻略できるユニットにシャードやアップグレード素材を投資します。",
+        "step2Title": "メタの変化に適応する",
+        "step2Description": "バランス調整や新ユニットのリリース後のランキングの変動を追跡します。",
+        "step3Title": "チームの役割を最適化する",
+        "step3Description": "ティア別の役割パフォーマンスに基づいて、DPS、コントロール、サポートのバランスを取ります。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのクラフトガイド"
+      "featured": "おすすめ＆必須",
+      "all": "すべての Summon Heroes ティアリスト"
     },
-    "items": {
-      "title": "Lucid Blocks アイテム",
-      "description": "道具、武器、移動用装備、収納ソリューションを網羅した詳細なアイテムガイド。クラフトレシピや使い方のヒントも掲載。",
-      "metaTitle": "Lucid Blocks アイテム - 道具、武器、装備ガイド",
-      "metaDescription": "道具、武器、移動用装備、収納を含む Lucid Blocks の完全アイテムデータベース。各アイテムを効果的に作り、使用する方法を学びましょう。",
-      "categoryLabel": "アイテム＆装備",
-      "whatIs": "アイテムとは？",
-      "whatIsDescription": "道具、武器、移動用装備、機能的なアイテムに関する包括的なガイド。クラフトレシピ、使用戦略、最適な組み合わせを学びましょう。",
-      "why": "なぜアイテムガイドをチェックするのか？",
+    "units": {
+      "title": "Summon Heroes ユニット",
+      "description": "ステータス、役割の内訳、アップグレードの優先順位、実用的なチーム適合の推奨事項を含む、完全な Summon Heroes ユニットガイド。",
+      "metaTitle": "Summon Heroes ユニット - ステータス、役割、ビルドの優先順位",
+      "metaDescription": "より強力なチーム編成のための詳細な役割分析、スケーリングノート、アップグレードパスを含む Summon Heroes ユニットを閲覧します。",
+      "categoryLabel": "ユニットデータベース",
+      "whatIs": "Summon Heroes ユニットページとは？",
+      "whatIsDescription": "このカテゴリでは、強み、限界、スキルの焦点、各ユニットが最も威力を発揮する場所など、Summon Heroes ユニットのヒーローレベルの内訳を提供します。",
+      "why": "なぜ Summon Heroes ユニットを比較するのですか？",
       "whySteps": {
-        "step1Title": "クラフトレシピを学ぶ",
-        "step1Description": "Apotheosis を使用して、不可欠な道具や武器をクラフトする方法を発見しましょう",
-        "step2Title": "装備を最適化",
-        "step2Description": "プレイスタイルや進行状況に合わせて最適なアイテムを選びましょう",
-        "step3Title": "生存率を高める",
-        "step3Description": "移動用装備や武器を装備して、危険な世界を探索しましょう"
+        "step1Title": "より良いガチャ対象を選択する",
+        "step1Description": "ジェムやチケットを消費する前に、どのユニットが名簿の目標に合っているかを確認してください。",
+        "step2Title": "アップグレード効率を向上させる",
+        "step2Description": "主要なモードでうまくスケーリングするユニットに投資を集中させます。",
+        "step3Title": "チームの相乗効果を洗練させる",
+        "step3Description": "単なるレアリティではなく、役割の相互作用によってユニットをペアリングします。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのアイテム"
+      "featured": "おすすめ＆必須",
+      "all": "すべての Summon Heroes ユニット"
     },
-    "biomes": {
-      "title": "Lucid Blocks バイオーム",
-      "description": "世界の各地域、環境の特徴、リソースの場所、各バイオームでのサバイバルのヒントを探索しましょう。",
-      "metaTitle": "Lucid Blocks バイオーム - 世界の地域と探索",
-      "metaDescription": "ティアマナ・レイライン、Fog Meadow、シュールな地域を含む Lucid Blocks のバイオームを探索。リソースを見つけ、危険を回避し、無限の世界を旅しましょう。",
-      "categoryLabel": "世界の地域",
-      "whatIs": "バイオームとは？",
-      "whatIsDescription": "世界のさまざまな地域、環境の特徴、リソースの分布、危険地帯に関するガイド。各エリアで何が待ち受けているか、どのように準備すべきかを学びましょう。",
-      "why": "なぜバイオームを探索するのか？",
+    "farming": {
+      "title": "Summon Heroes ファーミング",
+      "description": "XP、ゴールド、シャード、進行素材のための効率的な Summon Heroes ファーミングルート（AFKループやステージ選択のヒントを含む）。",
+      "metaTitle": "Summon Heroes ファーミング - XP、ゴールド、素材ルート",
+      "metaDescription": "実用的なステージルート、AFKセットアップ、アカウントの成長を早めるためのリソースの優先順位により、Summon Heroes のファーミングを最適化します。",
+      "categoryLabel": "ファーミングルート",
+      "whatIs": "Summon Heroes ファーミングとは？",
+      "whatIsDescription": "Summon Heroes ファーミングガイドは、時間効率の高いレベル上げ、通貨獲得、素材収集のための反復可能なルーチンに焦点を当てています。",
+      "why": "なぜ Summon Heroes ファーミングルートに従うのですか？",
       "whySteps": {
-        "step1Title": "リソースを見つける",
-        "step1Description": "各地域特有の希少な材料やエッセンスの場所を特定しましょう",
-        "step2Title": "危険を回避",
-        "step2Description": "環境の危険や敵対的な生物について理解しましょう",
-        "step3Title": "探索を計画",
-        "step3Description": "各バイオームのタイプに合わせて、適切な道具と装備を準備しましょう"
+        "step1Title": "より速くレベルアップ",
+        "step1Description": "実証済みのステージループを使用して、ダウンタイムを減らしながらアカウントとユニットのレベルを上げます。",
+        "step2Title": "リソース収穫を最大化する",
+        "step2Description": "1回の実行でより良い報酬を提供するマップやモードをターゲットにします。",
+        "step3Title": "長期的な進行をサポート",
+        "step3Description": "召喚、アップグレード、終盤のチーム調整のための安定した収入を維持します。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのバイオーム"
+      "featured": "おすすめ＆必須",
+      "all": "すべての Summon Heroes ファーミングガイド"
     },
-    "building": {
-      "title": "Lucid Blocks 建築",
-      "description": "クオリア個人次元、拠点建築、収納管理、クリエイティブな建設テクニックをマスターしましょう。",
-      "metaTitle": "Lucid Blocks 建築 - クオリアと拠点建設",
-      "metaDescription": "クオリア個人次元、拠点建設、収納ソリューション、クリエイティブな建築テクニックなど、Lucid Blocks の建築を極めましょう。",
-      "categoryLabel": "建築＆拠点",
-      "whatIs": "建築とは？",
-      "whatIsDescription": "クオリア個人次元システム、拠点建設、収納管理、クリエイティブな建築に関するガイド。シュールな世界の中に自分だけの安息の地を作る方法を学びましょう。",
-      "why": "なぜ拠点を建てるのか？",
+    "update": {
+      "title": "Summon Heroes アップデート",
+      "description": "新ユニット、マップの変更、機能の展開、アクティブプレイヤーへの影響のまとめなど、Summon Heroes のパッチおよびイベントアップデート情報を網羅しています。",
+      "metaTitle": "Summon Heroes アップデート - パッチノートとイベントの変更点",
+      "metaDescription": "新ユニット、モードの変更、ゲームプレイの判断に影響するイベント報酬など、Summon Heroes のアップデートを分かりやすく解説します。",
+      "categoryLabel": "パッチトラッカー",
+      "whatIs": "Summon Heroes アップデートページとは？",
+      "whatIsDescription": "このセクションでは、主要なパッチ、ライブイベント、新システム、ゲームプレイの調整など、Summon Heroes のアップデート内容を追跡します。",
+      "why": "なぜ Summon Heroes のアップデートをチェックするのか？",
       "whySteps": {
-        "step1Title": "安全な場所を作る",
-        "step1Description": "収納やクラフト作業のための安全な拠点を確立しましょう",
-        "step2Title": "リソースを管理",
-        "step2Description": "収納ソリューションを使用して、材料を効率的に整理しましょう",
-        "step3Title": "クオリアをアンロック",
-        "step3Description": "究極の利便性を備えた個人のポケット次元にアクセスしましょう"
+        "step1Title": "新コンテンツを素早く理解する",
+        "step1Description": "各パッチやイベント開始後の変更点を素早く把握できます。",
+        "step2Title": "チームと計画の調整",
+        "step2Description": "次回のプレイ前に、バランス調整や新ユニットのリリースに対応できます。",
+        "step3Title": "イベントのチャンスを逃さない",
+        "step3Description": "期間限定のコンテンツや報酬を、期間内に優先的に獲得できます。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべての建築ガイド"
-    },
-    "support": {
-      "title": "Lucid Blocks サポート",
-      "description": "テクニカルサポート、プラットフォームの互換性、パフォーマンスの最適化、一般的な問題のトラブルシューティング。",
-      "metaTitle": "Lucid Blocks サポート - テクニカルヘルプと修正",
-      "metaDescription": "Steam Deck のセットアップ、クラッシュの修正、パフォーマンスの最適化、プラットフォームの互換性ガイドなど、Lucid Blocks のテクニカルサポートを受けられます。",
-      "categoryLabel": "テクニカルサポート",
-      "whatIs": "サポートとは？",
-      "whatIsDescription": "プラットフォームの互換性、パフォーマンスの最適化、クラッシュの修正、一般的な問題を網羅したテクニカルガイド。Steam Deck、マルチプレイヤーに関する質問、設定などのヘルプ。",
-      "why": "なぜサポートをチェックするのか？",
-      "whySteps": {
-        "step1Title": "技術的な問題を解決",
-        "step1Description": "クラッシュ、パフォーマンスの問題、互換性の問題を解決しましょう",
-        "step2Title": "パフォーマンスを最適化",
-        "step2Description": "お使いのプラットフォームで最高の体験を得るために設定を構成しましょう",
-        "step3Title": "プラットフォームの互換性",
-        "step3Description": "Steam Deck、コントローラーのサポート、システム要件について学びましょう"
-      },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのサポート記事"
+      "featured": "注目・必須情報",
+      "all": "すべての Summon Heroes アップデート"
     }
   }
 }

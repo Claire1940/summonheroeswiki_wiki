@@ -1,27 +1,27 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Wiki de Invocar Héroes - Códigos, Tier List y Guías de Roblox",
+      "description": "Wiki de Invocar Héroes cubre códigos activos, tier lists, rutas para principiantes, unidades iniciales, banners, rasgos, PvP, Torneo, mazmorras y progresión final para jugadores de Roblox.",
+      "keywords": "Summon Heroes, Wiki de Invocar Héroes, Roblox, códigos, tier list, PvP, Torneo, mazmorras",
+      "ogTitle": "Wiki de Invocar Héroes - Códigos, Tier List y Guías de Roblox",
+      "ogDescription": "Wiki de Invocar Héroes rastrea códigos actualizados, tier lists del meta, progresión para principiantes y guías de modos específicos para Summon Heroes en Roblox.",
+      "twitterTitle": "Wiki de Invocar Héroes - Códigos, Tier List y Guías de Roblox",
+      "twitterDescription": "Wiki de Invocar Héroes con códigos, tier lists, configuración para principiantes, rankings de PvP, preparación para Torneos y planificación de banners."
     }
   },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
+    "codes": "Códigos",
+    "guide": "Guía",
     "tierList": "Tier List",
-    "units": "Units",
+    "units": "Unidades",
     "farming": "Farming",
-    "update": "Update"
+    "update": "Actualización"
   },
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
+    "playNow": "Jugar en Roblox",
     "switchLanguage": "Cambiar idioma",
     "switchTheme": "Cambiar tema",
     "lightMode": "Modo claro",
@@ -33,899 +33,1136 @@
     "readMore": "Leer más"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Invocador de héroes de Roblox de rápido crecimiento",
+    "title": "Wiki de Invocar Héroes",
+    "description": "Códigos actualizados, tier lists de héroes, guías de mundos de historia, estrategias de Nightmare Circus y ayuda para PvP/Torneo para jugadores de Summon Heroes en Roblox.",
+    "getFreeCodesCTA": "Visitar el Hub de Summon Heroes",
+    "playOnRobloxCTA": "Jugar Summon Heroes en Roblox",
+    "playOnSteamCTA": "Jugar Summon Heroes en Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "18.9M+",
+        "label": "Visitas totales"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "10.7K+",
+        "label": "Jugadores en línea"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "40+",
+        "label": "Héroes"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "9",
+        "label": "Mundos de historia"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Jugabilidad de Summon Heroes",
+    "description": "Crea tu escuadrón en Summon Heroes, completa mundos de historia, farmea mazmorras, escala en PvP y prepárate para las rotaciones del Torneo Global."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "Summon Heroes",
+    "titleHighlight": "Navegación de módulos",
+    "subtitle": "Salta a cada sección de la guía de Summon Heroes con un toque",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
-      },
-      {
-        "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
-      },
-      {
-        "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
+        "icon": "Download",
+        "title": "Códigos de Summon Heroes",
+        "description": "Códigos activos y expirados, además de pasos rápidos para canjear"
       },
       {
         "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
+        "title": "Tier List de Summon Heroes",
+        "description": "Rankings generales, PvE, PvP y de Torneo"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
+        "icon": "BookOpen",
+        "title": "Guía para principiantes de Summon Heroes",
+        "description": "Ruta de la primera hora y prioridades de recursos iniciales"
       },
       {
-        "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
+        "icon": "Users",
+        "title": "Mejores unidades iniciales de Summon Heroes",
+        "description": "Selecciones iniciales confiables para una progresión fluida"
       },
       {
-        "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
+        "icon": "Home",
+        "title": "Mejores equipos de Summon Heroes",
+        "description": "Equipos basados en roles para Historia, PvP y jefes"
       },
       {
-        "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
+        "icon": "TrendingUp",
+        "title": "Guía de nivelación de Summon Heroes",
+        "description": "Rutas rápidas de XP y puntos de ruptura de nivel"
       },
       {
-        "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "icon": "Package",
+        "title": "Farming de gemas y cristales en Summon Heroes",
+        "description": "Ciclos de moneda repetibles e ingresos diarios"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Guía de banners de invocación de Summon Heroes",
+        "description": "Cuándo ahorrar, cuándo invocar y planificación del pity"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Guía de rasgos de Summon Heroes",
+        "description": "Prioridades de reroll de rasgos y decisiones de bloqueo"
       },
       {
         "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "Tier List de PvP de Summon Heroes",
+        "description": "Valor de unidades exclusivas de PvP y selecciones de contraataque"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Tier List de Torneo de Summon Heroes",
+        "description": "Selecciones del meta de batalla automática para el Torneo"
+      },
+      {
+        "icon": "Eye",
+        "title": "Guía de mazmorras y raids de Summon Heroes",
+        "description": "Orden de entrada, valor de recompensas y uso de estamina"
+      },
+      {
+        "icon": "Settings",
+        "title": "Guía de mejoras de Summon Heroes",
+        "description": "Orden de mejora para unidades, rasgos y equipo"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Mejores unidades por rol de Summon Heroes",
+        "description": "Mejores DPS, tanques, soportes, control y utilidad"
+      },
+      {
+        "icon": "Clock",
+        "title": "Progresión final de Summon Heroes",
+        "description": "Crecimiento de cuenta a largo plazo tras el límite de nivel"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Registro de actualizaciones de Summon Heroes",
+        "description": "Cambios recientes de equilibrio, eventos y banners"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
+      "title": "Códigos de Summon Heroes",
       "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+      "intro": "Sigue los últimos códigos de Summon Heroes para obtener Gemas, Fragmentos Míticos, Tickets de Invocación y Cristales Legendarios. Canjea los códigos antes de gastar cualquier recurso premium.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "Abre Summon Heroes en Roblox",
+          "description": "Inicia Summon Heroes y termina el tutorial inicial para que todos los menús estén desbloqueados."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "Ve al panel de Códigos cerca de Summon",
+          "description": "Abre el panel de entrada de códigos desde la interfaz de Summon en el lado derecho."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "Pega un código activo de Summon Heroes",
+          "description": "Ingresa cada código exactamente como se muestra, incluyendo las letras mayúsculas."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Presiona Canjear y confirma las recompensas",
+          "description": "Las recompensas se entregan al instante en tu inventario de Summon Heroes cuando el código es válido."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "Prioriza los códigos de alto valor que otorgan Tickets de Invocación o Cristales Legendarios.",
+        "Usa los nuevos códigos de Summon Heroes inmediatamente después de las actualizaciones porque los periodos de expiración pueden ser cortos.",
+        "Mantén un registro de los códigos de Summon Heroes expirados para evitar intentos duplicados.",
+        "Canjea todos los códigos activos de Summon Heroes antes de tirar en los banners para maximizar el valor inicial."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
+      "title": "Tier List de Summon Heroes",
       "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
+      "intro": "Esta tier list de Summon Heroes separa la fuerza general y el valor específico por modo para que puedas invertir en unidades que se mantengan fuertes a lo largo del progreso, PvP y Torneo.",
       "cards": [
         {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
+          "name": "Unidades de Summon Heroes Tier SS",
+          "description": "Reaper, Emperor, Seraph, B-4:R B.E.T y Divine son pilares de alto valor para cuentas a largo plazo."
         },
         {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
+          "name": "Unidades de Summon Heroes Tier S",
+          "description": "Jester, Sniper, Technomancer, Kitsune Mage, Mermaid, Abyss Lord y Demon Knight ofrecen un excelente rendimiento en múltiples modos."
         },
         {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
+          "name": "Unidades de Summon Heroes Tier A",
+          "description": "Bear Tamer, Laser Cyborg, Slime Summoner, Demon Hunter, Necromancer, Ice Mage y Spellblade son opciones confiables para el progreso."
         },
         {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
+          "name": "Unidades de Summon Heroes Tier B-C",
+          "description": "Usa estas unidades como rellenos temporales de equipo mientras ahorras recursos para banners de alto impacto."
         }
       ],
       "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
+        "Líderes de PvE en Summon Heroes: Divine, Matriarch, Reaper",
+        "Líderes de PvP en Summon Heroes: B-4:R B.E.T, Seraph, Divine",
+        "Líderes de Torneo en Summon Heroes: Emperor, Sniper, Ranger",
+        "Actualiza esta tier list de Summon Heroes después de cada parche de equilibrio"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
+      "title": "Guía para principiantes de Summon Heroes",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+      "intro": "Sigue esta ruta de la primera hora en Summon Heroes para evitar desperdicios, estabilizar tu equipo y desbloquear mejores ciclos de progreso temprano.",
       "items": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
+          "name": "Termina el tutorial de Summon Heroes",
+          "type": "Paso 1",
+          "description": "Completa el tutorial para desbloquear los menús principales, recompensas y funciones de canje."
         },
         {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
+          "name": "Canjea todos los códigos de Summon Heroes",
+          "type": "Paso 2",
+          "description": "Reclama Gemas, Tickets y Fragmentos gratis antes de tirar en los banners."
         },
         {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
+          "name": "Construye un equipo enfocado en Summon Heroes",
+          "type": "Paso 3",
+          "description": "Sube de nivel una sola alineación principal en lugar de dividir recursos entre demasiadas unidades."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
+          "name": "Avanza en los Mundos de Historia de Summon Heroes",
+          "type": "Paso 4",
+          "description": "El progreso en la historia abre mejores recompensas y desbloquea más ciclos de contenido."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
+          "name": "Farmea las Mazmorras de Summon Heroes diariamente",
+          "type": "Paso 5",
+          "description": "Realiza las entradas diarias a las Mazmorras para obtener materiales de mejora y divisas de forma constante."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
+          "name": "Ahorra para banners fuertes de Summon Heroes",
+          "type": "Paso 6",
+          "description": "Evita tiradas de bajo impacto y espera a los banners que mejoren tus modos principales."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
+      "title": "Mejores unidades iniciales de Summon Heroes",
       "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
+      "intro": "Estas unidades iniciales de Summon Heroes ofrecen un gran valor temprano y ayudan a las cuentas nuevas a completar contenido sin gastar de más.",
       "solutions": [
         {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
+          "name": "Bear Tamer",
+          "role": "Prioridad alta",
+          "description": "Un carry inicial consistente en Summon Heroes con una fuerte utilidad para todo propósito."
         },
         {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
+          "name": "Mermaid",
+          "role": "Prioridad alta",
+          "description": "Proporciona un soporte estable en el juego temprano de Summon Heroes para equipos PvE."
         },
         {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
+          "name": "Slime Summoner",
+          "role": "Prioridad alta",
+          "description": "Opción inicial confiable de Summon Heroes para un progreso sostenido."
         },
         {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
+          "name": "Specter",
+          "role": "Prioridad alta",
+          "description": "Una opción sólida para dar profundidad al equipo inicial de Summon Heroes y lograr limpiezas rápidas."
+        },
+        {
+          "name": "Wind Samurai",
+          "role": "Prioridad media",
+          "description": "Unidad de progreso sólida en Summon Heroes antes de que lleguen los banners de nivel superior."
+        },
+        {
+          "name": "Necromancer",
+          "role": "Prioridad media",
+          "description": "Una opción práctica de Summon Heroes para mantener y desarrollar si se obtiene temprano."
         }
       ],
       "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
+        "Mantén activos al menos un tanque, un repartidor de daño y un espacio de utilidad de Summon Heroes.",
+        "No mejores en exceso las unidades de relleno de bajo impacto de Summon Heroes.",
+        "Promociona las unidades iniciales de Summon Heroes que sigan siendo útiles en equipos de mitad de juego.",
+        "Reemplaza las unidades iniciales de Summon Heroes solo cuando tengas lista una mejora clara."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
-      "cards": [
+      "title": "Mejores composiciones de equipo de Summon Heroes",
+      "displayType": "cardList",
+      "intro": "Usa alineaciones de Summon Heroes equilibradas por roles en lugar de solo buscar rarezas. Estas composiciones prácticas convierten las prioridades de la lista de niveles actual en equipos que puedes usar en Historia, Jefes, PvP y Torneos.",
+      "items": [
         {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
+          "mode": "Progresión / Historia",
+          "buildName": "Núcleo de progresión para principiantes de Summon Heroes",
+          "units": [
+            "Domador de Osos",
+            "Sirena",
+            "Invocador de Slimes",
+            "Nigromante",
+            "Samurái de Viento"
+          ],
+          "focus": "Limpieza de oleadas segura y progresión inicial estable",
+          "whyItWorks": "Esta alineación de Summon Heroes utiliza unidades aptas para principiantes con un valor constante, para que puedas limpiar oleadas sin problemas y sin necesidad de una plantilla premium completa."
         },
         {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
+          "mode": "Jefes / PvE",
+          "buildName": "Núcleo de gama alta para jefes de Summon Heroes",
+          "units": [
+            "Segador",
+            "Emperador",
+            "Serafín",
+            "Divino",
+            "Domador de Osos"
+          ],
+          "focus": "Daño de alto nivel con soporte de vanguardia duradero",
+          "whyItWorks": "Este núcleo para jefes de Summon Heroes combina atacantes de primer nivel con uno de los personajes de vanguardia más útiles, brindando un rendimiento estable en PvE con muchos jefes."
         },
         {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
+          "mode": "PvP / Arena",
+          "buildName": "Composición de presión PvP de Summon Heroes",
+          "units": [
+            "B-4:R B.E.T.",
+            "Serafín",
+            "Divino",
+            "Caballero Demonio",
+            "Ranger"
+          ],
+          "focus": "Ráfaga de daño, supervivencia y control",
+          "whyItWorks": "Esta composición de PvP de Summon Heroes sigue las selecciones de alta prioridad en el ranking y está ajustada para una presión rápida en lugar de un ritmo lento de farmeo."
         },
         {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
+          "mode": "Torneo",
+          "buildName": "Composición de batalla automática para torneos de Summon Heroes",
+          "units": [
+            "B-4:R B.E.T.",
+            "Emperador",
+            "Divino",
+            "Francotirador",
+            "Ranger"
+          ],
+          "focus": "Combates automáticos fuertes con valor confiable",
+          "whyItWorks": "Esta configuración de torneo de Summon Heroes favorece a las unidades que mantienen un alto rendimiento en condiciones de batalla automática, donde la consistencia importa más que la ejecución manual."
+        },
+        {
+          "mode": "Prioridad de Invocación",
+          "buildName": "Lista de objetivos de banner de Summon Heroes",
+          "units": [
+            "Segador",
+            "Emperador",
+            "Serafín",
+            "B-4:R B.E.T.",
+            "Divino"
+          ],
+          "focus": "Mejores objetivos premium al ahorrar gemas",
+          "whyItWorks": "Si estás decidiendo dónde gastar tus gemas de Summon Heroes, estas son las invocaciones de alta prioridad más seguras para el crecimiento de la cuenta a largo plazo."
         }
-      ],
-      "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
-      "regions": [
+      "title": "Guía de nivelación de Summon Heroes",
+      "displayType": "steps",
+      "intro": "La nivelación rápida en Summon Heroes se logra usando estamina, multiplicadores, avances en la campaña y materiales de mejora en el orden correcto.",
+      "steps": [
         {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
+          "step": 1,
+          "title": "Avanza primero en la campaña de Summon Heroes",
+          "description": "Avanza lo más posible antes de farmear. Las recompensas AFK de Summon Heroes escalan según tu etapa de campaña más alta."
         },
         {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
+          "step": 2,
+          "title": "Usa multiplicadores de XP de Summon Heroes en Mazmorras de Incursión",
+          "description": "Gasta los multiplicadores de XP en Mazmorras de Incursión, especialmente durante las ventanas de bonificación, para obtener ráfagas de nivelación más eficientes."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
+          "step": 3,
+          "title": "Crea un DPS principal de Summon Heroes más un potenciador",
+          "description": "La nivelación es más fluida cuando un atacante principal recibe todo el apoyo en lugar de dividir las mejoras entre demasiadas unidades."
         },
         {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
+          "step": 4,
+          "title": "Farmea Boss Rush de Summon Heroes para obtener materiales de élite",
+          "description": "Usa Boss Rush para obtener recursos de fabricación de mayor nivel y reserva las inversiones importantes para las rutas de equipo épico."
+        },
+        {
+          "step": 5,
+          "title": "Prioriza las gemas de Summon Heroes en el orden correcto",
+          "description": "Gasta gemas en espacio de inventario, luego en banners limitados y después en actualizaciones selectivas de la tienda para materiales de evolución raros."
+        },
+        {
+          "step": 6,
+          "title": "Reclama las recompensas AFK de Summon Heroes cada 12 horas",
+          "description": "Realiza un avance rápido en la campaña antes de desconectarte para que tu tasa de recompensas pasivas se fije en la etapa más alta disponible."
+        },
+        {
+          "step": 7,
+          "title": "Únete pronto a un gremio activo de Summon Heroes",
+          "description": "La participación en el gremio otorga acceso a la tienda, divisas adicionales y beneficios a largo plazo que aceleran la progresión."
+        },
+        {
+          "step": 8,
+          "title": "Usa duplicados de Summon Heroes para despertares",
+          "description": "Los puntos de ruptura de despertar mediante duplicados son picos de poder importantes para la progresión en PvE difícil, PvP y la torre."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
-      "creatures": [
+      "title": "Farming de gemas y cristales de Summon Heroes",
+      "displayType": "table",
+      "intro": "El mejor plan de farming de Summon Heroes combina regalos únicos con ciclos repetibles de etapas, recompensas AFK, contenido de gremio y Boss Rush.",
+      "entries": [
         {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
+          "source": "Código de Summon Heroes: SUNSET",
+          "reward": "5 Cristales Legendarios",
+          "bestFor": "Progreso de invocación premium",
+          "notes": "Recompensa de código de alto valor vinculada a los ciclos de actualización recientes."
         },
         {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
+          "source": "Código de Summon Heroes: MOARSHARD",
+          "reward": "3 Fragmentos Míticos",
+          "bestFor": "Acumulación de fragmentos",
+          "notes": "Útil para mejoras más rápidas de la plantilla después de las invocaciones de banner."
         },
         {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
+          "source": "Código de Summon Heroes: OOF",
+          "reward": "250 Gemas",
+          "bestFor": "Rerolls iniciales o ahorros",
+          "notes": "Impulso directo y simple de gemas para cuentas nuevas."
         },
         {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
+          "source": "Código de Summon Heroes: DUNGEONZ",
+          "reward": "3 Fragmentos Míticos",
+          "bestFor": "Recursos de mejora",
+          "notes": "Gran valor cuando se combina con sesiones intensas de mazmorras."
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
+          "source": "Código de Summon Heroes: DELAYHEROES",
+          "reward": "5 Tickets de Invocación",
+          "bestFor": "Invocaciones extra sin gemas",
+          "notes": "Buen recurso de transición mientras se ahorra para banners limitados."
         },
         {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
+          "source": "Código de Summon Heroes: 500GEMS",
+          "reward": "500 Gemas",
+          "bestFor": "Ahorro para banners",
+          "notes": "Una de las mayores recompensas directas de gemas de Summon Heroes."
         },
         {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
+          "source": "Limpieza de etapas de Summon Heroes",
+          "reward": "Gemas",
+          "bestFor": "Divisa principal repetible",
+          "notes": "La progresión en la historia sigue siendo una fuente confiable de gemas."
+        },
+        {
+          "source": "Recompensas de nivel de Summon Heroes",
+          "reward": "Gemas",
+          "bestFor": "Ingresos por progresión natural",
+          "notes": "Gran valor durante el ascenso de la cuenta en el juego temprano y medio."
+        },
+        {
+          "source": "Cofre AFK de Summon Heroes",
+          "reward": "Recompensas pasivas por profundidad de campaña",
+          "bestFor": "Farming diario en segundo plano",
+          "notes": "Reclama cada 12 horas después de avanzar en la campaña."
+        },
+        {
+          "source": "Incursiones y donaciones de gremio de Summon Heroes",
+          "reward": "Divisa de gremio y materiales de despertar",
+          "bestFor": "Crecimiento de cuenta a largo plazo",
+          "notes": "El juego activo en el gremio añade capas de progresión estable más allá de las invocaciones puras."
+        },
+        {
+          "source": "Boss Rush de Summon Heroes",
+          "reward": "Materiales de fabricación de alto nivel",
+          "bestFor": "Picos de poder tras invocaciones",
+          "notes": "Convierte mejores unidades en una aceleración de mejoras más rápida."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
-      "items": [
+      "title": "Guía de Banners de Invocación de Summon Heroes",
+      "displayType": "accordion",
+      "intro": "Usa estas preguntas frecuentes sobre los banners de Summon Heroes para decidir cuándo invocar, cuándo ahorrar y qué objetivos de banner producen mejoras confiables para tu alineación.",
+      "faqs": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
+          "question": "¿Con qué frecuencia rotan los banners de Summon Heroes?",
+          "answer": "Summon Heroes utiliza banners rotativos, por lo que las oportunidades de invocación cambian rápidamente. Sigue las rotaciones y evita gastar antes de confirmar el valor de tu objetivo."
         },
         {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
+          "question": "¿Debería gastar Gemas de Summon Heroes en cada banner?",
+          "answer": "No. En Summon Heroes, ahorrar Gemas para banners de alto impacto suele ser mejor que perseguir cada rotación."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
+          "question": "¿A qué objetivos de banner de Summon Heroes vale la pena dar prioridad?",
+          "answer": "Prioriza los banners de Summon Heroes que puedan otorgar a Reaper, Emperor, Seraph, B-4:R B.E.T. y Divine, ya que mantienen su valor en múltiples modos."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
+          "question": "¿Qué deberían hacer los principiantes de Summon Heroes antes de buscar banners premium?",
+          "answer": "Primero construye un núcleo estable de Summon Heroes con unidades accesibles, luego ahorra para banners premium que mejoren tus espacios clave."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
+          "question": "¿Cuándo es mejor ahorrar en lugar de invocar en Summon Heroes?",
+          "answer": "Ahorra en Summon Heroes cuando la rotación actual no mejore claramente tus posiciones de vanguardia, carry o control."
         },
         {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
+          "question": "¿Qué divisas sirven para invocar en los banners de Summon Heroes?",
+          "answer": "El progreso en los banners de Summon Heroes proviene de Gemas, Tickets de Invocación, fragmentos y cristales obtenidos mediante códigos, completar niveles, recompensas de nivel y actividad del gremio."
         }
-      ],
-      "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
+      "title": "Guía de Rasgos de Summon Heroes",
+      "displayType": "tierGrid",
+      "eyebrow": "Optimización de Summon Heroes",
+      "subtitle": "Usa los rerolls de rasgos en unidades que ya funcionen bien en PvE, PvP o Torneos antes de gastar recursos en opciones de menor valor.",
+      "intro": "Las fuentes públicas de Summon Heroes coinciden constantemente en un pequeño grupo de unidades destacadas en múltiples modos. Eso las convierte en los objetivos de reroll más seguros: si una unidad ya está cerca de la cima de las clasificaciones de PvE, PvP o Torneos, mejorarla aún más suele dar más valor que hacer reroll a una unidad de nivel bajo.",
+      "items": [
         {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
+          "tier": "Prioridad Máxima",
+          "units": [
+            "B-4:R B.E.T.",
+            "Divine",
+            "Seraph",
+            "Emperor",
+            "Reaper"
+          ],
+          "description": "Estos son los objetivos de reroll de rasgos más fuertes de Summon Heroes porque aparecen repetidamente en la cima o cerca de ella en las clasificaciones públicas. Si tienes rerolls limitados, comienza aquí antes de invertir en unidades secundarias."
         },
         {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
+          "tier": "Objetivos Secundarios Fuertes",
+          "units": [
+            "Ranger",
+            "Demon Knight",
+            "Laser Cyborg",
+            "Sniper",
+            "Jester",
+            "Bear Tamer"
+          ],
+          "description": "Estas unidades de Summon Heroes son inversiones de seguimiento sólidas una vez que tus carries principales estén cubiertos. Ranger, Demon Knight y Laser Cyborg son destacados en PvP o Torneos, mientras que Sniper y Jester siguen siendo opciones valiosas en las listas de niveles generales."
         },
         {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
+          "tier": "Objetivos de Reroll de Baja Prioridad",
+          "units": [
+            "Archer",
+            "Diver",
+            "Fire Mage",
+            "Wind Samurai",
+            "Dragoon",
+            "Specter",
+            "Academy Witch",
+            "Ninja",
+            "Framerate",
+            "Bandit",
+            "Swordsman",
+            "Deckhand"
+          ],
+          "description": "Estas unidades de Summon Heroes se encuentran en niveles generales más bajos, por lo que hacerles reroll suele ser ineficiente a menos que sean tus únicas opciones utilizables. Reemplázalas primero y luego gasta rerolls en unidades más fuertes."
         },
         {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
+          "tier": "Regla Simple de Mantener o Reroll",
+          "units": [
+            "Mantén los carries del meta superior",
+            "Retrasa los rerolls en unidades de relleno",
+            "Mejora tu equipo principal primero"
+          ],
+          "description": "Una regla práctica de Summon Heroes es seguir invirtiendo en unidades que ya forman parte de tu equipo principal de Historia, PvP o Torneo. No desperdicies rerolls en personajes que esperas dejar en la banca pronto."
         }
-      ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
+      "title": "Tier List de PvP de Summon Heroes",
+      "displayType": "tierGrid",
+      "eyebrow": "Meta de PvP de Summon Heroes",
+      "subtitle": "Estas clasificaciones se centran en el rendimiento jugador contra jugador en lugar de la progresión de la historia. Las mejores opciones de PvP son las unidades nombradas repetidamente por las fuentes actuales de tier lists públicas.",
+      "intro": "La clasificación actual de PvP de Summon Heroes de Twinfinite nombra seis unidades destacadas para el juego competitivo. Para facilitar la lectura de la página, la siguiente lista separa el núcleo de PvP más central de las siguientes mejores opciones de soporte y flexibilidad.",
+      "items": [
         {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
+          "tier": "Tier S",
+          "units": [
+            "B-4:R B.E.T.",
+            "Seraph",
+            "Divine"
+          ],
+          "description": "Estas son las piezas centrales más claras de PvP en Summon Heroes según las clasificaciones públicas actuales. Si estás construyendo en torno a un pequeño número de inversiones premium, comienza con estas tres."
         },
         {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
+          "tier": "Tier A",
+          "units": [
+            "Demon Knight",
+            "Ranger",
+            "Laser Cyborg"
+          ],
+          "description": "Estas son opciones sólidas de PvP en Summon Heroes que complementan bien a los equipos competitivos. Son útiles cuando necesitas ráfagas de daño adicionales, utilidad o presión confiable detrás de tus selecciones principales."
         },
         {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
+          "tier": "Opciones Flexibles Sólidas en General",
+          "units": [
+            "Reaper",
+            "Emperor",
+            "Jester",
+            "Sniper"
+          ],
+          "description": "Estas unidades de Summon Heroes no figuran explícitamente en la respuesta de las seis mejores de PvP, pero tienen una clasificación alta en la cobertura general y aún pueden ser valiosas según tu colección y necesidades de emparejamiento."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
-        },
-        {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
+          "tier": "Soluciones Temporales para el Inicio del Juego",
+          "units": [
+            "Bear Tamer",
+            "Dragoon Isadora",
+            "Captain Dreadmoor"
+          ],
+          "description": "Estas unidades de Summon Heroes se utilizan mejor como opciones temporales mientras trabajas para conseguir equipos de PvP premium. Ayudan a estabilizar la progresión, pero no son los objetivos principales de PvP para el juego tardío."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
+      "title": "Tier List del Torneo de Summon Heroes",
+      "displayType": "tierGrid",
+      "eyebrow": "Meta del Torneo de Summon Heroes",
+      "subtitle": "El modo Torneo de Summon Heroes tiene sus propias unidades con mejor desempeño, por lo que la unidad más fuerte de la Historia o de PvP general no siempre es tu mejor inversión para el Torneo.",
+      "intro": "La cobertura actual de tiers públicos para Summon Heroes identifica un grupo más pequeño centrado en torneos que el roster general. Esta página convierte ese ranking específico del modo en un bloque limpio que puedes usar para decisiones rápidas de equipo.",
+      "items": [
         {
-          "name": "Exploración",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
-            }
-          ]
+          "tier": "Tier S",
+          "units": [
+            "B-4:R B.E.T.",
+            "Emperador",
+            "Divino"
+          ],
+          "description": "Estas son las unidades principales del Torneo de Summon Heroes mencionadas en los rankings públicos actuales. Si buscas el camino de inversión más seguro para el Torneo, construye alrededor de ellas primero."
         },
         {
-          "name": "Artesanía e invocación",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
-          ]
+          "tier": "Tier A",
+          "units": [
+            "Francotirador",
+            "Guardabosques",
+            "Cyborg Láser"
+          ],
+          "description": "Estas unidades de Summon Heroes completan el grupo superior del Torneo publicado y son adiciones sólidas cuando necesitas una segunda línea práctica detrás del trío principal."
         },
         {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
+          "tier": "Buenos refuerzos entre modos",
+          "units": [
+            "Serafín",
+            "Segador",
+            "Caballero Demonio",
+            "Bufón"
+          ],
+          "description": "Estas unidades de Summon Heroes siguen siendo de gran valor porque clasifican bien en otros modos principales y pueden llenar vacíos cuando tu núcleo de Torneo está incompleto."
         },
         {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
-        },
-        {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
-          ]
+          "tier": "Atajo para la creación de equipos",
+          "units": [
+            "Comienza con un carry principal",
+            "Añade un compañero de daño confiable",
+            "Usa tu sexto espacio para un refuerzo flexible"
+          ],
+          "description": "El rendimiento en el Torneo de Summon Heroes mejora más cuando concentras los recursos en unas pocas unidades probadas en lugar de repartir las mejoras entre muchas promedio."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
-      "faqs": [
+      "title": "Guía de Mazmorras y Raids de Summon Heroes",
+      "displayType": "steps",
+      "eyebrow": "Farming de Endgame en Summon Heroes",
+      "subtitle": "Usa la Historia, las tareas diarias y las Mazmorras como tu ciclo principal de progresión primero, luego pasa al contenido repetible más difícil una vez que tu equipo principal sea estable.",
+      "intro": "Los consejos de progresión públicos más claros para Summon Heroes señalan el modo Historia, las misiones diarias y las Mazmorras como la mejor base para subir de nivel. Las fuentes de recompensas como cofres, recompensas por subir de nivel, unidades vendidas y códigos ayudan a mantener ese ciclo, mientras que el contenido de desafío de mayor dificultad funciona mejor después de establecer tu equipo principal.",
+      "items": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "step": "Paso 1",
+          "title": "Completa las etapas de la Historia de Summon Heroes antes de forzar el farming de endgame",
+          "description": "La progresión en la Historia de Summon Heroes es una de las principales fuentes de recompensas tempranas y crecimiento de la cuenta. También ayuda a desbloquear los recursos que necesitas para invocaciones y mejoras más fuertes."
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "step": "Paso 2",
+          "title": "Haz las misiones diarias de Summon Heroes en cada sesión",
+          "description": "Las misiones diarias de Summon Heroes se recomiendan repetidamente como parte del camino más rápido para subir de nivel. Son una fuente confiable de progreso constante en la cuenta y deben ser parte de tu rutina antes de las largas sesiones de grind."
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "step": "Paso 3",
+          "title": "Usa las Mazmorras de Summon Heroes como tu ciclo principal de XP repetible",
+          "description": "La cobertura actual de nivelación de Summon Heroes destaca las Mazmorras como una de las mejores formas de subir de nivel rápido. Una vez que tu progreso en la Historia se ralentiza, las Mazmorras se convierten en uno de los farms repetitivos más eficientes."
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
+          "step": "Paso 4",
+          "title": "Recoge recompensas secundarias de Summon Heroes mientras farmeas",
+          "description": "Abre cofres del mapa, reclama recompensas por subir de nivel y canjea códigos activos de Summon Heroes a medida que avanzas. Las guías públicas también señalan que vender héroes que ya no necesitas puede convertir el inventario muerto en recursos útiles."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
+          "step": "Paso 5",
+          "title": "Mantén el entrenamiento AFK de Summon Heroes como apoyo, no como todo tu plan",
+          "description": "El entrenamiento AFK de Summon Heroes es útil, pero funciona mejor como progreso en segundo plano junto con la Historia, las misiones diarias y las Mazmorras, en lugar de reemplazarlos."
         },
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "step": "Paso 6",
+          "title": "Pasa al contenido de desafío más difícil de Summon Heroes después de que tu equipo principal esté listo",
+          "description": "Una vez que tu roster de Summon Heroes sea estable, dedica más tiempo al contenido repetible más difícil. Las descripciones públicas del juego también señalan el Nightmare Circus y los modos competitivos como lugares para llevar tu roster más allá de la progresión básica de la Historia."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
-      "faqs": [
+      "title": "Guía de Mejoras de Summon Heroes",
+      "displayType": "stepByStepCards",
+      "eyebrow": "Progresión",
+      "subtitle": "Mejora de forma más inteligente desde el inicio hasta el final del juego gastando materiales donde más cambien tu cuenta.",
+      "intro": "La ruta más eficiente en Summon Heroes es mantener tu equipo principal funcional al principio, ahorrar para mejores banners y comprometer materiales importantes solo cuando la calidad de tu roster lo justifique.",
+      "items": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "step": 1,
+          "title": "Supera el inicio del juego con un valor inicial eficiente",
+          "description": "Usa unidades probadas y amigables para principiantes para completar la Historia y desbloquear más fuentes de recompensas antes de tomar decisiones de mejora costosas.",
+          "highlights": [
+            "Construye alrededor de personajes iniciales estables como Sirena, Domador de Osos, Invocador de Slimes, Espectro, Samurai de Viento, Nigromante y Constructo.",
+            "Prioriza la velocidad de progresión y los desbloqueos primero para que tu cuenta abra más vías de farming temprano.",
+            "La consistencia temprana es mejor que perseguir equipos perfectos demasiado pronto."
+          ]
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
+          "step": 2,
+          "title": "Ahorra moneda premium para banners en lugar de tiradas débiles",
+          "description": "No repartas Gemas en invocaciones de poco valor. La disciplina con los banners crea un crecimiento a largo plazo más fuerte que forzar el progreso a corto plazo.",
+          "highlights": [
+            "Guarda las Gemas para banners limitados que mejoren materialmente tu roster principal.",
+            "Gasta los recursos de utilidad en este orden: espacio de inventario, banners limitados y luego actualizaciones de evolución raras.",
+            "Trata las rotaciones rápidas de banners como ventanas de planificación, no como disparadores de gastos por pánico."
+          ]
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
+          "step": 3,
+          "title": "Prioriza unidades de alto impacto antes de las mejoras generales del roster",
+          "description": "Invierte primero en unidades que mantengan su valor en múltiples modos, luego añade selecciones específicas de modo alrededor de ese núcleo.",
+          "highlights": [
+            "Los mejores pilares a largo plazo incluyen a Segador, Emperador, Serafín, B-4:R B.E.T y Divino.",
+            "Usa prioridades separadas para PvE y PvP una vez que tu cuenta pueda soportar la especialización.",
+            "Retrasa las mejoras de nicho hasta que tu núcleo universal sea estable."
+          ]
         },
         {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
+          "step": 4,
+          "title": "Retrasa el gasto serio en equipo hasta la calidad Épica",
+          "description": "El gasto excesivo en equipo temprano agota los recursos con poco valor de transferencia. Mejora ligeramente al principio y luego cambia una vez que los mejores niveles se mantengan.",
+          "highlights": [
+            "Evita invertir de más en equipo de baja rareza.",
+            "Comienza las mejoras importantes de equipo cuando tus piezas principales alcancen la calidad Épica.",
+            "Usa Boss Rush y ciclos de mayor valor para alimentar las mejoras de artesanía a largo plazo."
+          ]
         },
         {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "step": 5,
+          "title": "Usa duplicados para el crecimiento de estrellas y puntos de ruptura de Despertar",
+          "description": "Las copias duplicadas son más valiosas en los héroes que planeas conservar a largo plazo, especialmente cerca de los hitos clave de estrellas.",
+          "highlights": [
+            "Cada roster serio de endgame necesita un plan de duplicados para las unidades prioritarias.",
+            "Los desbloqueos de Despertar se convierten en puntos de ruptura importantes una vez que tus héroes alcanzan las 5 estrellas.",
+            "El valor del Despertar es especialmente alto en PvP y en la progresión más profunda de la torre."
+          ]
+        },
+        {
+          "step": 6,
+          "title": "Haz coincidir las mejoras con el modo que realmente juegas",
+          "description": "Una unidad puede ser excepcional en un modo y promedio en otro, por lo que la prioridad de mejora debe seguir tu actividad principal.",
+          "highlights": [
+            "El PvE valora el DPS sostenido y la presión de invocación para jefes y control de oleadas.",
+            "El PvP favorece la supervivencia, la ráfaga (burst) y el tiempo de control de masas.",
+            "El Torneo recompensa a las unidades que se desempeñan bien bajo la lógica de batalla automatizada."
+          ]
+        },
+        {
+          "step": 7,
+          "title": "Impulsa la campaña antes del AFK y cicla la estamina en torno a los eventos",
+          "description": "La velocidad de progresión aumenta cuando los ingresos de AFK y el gasto de estamina están vinculados a tu nivel más alto completado y al tiempo de los eventos.",
+          "highlights": [
+            "Supera tu etapa más alta de la Campaña antes de quedarte inactivo para obtener mejores retornos de AFK.",
+            "Reclama las recompensas de AFK a tiempo para que los recursos no lleguen al límite.",
+            "Usa las ventanas de XP y estamina durante los eventos de bonificación para obtener la mejor eficiencia de nivelación."
+          ]
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
-      "settings": [
+      "title": "Mejores unidades de Summon Heroes por rol",
+      "displayType": "roleTableCards",
+      "eyebrow": "Creación de alineaciones",
+      "subtitle": "Crea tu equipo basándote en la función real de cada unidad para que tu equipo de Summon Heroes tenga un equilibrio entre daño, control y durabilidad.",
+      "intro": "Summon Heroes recompensa el equilibrio de roles más que la búsqueda de rarezas. Las cuentas fuertes combinan atacantes de élite con la vanguardia, el soporte y la utilidad específica para cada modo adecuados.",
+      "items": [
         {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
+          "role": "Atacante principal (Core Carry)",
+          "best_units": [
+            "Reaper",
+            "Emperor",
+            "Divine",
+            "Seraph"
+          ],
+          "why_it_works": "Estas unidades son inversiones consistentes a largo plazo para el poder de la cuenta y tienen un gran valor en múltiples modos.",
+          "best_modes": [
+            "PvE",
+            "PvP",
+            "Torneo"
+          ]
         },
         {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
+          "role": "DPS constante para PvE",
+          "best_units": [
+            "Divine",
+            "Reaper",
+            "Emperor",
+            "Jester"
+          ],
+          "why_it_works": "Estas opciones mantienen un daño estable en combates largos y rutas de progresión con muchos jefes.",
+          "best_modes": [
+            "Historia",
+            "Mazmorras",
+            "Circo de Pesadilla"
+          ]
         },
         {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
+          "role": "Opciones para Torneo aptas para Auto",
+          "best_units": [
+            "B-4:R B.E.T.",
+            "Emperor",
+            "Divine",
+            "Sniper",
+            "Ranger",
+            "Laser Cyborg"
+          ],
+          "why_it_works": "Mantienen un rendimiento confiable en condiciones de batalla automática y conservan su valor en las rotaciones de torneos.",
+          "best_modes": [
+            "Torneo"
+          ]
         },
         {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
+          "role": "Ráfaga y control para PvP",
+          "best_units": [
+            "B-4:R B.E.T.",
+            "Seraph",
+            "Demon Knight",
+            "Laser Cyborg",
+            "Ranger"
+          ],
+          "why_it_works": "Estas unidades se adaptan al ritmo de alta presión del PvP con fuertes ventanas de ráfaga y valor de control de masas.",
+          "best_modes": [
+            "1v1",
+            "2v2",
+            "1v1v1"
+          ]
+        },
+        {
+          "role": "Valor de invocador",
+          "best_units": [
+            "Slime Summoner",
+            "Necromancer"
+          ],
+          "why_it_works": "Las unidades invocadas absorben la presión y mantienen a tus atacantes principales más seguros en los ciclos de PvE.",
+          "best_modes": [
+            "Historia",
+            "Mazmorras"
+          ]
+        },
+        {
+          "role": "Núcleo de progresión para principiantes",
+          "best_units": [
+            "Bear Tamer",
+            "Mermaid",
+            "Wind Samurai",
+            "Specter",
+            "Necromancer",
+            "Construct"
+          ],
+          "why_it_works": "Estas unidades estabilizan la progresión inicial antes de que los equipos centrados en míticos sean realistas.",
+          "best_modes": [
+            "Historia inicial",
+            "Progresión general"
+          ]
+        },
+        {
+          "role": "Utilidad a distancia",
+          "best_units": [
+            "Sniper",
+            "Ranger",
+            "Technomancer"
+          ],
+          "why_it_works": "Proporcionan una presión a distancia eficiente y un valor flexible en configuraciones de contenido mixto.",
+          "best_modes": [
+            "PvE",
+            "Torneo",
+            "Modos mixtos"
+          ]
+        },
+        {
+          "role": "Comodines flexibles para el juego medio",
+          "best_units": [
+            "Mermaid",
+            "Abyss Lord",
+            "Kitsune Mage",
+            "Bear Tamer"
+          ],
+          "why_it_works": "Estas opciones de transición mantienen tu alineación funcional mientras ahorras para mejoras de banners premium.",
+          "best_modes": [
+            "Progresión de juego medio",
+            "Farming general"
+          ]
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
-      "entries": [
+      "title": "Progresión de endgame en Summon Heroes",
+      "displayType": "accordion",
+      "eyebrow": "Endgame",
+      "subtitle": "Después de la fase inicial, el crecimiento en Summon Heroes se basa en la gestión de recursos, la disciplina con los banners y las prioridades según el modo.",
+      "intro": "El endgame de Summon Heroes se trata de sincronización y eficiencia. Las cuentas fuertes siguen avanzando en la Campaña para obtener mejores ganancias pasivas, convierten duplicados en picos de poder y alinean el uso de estamina con los periodos de eventos.",
+      "items": [
         {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
+          "question": "¿En qué debería enfocarme primero en Summon Heroes después de la fase inicial?",
+          "answer": "Estabiliza un equipo principal de unidades fuertes para múltiples modos, luego avanza en la Campaña lo más posible, ya que completar niveles altos mejora las recompensas pasivas."
         },
         {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
+          "question": "¿Dónde debería farmear materiales de mejora de alto nivel en Summon Heroes?",
+          "answer": "Boss Rush debería ser tu prioridad de farmeo para materiales de artesanía de nivel superior una vez que tu cuenta entre en la progresión media o tardía."
         },
         {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "question": "¿Cómo subo de nivel más rápido en Summon Heroes en niveles de cuenta más altos?",
+          "answer": "Usa multiplicadores de XP en Raid Dungeons durante los periodos de bonificación y utiliza a tus mejores atacantes con un potenciador confiable."
+        },
+        {
+          "question": "¿Cuál es la mejor forma de gastar Gemas de Summon Heroes en el juego medio y tardío?",
+          "answer": "Prioriza primero el espacio de inventario, luego los banners limitados y después las actualizaciones selectivas de la tienda para materiales de evolución raros."
+        },
+        {
+          "question": "¿Qué tan importantes son los duplicados en el endgame de Summon Heroes?",
+          "answer": "Los duplicados se vuelven críticos porque desbloquean puntos clave de Despertar de 5 estrellas que son fundamentales en PvP y contenido de mayor dificultad."
+        },
+        {
+          "question": "¿Cómo debería gestionar las recompensas AFK de Summon Heroes?",
+          "answer": "Reclama las recompensas AFK con una frecuencia constante y siempre avanza hasta tu etapa de Campaña más alta antes de desconectarte para mejorar las ganancias pasivas."
+        },
+        {
+          "question": "¿Vale la pena unirse a un gremio en el endgame de Summon Heroes?",
+          "answer": "Sí. La progresión de gremio otorga potenciadores a largo plazo y acceso a materiales que aceleran el crecimiento de la cuenta con el tiempo."
+        },
+        {
+          "question": "¿Cómo sigo mejorando en Summon Heroes sin desperdiciar estamina ni materiales?",
+          "answer": "Invierte en unidades con valor real en múltiples modos, evita comprometerte demasiado con equipos de nivel bajo y ahorra invocaciones para periodos de banners importantes."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
-      "steps": [
+      "title": "Registro de actualizaciones de Summon Heroes",
+      "displayType": "accordion",
+      "eyebrow": "Novedades",
+      "subtitle": "Sigue las principales novedades de contenido de Summon Heroes que definen los mapas, modos, banners y prioridades de progresión.",
+      "intro": "Summon Heroes se actualiza con una frecuencia rápida de servicio en vivo. Este registro destaca los cambios más relevantes para códigos, planificación de alineaciones y estrategia de modos.",
+      "items": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "question": "Ventana de lanzamiento de Summon Heroes - Febrero de 2026",
+          "answer": "Summon Heroes se lanzó en Roblox a finales de febrero de 2026, marcando el inicio del ciclo actual de servicio en vivo y el rápido desarrollo del meta inicial."
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "question": "Actualización Sunset City de Summon Heroes",
+          "answer": "Sunset City se convirtió en la ola de actualizaciones con nombre más visible, combinando el impulso de un nuevo mapa con nuevos códigos e interés en la progresión."
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "question": "Impulso de recompensas enfocadas en mazmorras de Summon Heroes",
+          "answer": "Los ciclos de actualización recientes continuaron reforzando las Dungeons y Raid Dungeons como rutas principales para subir de nivel y obtener recursos de mejora."
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "question": "El meta del Torneo de Summon Heroes se convirtió en una capa distinta",
+          "answer": "El Torneo ahora se trata como su propio ecosistema estratégico, separado de la lógica de inversión estándar de PvP y PvE."
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "question": "Destacado de nueva unidad de Summon Heroes - Ranger",
+          "answer": "Ranger surgió como una unidad flexible destacada en discusiones de múltiples modos, especialmente por su valor mixto en PvE y competitivo."
+        },
+        {
+          "question": "Límite de nivel actual y expansión de progresión de Summon Heroes",
+          "answer": "El límite de nivel ha seguido aumentando más allá de las expectativas del lanzamiento, permitiendo ciclos de optimización de cuenta más largos."
+        },
+        {
+          "question": "Frecuencia de actualizaciones en vivo de Summon Heroes",
+          "answer": "Las actualizaciones importantes se lanzan con frecuencia en intervalos cortos, y los fines de semana de XP adicional siguen siendo momentos clave para gastar estamina."
+        },
+        {
+          "question": "Verificación de novedades de Summon Heroes - Abril de 2026",
+          "answer": "Summon Heroes se mantuvo con mantenimiento activo en abril de 2026, manteniendo el seguimiento de actualizaciones útil para las decisiones actuales de alineación y farmeo."
         }
       ]
     }
   },
   "faq": {
-    "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "title": "Summon Heroes",
+    "titleHighlight": "FAQ",
+    "subtitle": "Respuestas a las preguntas más comunes sobre la progresión en Summon Heroes",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Con qué frecuencia se actualizan los códigos de Summon Heroes?",
+        "answer": "Los códigos de Summon Heroes suelen renovarse con las actualizaciones, hitos y eventos, así que revisa las listas de códigos después de cada parche."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Qué debería priorizar primero en Summon Heroes?",
+        "answer": "En Summon Heroes, prioriza el canje de códigos activos, un equipo principal enfocado y el progreso en la Historia antes de gastar en una alineación amplia."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Cómo gasto Gemas de forma eficiente en Summon Heroes?",
+        "answer": "Usa las Gemas de Summon Heroes en banners destacados de alto valor y evita tiradas de bajo impacto que no mejoren tu modo principal."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Qué modos son más importantes para el crecimiento en el endgame de Summon Heroes?",
+        "answer": "La progresión del endgame de Summon Heroes depende de completar la Historia de forma coordinada, el farmeo en Dungeons, la práctica en PvP y la optimización del Torneo."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Cómo debería armar equipos para el PvP y el Torneo de Summon Heroes?",
+        "answer": "Los equipos de PvP de Summon Heroes necesitan ráfaga de daño y control, mientras que los equipos del Torneo de Summon Heroes favorecen un rendimiento constante en batalla automática."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Dónde puedo seguir los anuncios oficiales de Summon Heroes?",
+        "answer": "Usa el Hub oficial de Summon Heroes, Discord, X y los canales de YouTube para enterarte de banners, actualizaciones y horarios de eventos."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Listo para unirte a Summon Heroes?",
+    "description": "Entra en Summon Heroes en Roblox y únete al Discord oficial para actualizaciones, eventos y ayuda de la comunidad.",
+    "joinCommunity": "Join Summon Heroes Discord",
+    "joinGame": "Play Summon Heroes on Roblox"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Summon Heroes Wiki",
+    "description": "Tu centro de recursos completo para códigos de Summon Heroes, listas de niveles, mundos de historia, Nightmare Circus, PvP y guías de Torneo.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "discord": "Discord oficial",
+    "twitter": "X oficial (Twitter)",
+    "steamCommunity": "YouTube oficial",
+    "steamStore": "Hub oficial",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Summon Heroes Wiki. Not affiliated with RedManta LLC, Twin Atlas, or Roblox Corporation.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans para Summon Heroes en Roblox."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "codes": {
+      "title": "Códigos de Summon Heroes",
+      "description": "Últimas recompensas de códigos activos de Summon Heroes para gemas, oro y tickets de invocación, con pasos rápidos de canje y seguimiento diario.",
+      "metaTitle": "Códigos de Summon Heroes - Gemas, oro y tickets gratis",
+      "metaDescription": "Encuentra códigos activos de Summon Heroes, reclama gemas y tickets de invocación gratis, y sigue pasos rápidos de canje con seguimiento de actualizaciones diarias.",
+      "categoryLabel": "CÓDIGOS DE CANJE",
+      "whatIs": "¿Qué son los códigos de Summon Heroes?",
+      "whatIsDescription": "Los códigos de Summon Heroes son cadenas de canje por tiempo limitado lanzadas durante hitos y eventos. Otorgan monedas gratuitas y potenciadores que aceleran el crecimiento de tu alineación.",
+      "why": "¿Por qué revisar los códigos de Summon Heroes a diario?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Reclama recompensas gratuitas diarias",
+        "step1Description": "Usa los códigos actuales para recolectar gemas, oro y tickets de invocación sin gastar Robux.",
+        "step2Title": "Anticípate a los plazos de vencimiento",
+        "step2Description": "La mayoría de los lanzamientos de códigos de Summon Heroes expiran rápido, por lo que el canje veloz protege tus recompensas.",
+        "step3Title": "Impulsa la progresión del equipo",
+        "step3Description": "Los recursos extra te ayudan a invocar unidades más fuertes, mejorar más rápido y superar etapas más difíciles."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los códigos de Summon Heroes"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "guide": {
+      "title": "Guía de Summon Heroes",
+      "description": "Guías paso a paso de Summon Heroes que cubren la configuración inicial, decisiones de banners, formación de equipos y estrategia de progresión desde el inicio hasta el juego tardío.",
+      "metaTitle": "Guía de Summon Heroes - Progresión de principiante a avanzado",
+      "metaDescription": "Lee las guías de Summon Heroes para conocer las mecánicas principales, rutas de formación de equipos y tácticas de progresión eficientes para cada etapa del juego.",
+      "categoryLabel": "GUÍA DEL JUEGO",
+      "whatIs": "¿Qué es la categoría de Guía de Summon Heroes?",
+      "whatIsDescription": "Esta sección explica sistemas centrales como la invocación, la sinergia de equipo, el ritmo del mapa y la planificación de recursos para que los jugadores progresen con prioridades claras.",
+      "why": "¿Por qué leer los artículos de la Guía de Summon Heroes?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Aprende los sistemas centrales más rápido",
+        "step1Description": "Comprende los banners, las mejoras y los roles de equipo desde el principio para evitar errores comunes de configuración.",
+        "step2Title": "Construye mejores equipos",
+        "step2Description": "Sigue combinaciones probadas y lógica de posicionamiento para limpiezas de PvE más fluidas.",
+        "step3Title": "Progresa con un plan claro",
+        "step3Description": "Usa rutas prácticas para subir de nivel, avanzar en el mapa y desbloquear hitos."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de Summon Heroes"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "tier-list": {
+      "title": "Tier List de Summon Heroes",
+      "description": "Clasificaciones actuales de la tier list de Summon Heroes para unidades clave, valor de rol y fuerza del meta en la campaña, oleadas de jefes y contenido competitivo.",
+      "metaTitle": "Tier List de Summon Heroes - Mejores unidades por rol en el meta",
+      "metaDescription": "Usa la última tier list de Summon Heroes para comparar las mejores unidades por rol, escalado e impacto general en los principales modos de juego.",
+      "categoryLabel": "RANKINGS DEL META",
+      "whatIs": "¿Qué es la Tier List de Summon Heroes?",
+      "whatIsDescription": "La tier list de Summon Heroes agrupa a las unidades por impacto de rendimiento, incluyendo daño, utilidad, consistencia y sinergia en los parches actuales.",
+      "why": "¿Por qué usar la Tier List de Summon Heroes?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Prioriza unidades de alto valor",
+        "step1Description": "Invierte fragmentos y materiales de mejora en unidades que rinden mejor en más mapas y eventos.",
+        "step2Title": "Adáptate a los cambios del meta",
+        "step2Description": "Sigue los cambios en el ranking tras los ajustes de equilibrio y el lanzamiento de nuevas unidades.",
+        "step3Title": "Optimiza los roles del equipo",
+        "step3Description": "Equilibra el DPS, el control y el soporte basándote en el rendimiento de los roles por niveles."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las Tier Lists de Summon Heroes"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "units": {
+      "title": "Unidades de Summon Heroes",
+      "description": "Guías completas de unidades de Summon Heroes con estadísticas, desglose de roles, prioridades de mejora y recomendaciones prácticas de ajuste de equipo.",
+      "metaTitle": "Unidades de Summon Heroes - Estadísticas, roles y prioridades de construcción",
+      "metaDescription": "Explora las unidades de Summon Heroes con análisis detallados de roles, notas de escalado y rutas de mejora para una composición de equipo más fuerte.",
+      "categoryLabel": "BASE DE DATOS DE UNIDADES",
+      "whatIs": "¿Qué son las páginas de Unidades de Summon Heroes?",
+      "whatIsDescription": "Esta categoría ofrece desgloses a nivel de héroe para las unidades de Summon Heroes, incluyendo fortalezas, límites, enfoque de habilidades y dónde rinde mejor cada unidad.",
+      "why": "¿Por qué comparar las Unidades de Summon Heroes?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Elige mejores objetivos de obtención",
+        "step1Description": "Conoce qué unidades se ajustan a los objetivos de tu alineación antes de gastar gemas o tickets.",
+        "step2Title": "Mejora la eficiencia de las actualizaciones",
+        "step2Description": "Enfoca la inversión en unidades que escalan bien en tus modos principales.",
+        "step3Title": "Refina la sinergia del equipo",
+        "step3Description": "Empareja unidades por interacción de roles en lugar de solo por rareza bruta."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las unidades de Summon Heroes"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "farming": {
+      "title": "Farming en Summon Heroes",
+      "description": "Rutas eficientes de farming en Summon Heroes para XP, oro, fragmentos y materiales de progresión, incluyendo bucles AFK y consejos de selección de etapas.",
+      "metaTitle": "Farming en Summon Heroes - Rutas de XP, oro y materiales",
+      "metaDescription": "Optimiza el farming en Summon Heroes con rutas de etapas prácticas, configuraciones AFK y prioridades de recursos para un crecimiento más rápido de la cuenta.",
+      "categoryLabel": "RUTAS DE FARMING",
+      "whatIs": "¿Qué es el Farming en Summon Heroes?",
+      "whatIsDescription": "Las guías de farming en Summon Heroes se centran en rutinas repetibles para subir de nivel, ganar moneda y recolectar materiales con alta eficiencia de tiempo.",
+      "why": "¿Por qué seguir las rutas de Farming en Summon Heroes?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Sube de nivel más rápido",
+        "step1Description": "Usa bucles de etapas probados para aumentar los niveles de cuenta y unidad con menos tiempo de inactividad.",
+        "step2Title": "Maximiza el rendimiento de recursos",
+        "step2Description": "Apunta a mapas y modos que proporcionen mejores recompensas por ejecución.",
+        "step3Title": "Apoya el progreso a largo plazo",
+        "step3Description": "Mantén un ingreso constante para invocaciones, mejoras y ajustes de equipo en el juego tardío."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de farming de Summon Heroes"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "update": {
+      "title": "Actualizaciones de Summon Heroes",
+      "description": "Cobertura de actualizaciones de parches y eventos de Summon Heroes con nuevas unidades, cambios en el mapa, lanzamientos de funciones y resúmenes de impacto para jugadores activos.",
+      "metaTitle": "Actualizaciones de Summon Heroes - Notas del parche y cambios en eventos",
+      "metaDescription": "Sigue las actualizaciones de Summon Heroes con desgloses claros de nuevas unidades, cambios de modo y recompensas de eventos que afectan las decisiones de juego.",
+      "categoryLabel": "SEGUIMIENTO DE PARCHES",
+      "whatIs": "¿Qué son las páginas de actualizaciones de Summon Heroes?",
+      "whatIsDescription": "Esta sección rastrea el contenido de las actualizaciones de Summon Heroes, incluyendo parches importantes, eventos en vivo, nuevos sistemas y ajustes de jugabilidad.",
+      "why": "¿Por qué seguir las actualizaciones de Summon Heroes?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Comprende el contenido nuevo rápidamente",
+        "step1Description": "Obtén una lectura rápida de lo que cambió después de cada parche o lanzamiento de evento.",
+        "step2Title": "Ajusta equipos y planes",
+        "step2Description": "Reacciona a los cambios de equilibrio y lanzamientos de nuevas unidades antes de tu próxima sesión de juego.",
+        "step3Title": "Aprovecha las oportunidades de eventos",
+        "step3Description": "Prioriza el contenido y las recompensas por tiempo limitado mientras estén disponibles."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las actualizaciones de Summon Heroes"
     }
   }
 }
