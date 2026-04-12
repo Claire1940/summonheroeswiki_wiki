@@ -33,27 +33,28 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Fast-Growing Roblox Hero Summoner",
+    "title": "Summon Heroes Wiki",
+    "description": "Updated codes, hero tier lists, story world guides, Nightmare Circus strategies, and PvP/Tournament help for Roblox Summon Heroes players.",
+    "getFreeCodesCTA": "Visit Summon Heroes Hub",
+    "playOnRobloxCTA": "Play Summon Heroes on Roblox",
+    "playOnSteamCTA": "Play Summon Heroes on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "18.9M+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "10.7K+",
+        "label": "Players Online"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "40+",
+        "label": "Heroes"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "9",
+        "label": "Story Worlds"
       }
     }
   },
@@ -784,27 +785,27 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Join Summon Heroes?",
+    "description": "Jump into Summon Heroes on Roblox and join the official Discord for updates, events, and community help.",
+    "joinCommunity": "Join Summon Heroes Discord",
+    "joinGame": "Play Summon Heroes on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Summon Heroes Wiki",
+    "description": "Your complete resource hub for Summon Heroes codes, tier lists, story worlds, Nightmare Circus, PvP, and Tournament guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "discord": "Official Discord",
+    "twitter": "Official X (Twitter)",
+    "steamCommunity": "Official YouTube",
+    "steamStore": "Official Hub",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
-    "disclaimer": "Unofficial fan-made resource website."
+    "copyright": "© 2026 Summon Heroes Wiki. Not affiliated with RedManta LLC, Twin Atlas, or Roblox Corporation.",
+    "disclaimer": "Unofficial fan-made resource website for Roblox Summon Heroes."
   },
   "pages": {
     "guides": {

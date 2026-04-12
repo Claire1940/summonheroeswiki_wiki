@@ -214,7 +214,15 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale, slug } = await params
   const contentType = slug[0]
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://summonheroeswiki.wiki'
+  const siteName = 'Summon Heroes Wiki'
+  const heroImage = new URL('/images/hero.webp', siteUrl).toString()
+
+  const normalizeImageUrl = (image?: string): string => {
+    if (!image) return heroImage
+    if (image.startsWith('http://') || image.startsWith('https://')) return image
+    return new URL(image, siteUrl).toString()
+  }
 
   if (!isValidContentType(contentType)) {
     return { title: 'Not Found' }
@@ -223,56 +231,44 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const isListPage = slug.length === 1
 
   if (isListPage) {
-    // 列表页元数据
-    const t = await getTranslations(`pages.${contentType}`)
+    const path = `/${contentType}`
+    const sectionName = contentType
+      .split('-')
+      .map((segment) => segment.charAt(0).toUpperCase() + segment.slice(1))
+      .join(' ')
+    const title = `${sectionName} - ${siteName}`
+    const description = `Browse all ${sectionName.toLowerCase()} guides, lists, and strategies for Summon Heroes.`
+    const pageUrl = `${siteUrl}${locale === 'en' ? path : `/${locale}${path}`}`
 
-    try {
-      const title = t('metaTitle')
-      const description = t('metaDescription')
-      const path = `/${contentType}`
-
-      return {
+    return {
+      title,
+      description,
+      alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
+      openGraph: {
+        type: 'website',
+        siteName,
         title,
         description,
-        alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
-        openGraph: {
-          title,
-          description,
-          url: `${siteUrl}${locale === 'en' ? path : `/${locale}${path}`}`,
-        },
-        robots: {
+        url: pageUrl,
+        images: [heroImage],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description,
+        images: [heroImage],
+      },
+      robots: {
+        index: true,
+        follow: true,
+        googleBot: {
           index: true,
           follow: true,
-          googleBot: {
-            index: true,
-            follow: true,
-            'max-video-preview': -1,
-            'max-image-preview': 'large',
-            'max-snippet': -1,
-          },
+          'max-video-preview': -1,
+          'max-image-preview': 'large',
+          'max-snippet': -1,
         },
-      }
-    } catch {
-      // 如果翻译不存在，使用默认值
-      const defaultTitle = `${contentType.charAt(0).toUpperCase() + contentType.slice(1)} - Lucid Blocks Wiki`
-      const path = `/${contentType}`
-
-      return {
-        title: defaultTitle,
-        description: `Browse all ${contentType} content for Lucid Blocks Wiki`,
-        alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
-        robots: {
-          index: true,
-          follow: true,
-          googleBot: {
-            index: true,
-            follow: true,
-            'max-video-preview': -1,
-            'max-image-preview': 'large',
-            'max-snippet': -1,
-          },
-        },
-      }
+      },
     }
   } else {
     // 详情页元数据（从 MDX import 获取）
@@ -288,16 +284,29 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       )
 
       const fullPath = `/${slug.join('/')}`
+      const articleMetadata = metadata as ContentFrontmatter
+      const title = `${articleMetadata.title} - ${siteName}`
+      const description = articleMetadata.description
+      const image = normalizeImageUrl(articleMetadata.image)
+      const pageUrl = `${siteUrl}${locale === 'en' ? fullPath : `/${locale}${fullPath}`}`
 
       return {
-        title: `${metadata.title} - Lucid Blocks Wiki`,
-        description: metadata.description,
+        title,
+        description,
         alternates: buildLanguageAlternates(fullPath, locale as Locale, siteUrl),
         openGraph: {
-          title: metadata.title,
-          description: metadata.description,
-          images: metadata.image ? [metadata.image] : [],
-          url: `${siteUrl}${locale === 'en' ? fullPath : `/${locale}${fullPath}`}`,
+          type: 'article',
+          siteName,
+          title,
+          description,
+          images: [image],
+          url: pageUrl,
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title,
+          description,
+          images: [image],
         },
         robots: {
           index: true,
@@ -323,16 +332,29 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
           )
 
           const fullPath = `/${slug.join('/')}`
+          const articleMetadata = metadata as ContentFrontmatter
+          const title = `${articleMetadata.title} - ${siteName}`
+          const description = articleMetadata.description
+          const image = normalizeImageUrl(articleMetadata.image)
+          const pageUrl = `${siteUrl}${locale === 'en' ? fullPath : `/${locale}${fullPath}`}`
 
           return {
-            title: `${metadata.title} - Lucid Blocks Wiki`,
-            description: metadata.description,
+            title,
+            description,
             alternates: buildLanguageAlternates(fullPath, locale as Locale, siteUrl),
             openGraph: {
-              title: metadata.title,
-              description: metadata.description,
-              images: metadata.image ? [metadata.image] : [],
-              url: `${siteUrl}${locale === 'en' ? fullPath : `/${locale}${fullPath}`}`,
+              type: 'article',
+              siteName,
+              title,
+              description,
+              images: [image],
+              url: pageUrl,
+            },
+            twitter: {
+              card: 'summary_large_image',
+              title,
+              description,
+              images: [image],
             },
             robots: {
               index: true,
