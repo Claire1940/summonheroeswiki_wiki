@@ -1,0 +1,2482 @@
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "bear-tamer-summon-heroes",
+        "file": "bear-tamer-summon-heroes"
+      },
+      {
+        "slug": "best-legendary-in-summon-heroes",
+        "file": "best-legendary-in-summon-heroes"
+      },
+      {
+        "slug": "best-units-in-summon-heroes",
+        "file": "best-units-in-summon-heroes"
+      },
+      {
+        "slug": "framerate-summon-heroes",
+        "file": "framerate-summon-heroes"
+      },
+      {
+        "slug": "hero-summon-roblox-tier-list",
+        "file": "hero-summon-roblox-tier-list"
+      },
+      {
+        "slug": "heroes-summon-tier-list",
+        "file": "heroes-summon-tier-list"
+      },
+      {
+        "slug": "how-to-get-summoner-supreme-in-an-average-campaign",
+        "file": "how-to-get-summoner-supreme-in-an-average-campaign"
+      },
+      {
+        "slug": "mythic-dungeon",
+        "file": "mythic-dungeon"
+      },
+      {
+        "slug": "roblox-summon-heroes-best-team",
+        "file": "roblox-summon-heroes-best-team"
+      },
+      {
+        "slug": "roblox-summon-heroes-tier",
+        "file": "roblox-summon-heroes-tier"
+      },
+      {
+        "slug": "seraph-summon-heroes",
+        "file": "seraph-summon-heroes"
+      },
+      {
+        "slug": "summon-a-hero-tier-list",
+        "file": "summon-a-hero-tier-list"
+      },
+      {
+        "slug": "summon-heroes-banner",
+        "file": "summon-heroes-banner"
+      },
+      {
+        "slug": "summon-heroes-best-team",
+        "file": "summon-heroes-best-team"
+      },
+      {
+        "slug": "summon-heroes-code",
+        "file": "summon-heroes-code"
+      },
+      {
+        "slug": "summon-heroes-codes",
+        "file": "summon-heroes-codes"
+      },
+      {
+        "slug": "summon-heroes-guide",
+        "file": "summon-heroes-guide"
+      },
+      {
+        "slug": "summon-heroes-hero-stats",
+        "file": "summon-heroes-hero-stats"
+      },
+      {
+        "slug": "summon-heroes-how-to-get-gems",
+        "file": "summon-heroes-how-to-get-gems"
+      },
+      {
+        "slug": "summon-heroes-how-to-use-mythic-shards",
+        "file": "summon-heroes-how-to-use-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-meta",
+        "file": "summon-heroes-meta"
+      },
+      {
+        "slug": "summon-heroes-mythic-shard",
+        "file": "summon-heroes-mythic-shard"
+      },
+      {
+        "slug": "summon-heroes-mythic-shards",
+        "file": "summon-heroes-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-mythic",
+        "file": "summon-heroes-mythic"
+      },
+      {
+        "slug": "summon-heroes-reaper",
+        "file": "summon-heroes-reaper"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-heroes",
+        "file": "summon-heroes-roblox-best-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-codes",
+        "file": "summon-heroes-roblox-codes"
+      },
+      {
+        "slug": "summon-heroes-seraph",
+        "file": "summon-heroes-seraph"
+      },
+      {
+        "slug": "summon-heroes-stats",
+        "file": "summon-heroes-stats"
+      },
+      {
+        "slug": "summon-heroes-tier-list-2026",
+        "file": "summon-heroes-tier-list-2026"
+      },
+      {
+        "slug": "summon-heroes-tier-list-pve",
+        "file": "summon-heroes-tier-list-pve"
+      },
+      {
+        "slug": "summon-heroes-tier-list",
+        "file": "summon-heroes-tier-list"
+      },
+      {
+        "slug": "summon-heroes-tier",
+        "file": "summon-heroes-tier"
+      },
+      {
+        "slug": "summon-heroes-wiki-roblox",
+        "file": "summon-heroes-wiki-roblox"
+      },
+      {
+        "slug": "summon-heroes-wiki",
+        "file": "summon-heroes-wiki"
+      },
+      {
+        "slug": "summon-heros-code",
+        "file": "summon-heros-code"
+      },
+      {
+        "slug": "summon-heros-codes-roblox",
+        "file": "summon-heros-codes-roblox"
+      },
+      {
+        "slug": "summon-heros-wiki",
+        "file": "summon-heros-wiki"
+      },
+      {
+        "slug": "summoner-hero-tier-list",
+        "file": "summoner-hero-tier-list"
+      },
+      {
+        "slug": "sumon-heros-codes",
+        "file": "sumon-heros-codes"
+      },
+      {
+        "slug": "tier-list-summon-hero-roblox",
+        "file": "tier-list-summon-hero-roblox"
+      },
+      {
+        "slug": "tierlist-summon-heroes-roblox",
+        "file": "tierlist-summon-heroes-roblox"
+      },
+      {
+        "slug": "what-is-the-best-legendary-in-summon-heroes",
+        "file": "what-is-the-best-legendary-in-summon-heroes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "summon-heroes-beginner-guide",
+        "file": "summon-heroes-beginner-guide"
+      },
+      {
+        "slug": "summon-heroes-discord",
+        "file": "summon-heroes-discord"
+      },
+      {
+        "slug": "summon-heroes-event-guide",
+        "file": "summon-heroes-event-guide"
+      },
+      {
+        "slug": "summon-heroes-how-to-unlock-heroes",
+        "file": "summon-heroes-how-to-unlock-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord-link",
+        "file": "summon-heroes-roblox-discord-link"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord-server",
+        "file": "summon-heroes-roblox-discord-server"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord",
+        "file": "summon-heroes-roblox-discord"
+      },
+      {
+        "slug": "summon-heroes-roblox-trello",
+        "file": "summon-heroes-roblox-trello"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "summon-heroes-daily-quests",
+        "file": "summon-heroes-daily-quests"
+      },
+      {
+        "slug": "summon-heroes-legendary-heroes",
+        "file": "summon-heroes-legendary-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-afk-farm",
+        "file": "summon-heroes-roblox-afk-farm"
+      },
+      {
+        "slug": "summon-heroes-roblox-chest-farm",
+        "file": "summon-heroes-roblox-chest-farm"
+      },
+      {
+        "slug": "summon-heroes-roblox-level-100",
+        "file": "summon-heroes-roblox-level-100"
+      },
+      {
+        "slug": "summon-heroes-roblox-level-fast",
+        "file": "summon-heroes-roblox-level-fast"
+      },
+      {
+        "slug": "summon-heroes-roblox-mythic-shards",
+        "file": "summon-heroes-roblox-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-roblox-starter-units",
+        "file": "summon-heroes-roblox-starter-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier",
+        "file": "summon-heroes-roblox-tier"
+      },
+      {
+        "slug": "summon-heroes-working-codes",
+        "file": "summon-heroes-working-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "best-legendary-in-summon-heroes-roblox",
+        "file": "best-legendary-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "how-to-use-mythic-shard-in-summon-heroes",
+        "file": "how-to-use-mythic-shard-in-summon-heroes"
+      },
+      {
+        "slug": "mythic-shard-summon-heroes",
+        "file": "mythic-shard-summon-heroes"
+      },
+      {
+        "slug": "reaper-summon-heroes",
+        "file": "reaper-summon-heroes"
+      },
+      {
+        "slug": "summon-heroes-best-heroes",
+        "file": "summon-heroes-best-heroes"
+      },
+      {
+        "slug": "summon-heroes-codes-2026",
+        "file": "summon-heroes-codes-2026"
+      },
+      {
+        "slug": "summon-heroes-codes-wiki",
+        "file": "summon-heroes-codes-wiki"
+      },
+      {
+        "slug": "summon-heroes-how-to-farm-gold",
+        "file": "summon-heroes-how-to-farm-gold"
+      },
+      {
+        "slug": "summon-heroes-how-to-use-mythic-shard",
+        "file": "summon-heroes-how-to-use-mythic-shard"
+      },
+      {
+        "slug": "summon-heroes-latest-update",
+        "file": "summon-heroes-latest-update"
+      },
+      {
+        "slug": "summon-heroes-roblox-beginner-guide",
+        "file": "summon-heroes-roblox-beginner-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-team",
+        "file": "summon-heroes-roblox-best-team"
+      },
+      {
+        "slug": "summon-heroes-roblox-evercrest-solo",
+        "file": "summon-heroes-roblox-evercrest-solo"
+      },
+      {
+        "slug": "summon-heroes-roblox-guide",
+        "file": "summon-heroes-roblox-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-how-to-play",
+        "file": "summon-heroes-roblox-how-to-play"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-player-guide",
+        "file": "summon-heroes-roblox-new-player-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-tips",
+        "file": "summon-heroes-roblox-tips"
+      },
+      {
+        "slug": "summon-heroes-strongest-characters",
+        "file": "summon-heroes-strongest-characters"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "hero-summon-tier-list",
+        "file": "hero-summon-tier-list"
+      },
+      {
+        "slug": "roblox-summon-hero-tier-list",
+        "file": "roblox-summon-hero-tier-list"
+      },
+      {
+        "slug": "roblox-summon-heroes-tier-list",
+        "file": "roblox-summon-heroes-tier-list"
+      },
+      {
+        "slug": "summon-hero-roblox-tier-list",
+        "file": "summon-hero-roblox-tier-list"
+      },
+      {
+        "slug": "summon-hero-tier-list-roblox",
+        "file": "summon-hero-tier-list-roblox"
+      },
+      {
+        "slug": "summon-hero-tier-list",
+        "file": "summon-hero-tier-list"
+      },
+      {
+        "slug": "summon-hero-tierlist",
+        "file": "summon-hero-tierlist"
+      },
+      {
+        "slug": "summon-heroes-fastest-way-to-level-up",
+        "file": "summon-heroes-fastest-way-to-level-up"
+      },
+      {
+        "slug": "summon-heroes-hero-tier-list",
+        "file": "summon-heroes-hero-tier-list"
+      },
+      {
+        "slug": "summon-heroes-redeem-codes",
+        "file": "summon-heroes-redeem-codes"
+      },
+      {
+        "slug": "summon-heroes-reroll-guide",
+        "file": "summon-heroes-reroll-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-legendary",
+        "file": "summon-heroes-roblox-best-legendary"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-units",
+        "file": "summon-heroes-roblox-best-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-lvl-100-tier-list",
+        "file": "summon-heroes-roblox-lvl-100-tier-list"
+      },
+      {
+        "slug": "summon-heroes-roblox-meta",
+        "file": "summon-heroes-roblox-meta"
+      },
+      {
+        "slug": "summon-heroes-roblox-pve-tier-list",
+        "file": "summon-heroes-roblox-pve-tier-list"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list-2026",
+        "file": "summon-heroes-roblox-tier-list-2026"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list-april-2026",
+        "file": "summon-heroes-roblox-tier-list-april-2026"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list",
+        "file": "summon-heroes-roblox-tier-list"
+      },
+      {
+        "slug": "summon-heroes-tier-list-pvp",
+        "file": "summon-heroes-tier-list-pvp"
+      },
+      {
+        "slug": "summon-heroes-tier-list-roblox",
+        "file": "summon-heroes-tier-list-roblox"
+      },
+      {
+        "slug": "summon-heroes-tierlist",
+        "file": "summon-heroes-tierlist"
+      },
+      {
+        "slug": "summon-heroes-top-picks",
+        "file": "summon-heroes-top-picks"
+      },
+      {
+        "slug": "summon-heroes-unit-tier-list",
+        "file": "summon-heroes-unit-tier-list"
+      },
+      {
+        "slug": "summon-heros-tier-list",
+        "file": "summon-heros-tier-list"
+      },
+      {
+        "slug": "tier-list-summon-heroes-roblox",
+        "file": "tier-list-summon-heroes-roblox"
+      },
+      {
+        "slug": "tier-list-summon-heroes",
+        "file": "tier-list-summon-heroes"
+      },
+      {
+        "slug": "tierlist-summon-heroes",
+        "file": "tierlist-summon-heroes"
+      }
+    ],
+    "units": [
+      {
+        "slug": "best-heroes-in-summon-heroes-roblox",
+        "file": "best-heroes-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "best-unit-in-summon-heroes",
+        "file": "best-unit-in-summon-heroes"
+      },
+      {
+        "slug": "best-units-in-summon-heroes-roblox",
+        "file": "best-units-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "summon-hero-tier",
+        "file": "summon-hero-tier"
+      },
+      {
+        "slug": "summon-hero-wiki",
+        "file": "summon-hero-wiki"
+      },
+      {
+        "slug": "summon-heroes-active-codes",
+        "file": "summon-heroes-active-codes"
+      },
+      {
+        "slug": "summon-heroes-bear-tamer",
+        "file": "summon-heroes-bear-tamer"
+      },
+      {
+        "slug": "summon-heroes-chest-locations",
+        "file": "summon-heroes-chest-locations"
+      },
+      {
+        "slug": "summon-heroes-emperor",
+        "file": "summon-heroes-emperor"
+      },
+      {
+        "slug": "summon-heroes-fusion",
+        "file": "summon-heroes-fusion"
+      },
+      {
+        "slug": "summon-heroes-pvp-guide",
+        "file": "summon-heroes-pvp-guide"
+      },
+      {
+        "slug": "summon-heroes-ranking",
+        "file": "summon-heroes-ranking"
+      },
+      {
+        "slug": "summon-heroes-resource-farming",
+        "file": "summon-heroes-resource-farming"
+      },
+      {
+        "slug": "summon-heroes-roblox-abyss-lord",
+        "file": "summon-heroes-roblox-abyss-lord"
+      },
+      {
+        "slug": "summon-heroes-roblox-all-units",
+        "file": "summon-heroes-roblox-all-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-bear-tamer",
+        "file": "summon-heroes-roblox-bear-tamer"
+      },
+      {
+        "slug": "summon-heroes-roblox-construct",
+        "file": "summon-heroes-roblox-construct"
+      },
+      {
+        "slug": "summon-heroes-roblox-demon-knight",
+        "file": "summon-heroes-roblox-demon-knight"
+      },
+      {
+        "slug": "summon-heroes-roblox-healer",
+        "file": "summon-heroes-roblox-healer"
+      },
+      {
+        "slug": "summon-heroes-roblox-mythic",
+        "file": "summon-heroes-roblox-mythic"
+      },
+      {
+        "slug": "summon-heroes-roblox-ninja",
+        "file": "summon-heroes-roblox-ninja"
+      },
+      {
+        "slug": "summon-heroes-roblox-ranger",
+        "file": "summon-heroes-roblox-ranger"
+      },
+      {
+        "slug": "summon-heroes-roblox-reaper",
+        "file": "summon-heroes-roblox-reaper"
+      },
+      {
+        "slug": "summon-heroes-roblox-seraph",
+        "file": "summon-heroes-roblox-seraph"
+      },
+      {
+        "slug": "summon-heroes-roblox-sniper",
+        "file": "summon-heroes-roblox-sniper"
+      },
+      {
+        "slug": "summon-heroes-roblox-tank-commander",
+        "file": "summon-heroes-roblox-tank-commander"
+      },
+      {
+        "slug": "summon-heroes-roblox-technomancer",
+        "file": "summon-heroes-roblox-technomancer"
+      },
+      {
+        "slug": "summon-heroes-roblox-tierlist",
+        "file": "summon-heroes-roblox-tierlist"
+      },
+      {
+        "slug": "summon-heroes-roblox-units",
+        "file": "summon-heroes-roblox-units"
+      },
+      {
+        "slug": "summon-heroes-roblox",
+        "file": "summon-heroes-roblox"
+      },
+      {
+        "slug": "summon-heroes-tierlsit",
+        "file": "summon-heroes-tierlsit"
+      },
+      {
+        "slug": "technomancer-summon-heroes",
+        "file": "technomancer-summon-heroes"
+      },
+      {
+        "slug": "tier-summon-heroes",
+        "file": "tier-summon-heroes"
+      }
+    ],
+    "update": [
+      {
+        "slug": "summon-heroes-best-units",
+        "file": "summon-heroes-best-units"
+      },
+      {
+        "slug": "summon-heroes-hero-abilities",
+        "file": "summon-heroes-hero-abilities"
+      },
+      {
+        "slug": "summon-heroes-reddit",
+        "file": "summon-heroes-reddit"
+      },
+      {
+        "slug": "summon-heroes-roblox-console-update",
+        "file": "summon-heroes-roblox-console-update"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-map",
+        "file": "summon-heroes-roblox-new-map"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-mythic",
+        "file": "summon-heroes-roblox-new-mythic"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-units",
+        "file": "summon-heroes-roblox-new-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-sunset-city",
+        "file": "summon-heroes-roblox-sunset-city"
+      },
+      {
+        "slug": "summon-heroes-roblox-tournament-mode",
+        "file": "summon-heroes-roblox-tournament-mode"
+      },
+      {
+        "slug": "summon-heroes-roblox-update",
+        "file": "summon-heroes-roblox-update"
+      },
+      {
+        "slug": "summon-heroes-tips",
+        "file": "summon-heroes-tips"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "bear-tamer-summon-heroes",
+        "file": "bear-tamer-summon-heroes"
+      },
+      {
+        "slug": "best-legendary-in-summon-heroes",
+        "file": "best-legendary-in-summon-heroes"
+      },
+      {
+        "slug": "best-units-in-summon-heroes",
+        "file": "best-units-in-summon-heroes"
+      },
+      {
+        "slug": "framerate-summon-heroes",
+        "file": "framerate-summon-heroes"
+      },
+      {
+        "slug": "hero-summon-roblox-tier-list",
+        "file": "hero-summon-roblox-tier-list"
+      },
+      {
+        "slug": "heroes-summon-tier-list",
+        "file": "heroes-summon-tier-list"
+      },
+      {
+        "slug": "how-to-get-summoner-supreme-in-an-average-campaign",
+        "file": "how-to-get-summoner-supreme-in-an-average-campaign"
+      },
+      {
+        "slug": "mythic-dungeon",
+        "file": "mythic-dungeon"
+      },
+      {
+        "slug": "roblox-summon-heroes-best-team",
+        "file": "roblox-summon-heroes-best-team"
+      },
+      {
+        "slug": "roblox-summon-heroes-tier",
+        "file": "roblox-summon-heroes-tier"
+      },
+      {
+        "slug": "seraph-summon-heroes",
+        "file": "seraph-summon-heroes"
+      },
+      {
+        "slug": "summon-a-hero-tier-list",
+        "file": "summon-a-hero-tier-list"
+      },
+      {
+        "slug": "summon-heroes-banner",
+        "file": "summon-heroes-banner"
+      },
+      {
+        "slug": "summon-heroes-best-team",
+        "file": "summon-heroes-best-team"
+      },
+      {
+        "slug": "summon-heroes-code",
+        "file": "summon-heroes-code"
+      },
+      {
+        "slug": "summon-heroes-codes",
+        "file": "summon-heroes-codes"
+      },
+      {
+        "slug": "summon-heroes-guide",
+        "file": "summon-heroes-guide"
+      },
+      {
+        "slug": "summon-heroes-hero-stats",
+        "file": "summon-heroes-hero-stats"
+      },
+      {
+        "slug": "summon-heroes-how-to-get-gems",
+        "file": "summon-heroes-how-to-get-gems"
+      },
+      {
+        "slug": "summon-heroes-how-to-use-mythic-shards",
+        "file": "summon-heroes-how-to-use-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-meta",
+        "file": "summon-heroes-meta"
+      },
+      {
+        "slug": "summon-heroes-mythic-shard",
+        "file": "summon-heroes-mythic-shard"
+      },
+      {
+        "slug": "summon-heroes-mythic-shards",
+        "file": "summon-heroes-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-mythic",
+        "file": "summon-heroes-mythic"
+      },
+      {
+        "slug": "summon-heroes-reaper",
+        "file": "summon-heroes-reaper"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-heroes",
+        "file": "summon-heroes-roblox-best-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-codes",
+        "file": "summon-heroes-roblox-codes"
+      },
+      {
+        "slug": "summon-heroes-seraph",
+        "file": "summon-heroes-seraph"
+      },
+      {
+        "slug": "summon-heroes-stats",
+        "file": "summon-heroes-stats"
+      },
+      {
+        "slug": "summon-heroes-tier-list-2026",
+        "file": "summon-heroes-tier-list-2026"
+      },
+      {
+        "slug": "summon-heroes-tier-list-pve",
+        "file": "summon-heroes-tier-list-pve"
+      },
+      {
+        "slug": "summon-heroes-tier-list",
+        "file": "summon-heroes-tier-list"
+      },
+      {
+        "slug": "summon-heroes-tier",
+        "file": "summon-heroes-tier"
+      },
+      {
+        "slug": "summon-heroes-wiki-roblox",
+        "file": "summon-heroes-wiki-roblox"
+      },
+      {
+        "slug": "summon-heroes-wiki",
+        "file": "summon-heroes-wiki"
+      },
+      {
+        "slug": "summon-heros-code",
+        "file": "summon-heros-code"
+      },
+      {
+        "slug": "summon-heros-codes-roblox",
+        "file": "summon-heros-codes-roblox"
+      },
+      {
+        "slug": "summon-heros-wiki",
+        "file": "summon-heros-wiki"
+      },
+      {
+        "slug": "summoner-hero-tier-list",
+        "file": "summoner-hero-tier-list"
+      },
+      {
+        "slug": "sumon-heros-codes",
+        "file": "sumon-heros-codes"
+      },
+      {
+        "slug": "tier-list-summon-hero-roblox",
+        "file": "tier-list-summon-hero-roblox"
+      },
+      {
+        "slug": "tierlist-summon-heroes-roblox",
+        "file": "tierlist-summon-heroes-roblox"
+      },
+      {
+        "slug": "what-is-the-best-legendary-in-summon-heroes",
+        "file": "what-is-the-best-legendary-in-summon-heroes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "summon-heroes-beginner-guide",
+        "file": "summon-heroes-beginner-guide"
+      },
+      {
+        "slug": "summon-heroes-discord",
+        "file": "summon-heroes-discord"
+      },
+      {
+        "slug": "summon-heroes-event-guide",
+        "file": "summon-heroes-event-guide"
+      },
+      {
+        "slug": "summon-heroes-how-to-unlock-heroes",
+        "file": "summon-heroes-how-to-unlock-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord-link",
+        "file": "summon-heroes-roblox-discord-link"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord-server",
+        "file": "summon-heroes-roblox-discord-server"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord",
+        "file": "summon-heroes-roblox-discord"
+      },
+      {
+        "slug": "summon-heroes-roblox-trello",
+        "file": "summon-heroes-roblox-trello"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "summon-heroes-daily-quests",
+        "file": "summon-heroes-daily-quests"
+      },
+      {
+        "slug": "summon-heroes-legendary-heroes",
+        "file": "summon-heroes-legendary-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-afk-farm",
+        "file": "summon-heroes-roblox-afk-farm"
+      },
+      {
+        "slug": "summon-heroes-roblox-chest-farm",
+        "file": "summon-heroes-roblox-chest-farm"
+      },
+      {
+        "slug": "summon-heroes-roblox-level-100",
+        "file": "summon-heroes-roblox-level-100"
+      },
+      {
+        "slug": "summon-heroes-roblox-level-fast",
+        "file": "summon-heroes-roblox-level-fast"
+      },
+      {
+        "slug": "summon-heroes-roblox-mythic-shards",
+        "file": "summon-heroes-roblox-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-roblox-starter-units",
+        "file": "summon-heroes-roblox-starter-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier",
+        "file": "summon-heroes-roblox-tier"
+      },
+      {
+        "slug": "summon-heroes-working-codes",
+        "file": "summon-heroes-working-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "best-legendary-in-summon-heroes-roblox",
+        "file": "best-legendary-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "how-to-use-mythic-shard-in-summon-heroes",
+        "file": "how-to-use-mythic-shard-in-summon-heroes"
+      },
+      {
+        "slug": "mythic-shard-summon-heroes",
+        "file": "mythic-shard-summon-heroes"
+      },
+      {
+        "slug": "reaper-summon-heroes",
+        "file": "reaper-summon-heroes"
+      },
+      {
+        "slug": "summon-heroes-best-heroes",
+        "file": "summon-heroes-best-heroes"
+      },
+      {
+        "slug": "summon-heroes-codes-2026",
+        "file": "summon-heroes-codes-2026"
+      },
+      {
+        "slug": "summon-heroes-codes-wiki",
+        "file": "summon-heroes-codes-wiki"
+      },
+      {
+        "slug": "summon-heroes-how-to-farm-gold",
+        "file": "summon-heroes-how-to-farm-gold"
+      },
+      {
+        "slug": "summon-heroes-how-to-use-mythic-shard",
+        "file": "summon-heroes-how-to-use-mythic-shard"
+      },
+      {
+        "slug": "summon-heroes-latest-update",
+        "file": "summon-heroes-latest-update"
+      },
+      {
+        "slug": "summon-heroes-roblox-beginner-guide",
+        "file": "summon-heroes-roblox-beginner-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-team",
+        "file": "summon-heroes-roblox-best-team"
+      },
+      {
+        "slug": "summon-heroes-roblox-evercrest-solo",
+        "file": "summon-heroes-roblox-evercrest-solo"
+      },
+      {
+        "slug": "summon-heroes-roblox-guide",
+        "file": "summon-heroes-roblox-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-how-to-play",
+        "file": "summon-heroes-roblox-how-to-play"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-player-guide",
+        "file": "summon-heroes-roblox-new-player-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-tips",
+        "file": "summon-heroes-roblox-tips"
+      },
+      {
+        "slug": "summon-heroes-strongest-characters",
+        "file": "summon-heroes-strongest-characters"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "hero-summon-tier-list",
+        "file": "hero-summon-tier-list"
+      },
+      {
+        "slug": "roblox-summon-hero-tier-list",
+        "file": "roblox-summon-hero-tier-list"
+      },
+      {
+        "slug": "roblox-summon-heroes-tier-list",
+        "file": "roblox-summon-heroes-tier-list"
+      },
+      {
+        "slug": "summon-hero-roblox-tier-list",
+        "file": "summon-hero-roblox-tier-list"
+      },
+      {
+        "slug": "summon-hero-tier-list-roblox",
+        "file": "summon-hero-tier-list-roblox"
+      },
+      {
+        "slug": "summon-hero-tier-list",
+        "file": "summon-hero-tier-list"
+      },
+      {
+        "slug": "summon-hero-tierlist",
+        "file": "summon-hero-tierlist"
+      },
+      {
+        "slug": "summon-heroes-fastest-way-to-level-up",
+        "file": "summon-heroes-fastest-way-to-level-up"
+      },
+      {
+        "slug": "summon-heroes-hero-tier-list",
+        "file": "summon-heroes-hero-tier-list"
+      },
+      {
+        "slug": "summon-heroes-redeem-codes",
+        "file": "summon-heroes-redeem-codes"
+      },
+      {
+        "slug": "summon-heroes-reroll-guide",
+        "file": "summon-heroes-reroll-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-legendary",
+        "file": "summon-heroes-roblox-best-legendary"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-units",
+        "file": "summon-heroes-roblox-best-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-lvl-100-tier-list",
+        "file": "summon-heroes-roblox-lvl-100-tier-list"
+      },
+      {
+        "slug": "summon-heroes-roblox-meta",
+        "file": "summon-heroes-roblox-meta"
+      },
+      {
+        "slug": "summon-heroes-roblox-pve-tier-list",
+        "file": "summon-heroes-roblox-pve-tier-list"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list-2026",
+        "file": "summon-heroes-roblox-tier-list-2026"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list-april-2026",
+        "file": "summon-heroes-roblox-tier-list-april-2026"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list",
+        "file": "summon-heroes-roblox-tier-list"
+      },
+      {
+        "slug": "summon-heroes-tier-list-pvp",
+        "file": "summon-heroes-tier-list-pvp"
+      },
+      {
+        "slug": "summon-heroes-tier-list-roblox",
+        "file": "summon-heroes-tier-list-roblox"
+      },
+      {
+        "slug": "summon-heroes-tierlist",
+        "file": "summon-heroes-tierlist"
+      },
+      {
+        "slug": "summon-heroes-top-picks",
+        "file": "summon-heroes-top-picks"
+      },
+      {
+        "slug": "summon-heroes-unit-tier-list",
+        "file": "summon-heroes-unit-tier-list"
+      },
+      {
+        "slug": "summon-heros-tier-list",
+        "file": "summon-heros-tier-list"
+      },
+      {
+        "slug": "tier-list-summon-heroes-roblox",
+        "file": "tier-list-summon-heroes-roblox"
+      },
+      {
+        "slug": "tier-list-summon-heroes",
+        "file": "tier-list-summon-heroes"
+      },
+      {
+        "slug": "tierlist-summon-heroes",
+        "file": "tierlist-summon-heroes"
+      }
+    ],
+    "units": [
+      {
+        "slug": "best-heroes-in-summon-heroes-roblox",
+        "file": "best-heroes-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "best-unit-in-summon-heroes",
+        "file": "best-unit-in-summon-heroes"
+      },
+      {
+        "slug": "best-units-in-summon-heroes-roblox",
+        "file": "best-units-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "summon-hero-tier",
+        "file": "summon-hero-tier"
+      },
+      {
+        "slug": "summon-hero-wiki",
+        "file": "summon-hero-wiki"
+      },
+      {
+        "slug": "summon-heroes-active-codes",
+        "file": "summon-heroes-active-codes"
+      },
+      {
+        "slug": "summon-heroes-bear-tamer",
+        "file": "summon-heroes-bear-tamer"
+      },
+      {
+        "slug": "summon-heroes-chest-locations",
+        "file": "summon-heroes-chest-locations"
+      },
+      {
+        "slug": "summon-heroes-emperor",
+        "file": "summon-heroes-emperor"
+      },
+      {
+        "slug": "summon-heroes-fusion",
+        "file": "summon-heroes-fusion"
+      },
+      {
+        "slug": "summon-heroes-pvp-guide",
+        "file": "summon-heroes-pvp-guide"
+      },
+      {
+        "slug": "summon-heroes-ranking",
+        "file": "summon-heroes-ranking"
+      },
+      {
+        "slug": "summon-heroes-resource-farming",
+        "file": "summon-heroes-resource-farming"
+      },
+      {
+        "slug": "summon-heroes-roblox-abyss-lord",
+        "file": "summon-heroes-roblox-abyss-lord"
+      },
+      {
+        "slug": "summon-heroes-roblox-all-units",
+        "file": "summon-heroes-roblox-all-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-bear-tamer",
+        "file": "summon-heroes-roblox-bear-tamer"
+      },
+      {
+        "slug": "summon-heroes-roblox-construct",
+        "file": "summon-heroes-roblox-construct"
+      },
+      {
+        "slug": "summon-heroes-roblox-demon-knight",
+        "file": "summon-heroes-roblox-demon-knight"
+      },
+      {
+        "slug": "summon-heroes-roblox-healer",
+        "file": "summon-heroes-roblox-healer"
+      },
+      {
+        "slug": "summon-heroes-roblox-mythic",
+        "file": "summon-heroes-roblox-mythic"
+      },
+      {
+        "slug": "summon-heroes-roblox-ninja",
+        "file": "summon-heroes-roblox-ninja"
+      },
+      {
+        "slug": "summon-heroes-roblox-ranger",
+        "file": "summon-heroes-roblox-ranger"
+      },
+      {
+        "slug": "summon-heroes-roblox-reaper",
+        "file": "summon-heroes-roblox-reaper"
+      },
+      {
+        "slug": "summon-heroes-roblox-seraph",
+        "file": "summon-heroes-roblox-seraph"
+      },
+      {
+        "slug": "summon-heroes-roblox-sniper",
+        "file": "summon-heroes-roblox-sniper"
+      },
+      {
+        "slug": "summon-heroes-roblox-tank-commander",
+        "file": "summon-heroes-roblox-tank-commander"
+      },
+      {
+        "slug": "summon-heroes-roblox-technomancer",
+        "file": "summon-heroes-roblox-technomancer"
+      },
+      {
+        "slug": "summon-heroes-roblox-tierlist",
+        "file": "summon-heroes-roblox-tierlist"
+      },
+      {
+        "slug": "summon-heroes-roblox-units",
+        "file": "summon-heroes-roblox-units"
+      },
+      {
+        "slug": "summon-heroes-roblox",
+        "file": "summon-heroes-roblox"
+      },
+      {
+        "slug": "summon-heroes-tierlsit",
+        "file": "summon-heroes-tierlsit"
+      },
+      {
+        "slug": "technomancer-summon-heroes",
+        "file": "technomancer-summon-heroes"
+      },
+      {
+        "slug": "tier-summon-heroes",
+        "file": "tier-summon-heroes"
+      }
+    ],
+    "update": [
+      {
+        "slug": "summon-heroes-best-units",
+        "file": "summon-heroes-best-units"
+      },
+      {
+        "slug": "summon-heroes-hero-abilities",
+        "file": "summon-heroes-hero-abilities"
+      },
+      {
+        "slug": "summon-heroes-reddit",
+        "file": "summon-heroes-reddit"
+      },
+      {
+        "slug": "summon-heroes-roblox-console-update",
+        "file": "summon-heroes-roblox-console-update"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-map",
+        "file": "summon-heroes-roblox-new-map"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-mythic",
+        "file": "summon-heroes-roblox-new-mythic"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-units",
+        "file": "summon-heroes-roblox-new-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-sunset-city",
+        "file": "summon-heroes-roblox-sunset-city"
+      },
+      {
+        "slug": "summon-heroes-roblox-tournament-mode",
+        "file": "summon-heroes-roblox-tournament-mode"
+      },
+      {
+        "slug": "summon-heroes-roblox-update",
+        "file": "summon-heroes-roblox-update"
+      },
+      {
+        "slug": "summon-heroes-tips",
+        "file": "summon-heroes-tips"
+      }
+    ]
+  },
+  "ja": {
+    "codes": [
+      {
+        "slug": "bear-tamer-summon-heroes",
+        "file": "bear-tamer-summon-heroes"
+      },
+      {
+        "slug": "best-legendary-in-summon-heroes",
+        "file": "best-legendary-in-summon-heroes"
+      },
+      {
+        "slug": "best-units-in-summon-heroes",
+        "file": "best-units-in-summon-heroes"
+      },
+      {
+        "slug": "framerate-summon-heroes",
+        "file": "framerate-summon-heroes"
+      },
+      {
+        "slug": "hero-summon-roblox-tier-list",
+        "file": "hero-summon-roblox-tier-list"
+      },
+      {
+        "slug": "heroes-summon-tier-list",
+        "file": "heroes-summon-tier-list"
+      },
+      {
+        "slug": "how-to-get-summoner-supreme-in-an-average-campaign",
+        "file": "how-to-get-summoner-supreme-in-an-average-campaign"
+      },
+      {
+        "slug": "mythic-dungeon",
+        "file": "mythic-dungeon"
+      },
+      {
+        "slug": "roblox-summon-heroes-best-team",
+        "file": "roblox-summon-heroes-best-team"
+      },
+      {
+        "slug": "roblox-summon-heroes-tier",
+        "file": "roblox-summon-heroes-tier"
+      },
+      {
+        "slug": "seraph-summon-heroes",
+        "file": "seraph-summon-heroes"
+      },
+      {
+        "slug": "summon-a-hero-tier-list",
+        "file": "summon-a-hero-tier-list"
+      },
+      {
+        "slug": "summon-heroes-banner",
+        "file": "summon-heroes-banner"
+      },
+      {
+        "slug": "summon-heroes-best-team",
+        "file": "summon-heroes-best-team"
+      },
+      {
+        "slug": "summon-heroes-code",
+        "file": "summon-heroes-code"
+      },
+      {
+        "slug": "summon-heroes-codes",
+        "file": "summon-heroes-codes"
+      },
+      {
+        "slug": "summon-heroes-guide",
+        "file": "summon-heroes-guide"
+      },
+      {
+        "slug": "summon-heroes-hero-stats",
+        "file": "summon-heroes-hero-stats"
+      },
+      {
+        "slug": "summon-heroes-how-to-get-gems",
+        "file": "summon-heroes-how-to-get-gems"
+      },
+      {
+        "slug": "summon-heroes-how-to-use-mythic-shards",
+        "file": "summon-heroes-how-to-use-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-meta",
+        "file": "summon-heroes-meta"
+      },
+      {
+        "slug": "summon-heroes-mythic-shard",
+        "file": "summon-heroes-mythic-shard"
+      },
+      {
+        "slug": "summon-heroes-mythic-shards",
+        "file": "summon-heroes-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-mythic",
+        "file": "summon-heroes-mythic"
+      },
+      {
+        "slug": "summon-heroes-reaper",
+        "file": "summon-heroes-reaper"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-heroes",
+        "file": "summon-heroes-roblox-best-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-codes",
+        "file": "summon-heroes-roblox-codes"
+      },
+      {
+        "slug": "summon-heroes-seraph",
+        "file": "summon-heroes-seraph"
+      },
+      {
+        "slug": "summon-heroes-stats",
+        "file": "summon-heroes-stats"
+      },
+      {
+        "slug": "summon-heroes-tier-list-2026",
+        "file": "summon-heroes-tier-list-2026"
+      },
+      {
+        "slug": "summon-heroes-tier-list-pve",
+        "file": "summon-heroes-tier-list-pve"
+      },
+      {
+        "slug": "summon-heroes-tier-list",
+        "file": "summon-heroes-tier-list"
+      },
+      {
+        "slug": "summon-heroes-tier",
+        "file": "summon-heroes-tier"
+      },
+      {
+        "slug": "summon-heroes-wiki-roblox",
+        "file": "summon-heroes-wiki-roblox"
+      },
+      {
+        "slug": "summon-heroes-wiki",
+        "file": "summon-heroes-wiki"
+      },
+      {
+        "slug": "summon-heros-code",
+        "file": "summon-heros-code"
+      },
+      {
+        "slug": "summon-heros-codes-roblox",
+        "file": "summon-heros-codes-roblox"
+      },
+      {
+        "slug": "summon-heros-wiki",
+        "file": "summon-heros-wiki"
+      },
+      {
+        "slug": "summoner-hero-tier-list",
+        "file": "summoner-hero-tier-list"
+      },
+      {
+        "slug": "sumon-heros-codes",
+        "file": "sumon-heros-codes"
+      },
+      {
+        "slug": "tier-list-summon-hero-roblox",
+        "file": "tier-list-summon-hero-roblox"
+      },
+      {
+        "slug": "tierlist-summon-heroes-roblox",
+        "file": "tierlist-summon-heroes-roblox"
+      },
+      {
+        "slug": "what-is-the-best-legendary-in-summon-heroes",
+        "file": "what-is-the-best-legendary-in-summon-heroes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "summon-heroes-beginner-guide",
+        "file": "summon-heroes-beginner-guide"
+      },
+      {
+        "slug": "summon-heroes-discord",
+        "file": "summon-heroes-discord"
+      },
+      {
+        "slug": "summon-heroes-event-guide",
+        "file": "summon-heroes-event-guide"
+      },
+      {
+        "slug": "summon-heroes-how-to-unlock-heroes",
+        "file": "summon-heroes-how-to-unlock-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord-link",
+        "file": "summon-heroes-roblox-discord-link"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord-server",
+        "file": "summon-heroes-roblox-discord-server"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord",
+        "file": "summon-heroes-roblox-discord"
+      },
+      {
+        "slug": "summon-heroes-roblox-trello",
+        "file": "summon-heroes-roblox-trello"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "summon-heroes-daily-quests",
+        "file": "summon-heroes-daily-quests"
+      },
+      {
+        "slug": "summon-heroes-legendary-heroes",
+        "file": "summon-heroes-legendary-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-afk-farm",
+        "file": "summon-heroes-roblox-afk-farm"
+      },
+      {
+        "slug": "summon-heroes-roblox-chest-farm",
+        "file": "summon-heroes-roblox-chest-farm"
+      },
+      {
+        "slug": "summon-heroes-roblox-level-100",
+        "file": "summon-heroes-roblox-level-100"
+      },
+      {
+        "slug": "summon-heroes-roblox-level-fast",
+        "file": "summon-heroes-roblox-level-fast"
+      },
+      {
+        "slug": "summon-heroes-roblox-mythic-shards",
+        "file": "summon-heroes-roblox-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-roblox-starter-units",
+        "file": "summon-heroes-roblox-starter-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier",
+        "file": "summon-heroes-roblox-tier"
+      },
+      {
+        "slug": "summon-heroes-working-codes",
+        "file": "summon-heroes-working-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "best-legendary-in-summon-heroes-roblox",
+        "file": "best-legendary-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "how-to-use-mythic-shard-in-summon-heroes",
+        "file": "how-to-use-mythic-shard-in-summon-heroes"
+      },
+      {
+        "slug": "mythic-shard-summon-heroes",
+        "file": "mythic-shard-summon-heroes"
+      },
+      {
+        "slug": "reaper-summon-heroes",
+        "file": "reaper-summon-heroes"
+      },
+      {
+        "slug": "summon-heroes-best-heroes",
+        "file": "summon-heroes-best-heroes"
+      },
+      {
+        "slug": "summon-heroes-codes-2026",
+        "file": "summon-heroes-codes-2026"
+      },
+      {
+        "slug": "summon-heroes-codes-wiki",
+        "file": "summon-heroes-codes-wiki"
+      },
+      {
+        "slug": "summon-heroes-how-to-farm-gold",
+        "file": "summon-heroes-how-to-farm-gold"
+      },
+      {
+        "slug": "summon-heroes-how-to-use-mythic-shard",
+        "file": "summon-heroes-how-to-use-mythic-shard"
+      },
+      {
+        "slug": "summon-heroes-latest-update",
+        "file": "summon-heroes-latest-update"
+      },
+      {
+        "slug": "summon-heroes-roblox-beginner-guide",
+        "file": "summon-heroes-roblox-beginner-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-team",
+        "file": "summon-heroes-roblox-best-team"
+      },
+      {
+        "slug": "summon-heroes-roblox-evercrest-solo",
+        "file": "summon-heroes-roblox-evercrest-solo"
+      },
+      {
+        "slug": "summon-heroes-roblox-guide",
+        "file": "summon-heroes-roblox-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-how-to-play",
+        "file": "summon-heroes-roblox-how-to-play"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-player-guide",
+        "file": "summon-heroes-roblox-new-player-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-tips",
+        "file": "summon-heroes-roblox-tips"
+      },
+      {
+        "slug": "summon-heroes-strongest-characters",
+        "file": "summon-heroes-strongest-characters"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "hero-summon-tier-list",
+        "file": "hero-summon-tier-list"
+      },
+      {
+        "slug": "roblox-summon-hero-tier-list",
+        "file": "roblox-summon-hero-tier-list"
+      },
+      {
+        "slug": "roblox-summon-heroes-tier-list",
+        "file": "roblox-summon-heroes-tier-list"
+      },
+      {
+        "slug": "summon-hero-roblox-tier-list",
+        "file": "summon-hero-roblox-tier-list"
+      },
+      {
+        "slug": "summon-hero-tier-list-roblox",
+        "file": "summon-hero-tier-list-roblox"
+      },
+      {
+        "slug": "summon-hero-tier-list",
+        "file": "summon-hero-tier-list"
+      },
+      {
+        "slug": "summon-hero-tierlist",
+        "file": "summon-hero-tierlist"
+      },
+      {
+        "slug": "summon-heroes-fastest-way-to-level-up",
+        "file": "summon-heroes-fastest-way-to-level-up"
+      },
+      {
+        "slug": "summon-heroes-hero-tier-list",
+        "file": "summon-heroes-hero-tier-list"
+      },
+      {
+        "slug": "summon-heroes-redeem-codes",
+        "file": "summon-heroes-redeem-codes"
+      },
+      {
+        "slug": "summon-heroes-reroll-guide",
+        "file": "summon-heroes-reroll-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-legendary",
+        "file": "summon-heroes-roblox-best-legendary"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-units",
+        "file": "summon-heroes-roblox-best-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-lvl-100-tier-list",
+        "file": "summon-heroes-roblox-lvl-100-tier-list"
+      },
+      {
+        "slug": "summon-heroes-roblox-meta",
+        "file": "summon-heroes-roblox-meta"
+      },
+      {
+        "slug": "summon-heroes-roblox-pve-tier-list",
+        "file": "summon-heroes-roblox-pve-tier-list"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list-2026",
+        "file": "summon-heroes-roblox-tier-list-2026"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list-april-2026",
+        "file": "summon-heroes-roblox-tier-list-april-2026"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list",
+        "file": "summon-heroes-roblox-tier-list"
+      },
+      {
+        "slug": "summon-heroes-tier-list-pvp",
+        "file": "summon-heroes-tier-list-pvp"
+      },
+      {
+        "slug": "summon-heroes-tier-list-roblox",
+        "file": "summon-heroes-tier-list-roblox"
+      },
+      {
+        "slug": "summon-heroes-tierlist",
+        "file": "summon-heroes-tierlist"
+      },
+      {
+        "slug": "summon-heroes-top-picks",
+        "file": "summon-heroes-top-picks"
+      },
+      {
+        "slug": "summon-heroes-unit-tier-list",
+        "file": "summon-heroes-unit-tier-list"
+      },
+      {
+        "slug": "summon-heros-tier-list",
+        "file": "summon-heros-tier-list"
+      },
+      {
+        "slug": "tier-list-summon-heroes-roblox",
+        "file": "tier-list-summon-heroes-roblox"
+      },
+      {
+        "slug": "tier-list-summon-heroes",
+        "file": "tier-list-summon-heroes"
+      },
+      {
+        "slug": "tierlist-summon-heroes",
+        "file": "tierlist-summon-heroes"
+      }
+    ],
+    "units": [
+      {
+        "slug": "best-heroes-in-summon-heroes-roblox",
+        "file": "best-heroes-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "best-unit-in-summon-heroes",
+        "file": "best-unit-in-summon-heroes"
+      },
+      {
+        "slug": "best-units-in-summon-heroes-roblox",
+        "file": "best-units-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "summon-hero-tier",
+        "file": "summon-hero-tier"
+      },
+      {
+        "slug": "summon-hero-wiki",
+        "file": "summon-hero-wiki"
+      },
+      {
+        "slug": "summon-heroes-active-codes",
+        "file": "summon-heroes-active-codes"
+      },
+      {
+        "slug": "summon-heroes-bear-tamer",
+        "file": "summon-heroes-bear-tamer"
+      },
+      {
+        "slug": "summon-heroes-chest-locations",
+        "file": "summon-heroes-chest-locations"
+      },
+      {
+        "slug": "summon-heroes-emperor",
+        "file": "summon-heroes-emperor"
+      },
+      {
+        "slug": "summon-heroes-fusion",
+        "file": "summon-heroes-fusion"
+      },
+      {
+        "slug": "summon-heroes-pvp-guide",
+        "file": "summon-heroes-pvp-guide"
+      },
+      {
+        "slug": "summon-heroes-ranking",
+        "file": "summon-heroes-ranking"
+      },
+      {
+        "slug": "summon-heroes-resource-farming",
+        "file": "summon-heroes-resource-farming"
+      },
+      {
+        "slug": "summon-heroes-roblox-abyss-lord",
+        "file": "summon-heroes-roblox-abyss-lord"
+      },
+      {
+        "slug": "summon-heroes-roblox-all-units",
+        "file": "summon-heroes-roblox-all-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-bear-tamer",
+        "file": "summon-heroes-roblox-bear-tamer"
+      },
+      {
+        "slug": "summon-heroes-roblox-construct",
+        "file": "summon-heroes-roblox-construct"
+      },
+      {
+        "slug": "summon-heroes-roblox-demon-knight",
+        "file": "summon-heroes-roblox-demon-knight"
+      },
+      {
+        "slug": "summon-heroes-roblox-healer",
+        "file": "summon-heroes-roblox-healer"
+      },
+      {
+        "slug": "summon-heroes-roblox-mythic",
+        "file": "summon-heroes-roblox-mythic"
+      },
+      {
+        "slug": "summon-heroes-roblox-ninja",
+        "file": "summon-heroes-roblox-ninja"
+      },
+      {
+        "slug": "summon-heroes-roblox-ranger",
+        "file": "summon-heroes-roblox-ranger"
+      },
+      {
+        "slug": "summon-heroes-roblox-reaper",
+        "file": "summon-heroes-roblox-reaper"
+      },
+      {
+        "slug": "summon-heroes-roblox-seraph",
+        "file": "summon-heroes-roblox-seraph"
+      },
+      {
+        "slug": "summon-heroes-roblox-sniper",
+        "file": "summon-heroes-roblox-sniper"
+      },
+      {
+        "slug": "summon-heroes-roblox-tank-commander",
+        "file": "summon-heroes-roblox-tank-commander"
+      },
+      {
+        "slug": "summon-heroes-roblox-technomancer",
+        "file": "summon-heroes-roblox-technomancer"
+      },
+      {
+        "slug": "summon-heroes-roblox-tierlist",
+        "file": "summon-heroes-roblox-tierlist"
+      },
+      {
+        "slug": "summon-heroes-roblox-units",
+        "file": "summon-heroes-roblox-units"
+      },
+      {
+        "slug": "summon-heroes-roblox",
+        "file": "summon-heroes-roblox"
+      },
+      {
+        "slug": "summon-heroes-tierlsit",
+        "file": "summon-heroes-tierlsit"
+      },
+      {
+        "slug": "technomancer-summon-heroes",
+        "file": "technomancer-summon-heroes"
+      },
+      {
+        "slug": "tier-summon-heroes",
+        "file": "tier-summon-heroes"
+      }
+    ],
+    "update": [
+      {
+        "slug": "summon-heroes-best-units",
+        "file": "summon-heroes-best-units"
+      },
+      {
+        "slug": "summon-heroes-hero-abilities",
+        "file": "summon-heroes-hero-abilities"
+      },
+      {
+        "slug": "summon-heroes-reddit",
+        "file": "summon-heroes-reddit"
+      },
+      {
+        "slug": "summon-heroes-roblox-console-update",
+        "file": "summon-heroes-roblox-console-update"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-map",
+        "file": "summon-heroes-roblox-new-map"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-mythic",
+        "file": "summon-heroes-roblox-new-mythic"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-units",
+        "file": "summon-heroes-roblox-new-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-sunset-city",
+        "file": "summon-heroes-roblox-sunset-city"
+      },
+      {
+        "slug": "summon-heroes-roblox-tournament-mode",
+        "file": "summon-heroes-roblox-tournament-mode"
+      },
+      {
+        "slug": "summon-heroes-roblox-update",
+        "file": "summon-heroes-roblox-update"
+      },
+      {
+        "slug": "summon-heroes-tips",
+        "file": "summon-heroes-tips"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "bear-tamer-summon-heroes",
+        "file": "bear-tamer-summon-heroes"
+      },
+      {
+        "slug": "best-legendary-in-summon-heroes",
+        "file": "best-legendary-in-summon-heroes"
+      },
+      {
+        "slug": "best-units-in-summon-heroes",
+        "file": "best-units-in-summon-heroes"
+      },
+      {
+        "slug": "framerate-summon-heroes",
+        "file": "framerate-summon-heroes"
+      },
+      {
+        "slug": "hero-summon-roblox-tier-list",
+        "file": "hero-summon-roblox-tier-list"
+      },
+      {
+        "slug": "heroes-summon-tier-list",
+        "file": "heroes-summon-tier-list"
+      },
+      {
+        "slug": "how-to-get-summoner-supreme-in-an-average-campaign",
+        "file": "how-to-get-summoner-supreme-in-an-average-campaign"
+      },
+      {
+        "slug": "mythic-dungeon",
+        "file": "mythic-dungeon"
+      },
+      {
+        "slug": "roblox-summon-heroes-best-team",
+        "file": "roblox-summon-heroes-best-team"
+      },
+      {
+        "slug": "roblox-summon-heroes-tier",
+        "file": "roblox-summon-heroes-tier"
+      },
+      {
+        "slug": "seraph-summon-heroes",
+        "file": "seraph-summon-heroes"
+      },
+      {
+        "slug": "summon-a-hero-tier-list",
+        "file": "summon-a-hero-tier-list"
+      },
+      {
+        "slug": "summon-heroes-banner",
+        "file": "summon-heroes-banner"
+      },
+      {
+        "slug": "summon-heroes-best-team",
+        "file": "summon-heroes-best-team"
+      },
+      {
+        "slug": "summon-heroes-code",
+        "file": "summon-heroes-code"
+      },
+      {
+        "slug": "summon-heroes-codes",
+        "file": "summon-heroes-codes"
+      },
+      {
+        "slug": "summon-heroes-guide",
+        "file": "summon-heroes-guide"
+      },
+      {
+        "slug": "summon-heroes-hero-stats",
+        "file": "summon-heroes-hero-stats"
+      },
+      {
+        "slug": "summon-heroes-how-to-get-gems",
+        "file": "summon-heroes-how-to-get-gems"
+      },
+      {
+        "slug": "summon-heroes-how-to-use-mythic-shards",
+        "file": "summon-heroes-how-to-use-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-meta",
+        "file": "summon-heroes-meta"
+      },
+      {
+        "slug": "summon-heroes-mythic-shard",
+        "file": "summon-heroes-mythic-shard"
+      },
+      {
+        "slug": "summon-heroes-mythic-shards",
+        "file": "summon-heroes-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-mythic",
+        "file": "summon-heroes-mythic"
+      },
+      {
+        "slug": "summon-heroes-reaper",
+        "file": "summon-heroes-reaper"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-heroes",
+        "file": "summon-heroes-roblox-best-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-codes",
+        "file": "summon-heroes-roblox-codes"
+      },
+      {
+        "slug": "summon-heroes-seraph",
+        "file": "summon-heroes-seraph"
+      },
+      {
+        "slug": "summon-heroes-stats",
+        "file": "summon-heroes-stats"
+      },
+      {
+        "slug": "summon-heroes-tier-list-2026",
+        "file": "summon-heroes-tier-list-2026"
+      },
+      {
+        "slug": "summon-heroes-tier-list-pve",
+        "file": "summon-heroes-tier-list-pve"
+      },
+      {
+        "slug": "summon-heroes-tier-list",
+        "file": "summon-heroes-tier-list"
+      },
+      {
+        "slug": "summon-heroes-tier",
+        "file": "summon-heroes-tier"
+      },
+      {
+        "slug": "summon-heroes-wiki-roblox",
+        "file": "summon-heroes-wiki-roblox"
+      },
+      {
+        "slug": "summon-heroes-wiki",
+        "file": "summon-heroes-wiki"
+      },
+      {
+        "slug": "summon-heros-code",
+        "file": "summon-heros-code"
+      },
+      {
+        "slug": "summon-heros-codes-roblox",
+        "file": "summon-heros-codes-roblox"
+      },
+      {
+        "slug": "summon-heros-wiki",
+        "file": "summon-heros-wiki"
+      },
+      {
+        "slug": "summoner-hero-tier-list",
+        "file": "summoner-hero-tier-list"
+      },
+      {
+        "slug": "sumon-heros-codes",
+        "file": "sumon-heros-codes"
+      },
+      {
+        "slug": "tier-list-summon-hero-roblox",
+        "file": "tier-list-summon-hero-roblox"
+      },
+      {
+        "slug": "tierlist-summon-heroes-roblox",
+        "file": "tierlist-summon-heroes-roblox"
+      },
+      {
+        "slug": "what-is-the-best-legendary-in-summon-heroes",
+        "file": "what-is-the-best-legendary-in-summon-heroes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "summon-heroes-beginner-guide",
+        "file": "summon-heroes-beginner-guide"
+      },
+      {
+        "slug": "summon-heroes-discord",
+        "file": "summon-heroes-discord"
+      },
+      {
+        "slug": "summon-heroes-event-guide",
+        "file": "summon-heroes-event-guide"
+      },
+      {
+        "slug": "summon-heroes-how-to-unlock-heroes",
+        "file": "summon-heroes-how-to-unlock-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord-link",
+        "file": "summon-heroes-roblox-discord-link"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord-server",
+        "file": "summon-heroes-roblox-discord-server"
+      },
+      {
+        "slug": "summon-heroes-roblox-discord",
+        "file": "summon-heroes-roblox-discord"
+      },
+      {
+        "slug": "summon-heroes-roblox-trello",
+        "file": "summon-heroes-roblox-trello"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "summon-heroes-daily-quests",
+        "file": "summon-heroes-daily-quests"
+      },
+      {
+        "slug": "summon-heroes-legendary-heroes",
+        "file": "summon-heroes-legendary-heroes"
+      },
+      {
+        "slug": "summon-heroes-roblox-afk-farm",
+        "file": "summon-heroes-roblox-afk-farm"
+      },
+      {
+        "slug": "summon-heroes-roblox-chest-farm",
+        "file": "summon-heroes-roblox-chest-farm"
+      },
+      {
+        "slug": "summon-heroes-roblox-level-100",
+        "file": "summon-heroes-roblox-level-100"
+      },
+      {
+        "slug": "summon-heroes-roblox-level-fast",
+        "file": "summon-heroes-roblox-level-fast"
+      },
+      {
+        "slug": "summon-heroes-roblox-mythic-shards",
+        "file": "summon-heroes-roblox-mythic-shards"
+      },
+      {
+        "slug": "summon-heroes-roblox-starter-units",
+        "file": "summon-heroes-roblox-starter-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier",
+        "file": "summon-heroes-roblox-tier"
+      },
+      {
+        "slug": "summon-heroes-working-codes",
+        "file": "summon-heroes-working-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "best-legendary-in-summon-heroes-roblox",
+        "file": "best-legendary-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "how-to-use-mythic-shard-in-summon-heroes",
+        "file": "how-to-use-mythic-shard-in-summon-heroes"
+      },
+      {
+        "slug": "mythic-shard-summon-heroes",
+        "file": "mythic-shard-summon-heroes"
+      },
+      {
+        "slug": "reaper-summon-heroes",
+        "file": "reaper-summon-heroes"
+      },
+      {
+        "slug": "summon-heroes-best-heroes",
+        "file": "summon-heroes-best-heroes"
+      },
+      {
+        "slug": "summon-heroes-codes-2026",
+        "file": "summon-heroes-codes-2026"
+      },
+      {
+        "slug": "summon-heroes-codes-wiki",
+        "file": "summon-heroes-codes-wiki"
+      },
+      {
+        "slug": "summon-heroes-how-to-farm-gold",
+        "file": "summon-heroes-how-to-farm-gold"
+      },
+      {
+        "slug": "summon-heroes-how-to-use-mythic-shard",
+        "file": "summon-heroes-how-to-use-mythic-shard"
+      },
+      {
+        "slug": "summon-heroes-latest-update",
+        "file": "summon-heroes-latest-update"
+      },
+      {
+        "slug": "summon-heroes-roblox-beginner-guide",
+        "file": "summon-heroes-roblox-beginner-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-team",
+        "file": "summon-heroes-roblox-best-team"
+      },
+      {
+        "slug": "summon-heroes-roblox-evercrest-solo",
+        "file": "summon-heroes-roblox-evercrest-solo"
+      },
+      {
+        "slug": "summon-heroes-roblox-guide",
+        "file": "summon-heroes-roblox-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-how-to-play",
+        "file": "summon-heroes-roblox-how-to-play"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-player-guide",
+        "file": "summon-heroes-roblox-new-player-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-tips",
+        "file": "summon-heroes-roblox-tips"
+      },
+      {
+        "slug": "summon-heroes-strongest-characters",
+        "file": "summon-heroes-strongest-characters"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "hero-summon-tier-list",
+        "file": "hero-summon-tier-list"
+      },
+      {
+        "slug": "roblox-summon-hero-tier-list",
+        "file": "roblox-summon-hero-tier-list"
+      },
+      {
+        "slug": "roblox-summon-heroes-tier-list",
+        "file": "roblox-summon-heroes-tier-list"
+      },
+      {
+        "slug": "summon-hero-roblox-tier-list",
+        "file": "summon-hero-roblox-tier-list"
+      },
+      {
+        "slug": "summon-hero-tier-list-roblox",
+        "file": "summon-hero-tier-list-roblox"
+      },
+      {
+        "slug": "summon-hero-tier-list",
+        "file": "summon-hero-tier-list"
+      },
+      {
+        "slug": "summon-hero-tierlist",
+        "file": "summon-hero-tierlist"
+      },
+      {
+        "slug": "summon-heroes-fastest-way-to-level-up",
+        "file": "summon-heroes-fastest-way-to-level-up"
+      },
+      {
+        "slug": "summon-heroes-hero-tier-list",
+        "file": "summon-heroes-hero-tier-list"
+      },
+      {
+        "slug": "summon-heroes-redeem-codes",
+        "file": "summon-heroes-redeem-codes"
+      },
+      {
+        "slug": "summon-heroes-reroll-guide",
+        "file": "summon-heroes-reroll-guide"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-legendary",
+        "file": "summon-heroes-roblox-best-legendary"
+      },
+      {
+        "slug": "summon-heroes-roblox-best-units",
+        "file": "summon-heroes-roblox-best-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-lvl-100-tier-list",
+        "file": "summon-heroes-roblox-lvl-100-tier-list"
+      },
+      {
+        "slug": "summon-heroes-roblox-meta",
+        "file": "summon-heroes-roblox-meta"
+      },
+      {
+        "slug": "summon-heroes-roblox-pve-tier-list",
+        "file": "summon-heroes-roblox-pve-tier-list"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list-2026",
+        "file": "summon-heroes-roblox-tier-list-2026"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list-april-2026",
+        "file": "summon-heroes-roblox-tier-list-april-2026"
+      },
+      {
+        "slug": "summon-heroes-roblox-tier-list",
+        "file": "summon-heroes-roblox-tier-list"
+      },
+      {
+        "slug": "summon-heroes-tier-list-pvp",
+        "file": "summon-heroes-tier-list-pvp"
+      },
+      {
+        "slug": "summon-heroes-tier-list-roblox",
+        "file": "summon-heroes-tier-list-roblox"
+      },
+      {
+        "slug": "summon-heroes-tierlist",
+        "file": "summon-heroes-tierlist"
+      },
+      {
+        "slug": "summon-heroes-top-picks",
+        "file": "summon-heroes-top-picks"
+      },
+      {
+        "slug": "summon-heroes-unit-tier-list",
+        "file": "summon-heroes-unit-tier-list"
+      },
+      {
+        "slug": "summon-heros-tier-list",
+        "file": "summon-heros-tier-list"
+      },
+      {
+        "slug": "tier-list-summon-heroes-roblox",
+        "file": "tier-list-summon-heroes-roblox"
+      },
+      {
+        "slug": "tier-list-summon-heroes",
+        "file": "tier-list-summon-heroes"
+      },
+      {
+        "slug": "tierlist-summon-heroes",
+        "file": "tierlist-summon-heroes"
+      }
+    ],
+    "units": [
+      {
+        "slug": "best-heroes-in-summon-heroes-roblox",
+        "file": "best-heroes-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "best-unit-in-summon-heroes",
+        "file": "best-unit-in-summon-heroes"
+      },
+      {
+        "slug": "best-units-in-summon-heroes-roblox",
+        "file": "best-units-in-summon-heroes-roblox"
+      },
+      {
+        "slug": "summon-hero-tier",
+        "file": "summon-hero-tier"
+      },
+      {
+        "slug": "summon-hero-wiki",
+        "file": "summon-hero-wiki"
+      },
+      {
+        "slug": "summon-heroes-active-codes",
+        "file": "summon-heroes-active-codes"
+      },
+      {
+        "slug": "summon-heroes-bear-tamer",
+        "file": "summon-heroes-bear-tamer"
+      },
+      {
+        "slug": "summon-heroes-chest-locations",
+        "file": "summon-heroes-chest-locations"
+      },
+      {
+        "slug": "summon-heroes-emperor",
+        "file": "summon-heroes-emperor"
+      },
+      {
+        "slug": "summon-heroes-fusion",
+        "file": "summon-heroes-fusion"
+      },
+      {
+        "slug": "summon-heroes-pvp-guide",
+        "file": "summon-heroes-pvp-guide"
+      },
+      {
+        "slug": "summon-heroes-ranking",
+        "file": "summon-heroes-ranking"
+      },
+      {
+        "slug": "summon-heroes-resource-farming",
+        "file": "summon-heroes-resource-farming"
+      },
+      {
+        "slug": "summon-heroes-roblox-abyss-lord",
+        "file": "summon-heroes-roblox-abyss-lord"
+      },
+      {
+        "slug": "summon-heroes-roblox-all-units",
+        "file": "summon-heroes-roblox-all-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-bear-tamer",
+        "file": "summon-heroes-roblox-bear-tamer"
+      },
+      {
+        "slug": "summon-heroes-roblox-construct",
+        "file": "summon-heroes-roblox-construct"
+      },
+      {
+        "slug": "summon-heroes-roblox-demon-knight",
+        "file": "summon-heroes-roblox-demon-knight"
+      },
+      {
+        "slug": "summon-heroes-roblox-healer",
+        "file": "summon-heroes-roblox-healer"
+      },
+      {
+        "slug": "summon-heroes-roblox-mythic",
+        "file": "summon-heroes-roblox-mythic"
+      },
+      {
+        "slug": "summon-heroes-roblox-ninja",
+        "file": "summon-heroes-roblox-ninja"
+      },
+      {
+        "slug": "summon-heroes-roblox-ranger",
+        "file": "summon-heroes-roblox-ranger"
+      },
+      {
+        "slug": "summon-heroes-roblox-reaper",
+        "file": "summon-heroes-roblox-reaper"
+      },
+      {
+        "slug": "summon-heroes-roblox-seraph",
+        "file": "summon-heroes-roblox-seraph"
+      },
+      {
+        "slug": "summon-heroes-roblox-sniper",
+        "file": "summon-heroes-roblox-sniper"
+      },
+      {
+        "slug": "summon-heroes-roblox-tank-commander",
+        "file": "summon-heroes-roblox-tank-commander"
+      },
+      {
+        "slug": "summon-heroes-roblox-technomancer",
+        "file": "summon-heroes-roblox-technomancer"
+      },
+      {
+        "slug": "summon-heroes-roblox-tierlist",
+        "file": "summon-heroes-roblox-tierlist"
+      },
+      {
+        "slug": "summon-heroes-roblox-units",
+        "file": "summon-heroes-roblox-units"
+      },
+      {
+        "slug": "summon-heroes-roblox",
+        "file": "summon-heroes-roblox"
+      },
+      {
+        "slug": "summon-heroes-tierlsit",
+        "file": "summon-heroes-tierlsit"
+      },
+      {
+        "slug": "technomancer-summon-heroes",
+        "file": "technomancer-summon-heroes"
+      },
+      {
+        "slug": "tier-summon-heroes",
+        "file": "tier-summon-heroes"
+      }
+    ],
+    "update": [
+      {
+        "slug": "summon-heroes-best-units",
+        "file": "summon-heroes-best-units"
+      },
+      {
+        "slug": "summon-heroes-hero-abilities",
+        "file": "summon-heroes-hero-abilities"
+      },
+      {
+        "slug": "summon-heroes-reddit",
+        "file": "summon-heroes-reddit"
+      },
+      {
+        "slug": "summon-heroes-roblox-console-update",
+        "file": "summon-heroes-roblox-console-update"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-map",
+        "file": "summon-heroes-roblox-new-map"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-mythic",
+        "file": "summon-heroes-roblox-new-mythic"
+      },
+      {
+        "slug": "summon-heroes-roblox-new-units",
+        "file": "summon-heroes-roblox-new-units"
+      },
+      {
+        "slug": "summon-heroes-roblox-sunset-city",
+        "file": "summon-heroes-roblox-sunset-city"
+      },
+      {
+        "slug": "summon-heroes-roblox-tournament-mode",
+        "file": "summon-heroes-roblox-tournament-mode"
+      },
+      {
+        "slug": "summon-heroes-roblox-update",
+        "file": "summon-heroes-roblox-update"
+      },
+      {
+        "slug": "summon-heroes-tips",
+        "file": "summon-heroes-tips"
+      }
+    ]
+  }
+}
